@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 313
+layout: post
+title: Bionade skaliert nicht.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=313
+---
+In meinem <a href="http://www.qype.com/place/224-Erdkorn-GmbH-Hamburg"  title="qype.com">Bio-Supermarkt</a> klebt neben ein paar einsamen Bionade-Kräuter-Flaschen ein Zettel an der Wand, auf dem sich die <a href="http://www.bionade.com"  title="Bionade">Bionade GmbH</a> wortreich für die Lieferengpässe entschuldigt.
+
+In solchen Momenten bin ich recht froh, das ich in der IT-Branche unterwegs bin. Bei uns lassen sich Skalierungsprobleme (Vorausgesetzt, die Architektur ist nicht vollkommen idiotisch aufgesetzt) ja meist recht elegant (wenn auch nicht immer billig) mit relativ geringem Aufwand fixen. Sei es durch THAI (Throwing Hardware At It) oder durch den Austausch von Komponenten, Optimierung, Refactoring, whatever.
+
+Bestimmte Probleme bei der Getränkherstellungsskalierung lassen sich sicher auch durch THAI lösen, z.B. durch die Anschaffung neuer Gärtanks, oder dem Ausbau der Abfüllungsanlage (Ganz abgesehen davon, das es ein erheblicher Unterschied ist, ob man im RZ der Wahl ein neues Rack anmietet, oder ob man eine neue Produktionshalle bauen muss...), das größte Problem dürfte allerdings sein, die entsprechende Menge an Rohstoffen zu bekommen, zumal in Bio-Qualität und so.
+
+Ich drücke (als Bionade-Kräuter-Fan) der Bionade GmbH die Daumen, daß sie ihre Probleme möglichst schnell in den Griff bekommen ohne daß die Qualität und der Bio-Anspruch darunter leiden muß.

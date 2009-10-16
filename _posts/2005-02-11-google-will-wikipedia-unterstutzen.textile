@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 149
+layout: post
+title: "Google will Wikipedia unterst\xFCtzen"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=149
+---
+Eigentlich ein ziemlich logischer Schritt. Was gibt es besseres f&uuml;r Google als sowas wie Wikipedia, eine Masse an "gutem" Content, der zu unglaublich vielen Stichworten extrem relevante Ergebnisse bietet. Damit schafft man ein gutes Gegengewicht gegen die Suchspammer. Abgesehen davon zeigt Google damit mal wieder, wie fies redundant die Infrastruktur scheinbar ausgelegt ist.<br />
+<br />
+Alles in allem: Wenn man das in vern&uuml;nftigen Vertr&auml;gen ohne gro&szlig;e Zugest&auml;ndnisse geregelt bekommt, kann beiden Seiten nix besseres passieren.<br />
+<br />
+[via <a href="http://www.golem.de/0502/36251.html">Golem</a>]

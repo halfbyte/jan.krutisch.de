@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 130
+layout: post
+title: what the...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=130
+---
+<a href="http://www.zorno.de/tagebuch/eintraege/2004-11/1101763302.html">Obdachlose machen Werbung f&uuml;r Edel-Oliven&ouml;l</a>.<br />
+<br />
+Definition by Example f&uuml;r meine wtf-Kategorie. (und, wie man am Datum sieht, schon sehr alt, aber egal)<br />
+<br />
+[via <a href="http://www.furl.net/members/Moe_#2004-12-21">moe's furl-links</a>]

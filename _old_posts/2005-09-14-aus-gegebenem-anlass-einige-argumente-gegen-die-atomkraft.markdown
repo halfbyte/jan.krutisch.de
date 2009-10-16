@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 207
+layout: post
+title: "Aus gegebenem Anlass: Einige Argumente GEGEN die Atomkraft"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=207
+---
+Um meinem Image als Fachmann (Ich bin Dipl.-Ing. (FH) der Umwelttechnik) gerecht zu werden, nochmal ein paar fundierte Argumente gegen die Atomkraft:
+
+<!--more-->Wenn ich sage, die Entsorgung ist nicht geklärt, dann meine ich das so. Es gibt momentan *weltweit* kein genehmigtes *Endlager* für hoch radioaktive Abfälle! Transporte zu Aufbereitungsanlagen sind umstritten, die Aufbereitung selber ist ein sehr dreckiges Geschäft. Die Umgebungen von La Hague und Sellafield sind auf Jahrhunderte geprägt durch die (immer noch) vorhandene Verseuchung. Die Emission von radioaktiven Stoffen von den beiden Stätten ist so hoch, das Meeresforscher die Strahlung zur Vermessung von Meeresströmungen in Nord- und Ostsee nutzen können. 
+
+Atomkraft ist teuer. Ein Zitat von <a href="http://www.blaetter-online.de/artikel.php?pr=2127">hier</a>:
+<blockquote>Allein in der Bundesrepublik wurde die Atomenergie seit den 50er Jahren mit nahezu 100 Mrd. Euro subventioniert, wenn man die beliebig verwendbaren steuerfreien Rückstellungen und die Steuerfreiheit der Atombrennstoffe mit berücksichtigt.</blockquote>
+Atomkraft ist, aufgrund der hohen Investitionsvolumens für den Bau eines Reaktors lediglich für zentrale Versorgung zu gebrauchen. Dies wiederum verhindert den Einsatz von Kraft-Wärme-Kopplung, also die Ausnutzung der Restwärme durch Auslieferung als Fernwärme. Der Wirkungsgrad der Stromerzeugung in Atomkraftwerken ist dadurch als Miserabel zu bezeichnen. Blöde Nebenwirkung: Die Einleitung von zu warmen Kühlwasser in den Fluss, aus dem das Kühlwasser entnommen wird führt oft zu Schäden am ökologischen Gleichgewicht.
+
+Atomkraft hat einen sehr hohen Wasserverbrauch für die Kühlkreisläufe, von denen ein Großteil in Form von Dampf in die Atmosphäre entweicht. Dies ist in DE mit der momentan recht stabilen Wasserversorgung kein Problem, in anderen Regionen dagegen eine Katastrophe.
+
+Atomkraft hat, u.A. aufgrund des hohen Energieeinsatzes beim Aufbereiten der Brennstoffe, eine viel schlechtere CO<sub>2</sub>-Bilanz als z.B. Windenergie.
+
+Atomkraft ist im hohen Maße Sicherheitsrelevant. AKWs sind Hochsicherheitsbereiche, jeder Transport von Atombrennstoffen muss unter schärfsten Sicherheitsbedingungen erfolgen. Dies führt 1. zu hohen staatlichen Ausgaben zum Schutz der Anlagen (Man denke an die Atomproteste in den 80er Jahren oder die Castor-X-Proteste im Wendtland) und 2. zur Gefahr, das eventuell vorhandene Sicherheitslücken zu ernsthaften Problemen führen. Als IT-Experte leuchtet einem das jedenfalls ein.
+
+Atomkraft stellt ein Sicherheitsrisiko dar. Anders als bei anderen Energieerzeugungsverfahren ist ein schwerer Störfall mit erheblichen Risiken für die Bevölkerung und die Angestellten eines AKWs verbunden. Hierzu existieren unterschiedliche Studien, die von einem sehr kleinen Risiko für einen Tschernobyl-artigen Störfall ausgehen. Aber: Das ist halt ein stochastisches Risiko, d.h. es kann jederzeit passieren. Ob die Sicherheitsmechanismen in den deutschen AKWs im Gegensatz zu Tschernobyl im Falle eines Super-GAUs greifen kann man nicht 100%ig sicher vorhersagen, sondern nur hoffen.
+
+Die Kernfusion als Königsweg und die damit verbundenen Probleme will ich hier nicht ausführlich behandeln: Auch hier hat <a href="http://www.blaetter-online.de/artikel.php?pr=2127">Hermann Scheer</a> ein paar fundierte Punkte anzubieten.
+
+Weitere Quellen:
+
+Wikipedia: <a href="http://de.wikipedia.org/wiki/Castor_%28Kerntechnik%29">Castor</a>, <a href="http://de.wikipedia.org/wiki/Atomenergie">Kernenergie</a>
+Blätter f. Deutsche und internationale Politik:<a href="http://www.blaetter-online.de/artikel.php?pr=2127">Hermann Scheer: AKW-Renaissance</a>
+
+
+
+

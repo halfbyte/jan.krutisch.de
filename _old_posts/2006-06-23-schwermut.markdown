@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 276
+layout: post
+title: Schwermut...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=276
+---
+...macht sich in mir breit. Ohne wirklich sagen zu können, woher sie kommt. 
+
+Fußball hilft ein bisschen, aber auch nur temporär.
+
+Dinge, die mich vor 1,2 Wochen noch gefesselt haben, langweilen mich jetzt. Man macht seinen Job, anständig, hofft man, aber ohne Euphorie. Man arbeitet, schläft und isst. Man ärgert sich über die eigenen Unzulänglichkeiten. Man hat das Gefühl, ständig Menschen zu enttäuschen (sich selbst eingeschlossen).
+
+Und irgendwann fängt man an, sich über den eigenen Ärger zu ärgern. Und gräbt sich immer tiefer ein.
+
+Irgendwas muss passieren. Bald habe ich Urlaub, hoffentlich genug Zeit, nachzudenken.

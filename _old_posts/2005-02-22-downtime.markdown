@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 152
+layout: post
+title: Downtime!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=152
+---
+Tja. Da hats die arme tangramayne also erwischt gehabt. Vielleicht ist professionelles Serverhosting ja doch sein Geld wert. <br />
+<br />
+Jetzt habe ich also eine Nacht mit definitiv zu wenig Schlaf hinter mir (Im Gegensatz zu <a href="http://nils.jeppe.de">Nils</a>, der hatte gar keinen!) und die Kiste steht wieder im Rack, in der Hoffnung, das der L&uuml;fter auf dem Boxed-Celeron von 1999 noch ein wenig h&auml;lt. Ich finde mal sollte Mainboards IMMER um 23:30 tauschen.<br />

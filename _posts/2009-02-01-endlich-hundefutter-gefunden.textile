@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 389
+layout: post
+title: Endlich Hundefutter gefunden!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=389
+---
+Ich habe mir ja vor geraumer Zeit mal den Hillegass zugelegt, also quasi das Standardwerk für OS X-Programmierer. Das ist auch wirklich gut geschrieben und ich hatte schon einen Großteil des Buches durchgearbeitet. Aber so lange man keine konkrete Anwendung hat, verliert man im Zweifel irgendwann die Lust und legt es beiseite. Mein Ziel war ja damals, durch besseres Verstehen der Cocoa-Konzepte einen leichteren Einstieg in die iPhone-Programmierung zu finden, was sicher auch geklappt hat, aber auch da fehlt mir sowohl Zeit, als auch eine ganz konkrete Anwendung für den Kram.
+
+Jetzt fiel mir eine Idee für eine OS-X-Desktop-Anwendung quasi aus dem Nichts in den Schoß. Und zwar habe ich seit einiger Zeit so einen von diesen hippen Surfsticks mit günstiger Tagesflatrate, um meiner Sucht nach TCP-Paketen auch in total abwegigen Situationen nachgeben zu können. Die Installation war ohne Herrn Google nicht zu schaffen, weil man da entgegen der Anleitung nämlich noch Dinge manuell tun muss. Darüberhinaus ist die mitgelieferte Software wirklich einfach der letzte Dreck. Das Zeugs ist null in OS X integriert, ist 'ne hässliche Java-Anwendung und funktioniert auch nur so leidlich.
+
+Das ist umso bedauerlicher, als dass die nötigen Protokolle, wie ich ziemlich leicht rausfinden konnte, alles andere als Komplex sind: Diese blöden Dinge funktionieren (wenn man die untere Treiberebene mal wegabstrahiert) nämlich immer noch genau so wie damals mein erstes 2400-Baud-Modem - Per erweitertem Hayes-AT-Befehlssatz. Man findet auch ziemlich viel Infos drüber, was es alles an Spezialkommandos gibt, um z.B. SMS zu verschicken, die PIN einzugeben, die Signalstärke abzufragen, you Name it. Passenderweise macht so ein Surfstick auch gleich zwei (!) Serielle Schnittstellen auf, um auf einem Kanal die PPP-Verbindung offen halten zu können, und auf dem zweiten gleichzeitig den Status abfragen zu können etc.
+
+Da ginge also was. Hier ein paar Ideen, was so eine Software für Features habe könnte:
+
+- SIM-PIN eingeben (das ist, um den Surfstick einfach nur zum Surfen zu benutzen, fast die wichtigste Aufgabe der extra-Software)
+- PIN im Schlüsselbund speichern
+- SMS abrufen und verschicken (an Nummern aus dem OS-X-Addressbuch)
+- Status über ein Icon in der Menüleiste anzeigen
+
+Angefangen habe ich schon, momentan eroiere ich gerade, wie man am geschicktesten die AT-Kommandos absetzt und die Ergebnisse reinparsed.
+
+Mal schauen. Ich würd' sowas nutzen. Wer noch?

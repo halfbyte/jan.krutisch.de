@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 206
+layout: post
+title: Eat this, Herr Pierer!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=206
+---
+Gerade in einem Artikel in der <a href="http://sueddeutsche.de/,wirm1/wirtschaft/artikel/484/60424/">SZ</a> gelesen [<a href="http://blog.it-luemmel.de/archives/2005/09/13/kumma-hier-tante-merkel-was-wir-so-konnen/">hier entdeckt</a>]:
+
+Erstmals haben die alternativen Energien mehr zum Gesamt<s>strom</s>energieumsatz beigetragen als die Atomkraft. 
+
+Und das nach nicht einmal 7 Jahren intensiver Förderung (Wohlgemerkt kostenneutral für den Staat, wenn auch nicht für den Verbraucher).
+
+Was lehrt uns das? Wer ernsthaft wieder die Atomkraft statt den alternativen Energien fördern will, fördert damit Großunternehmen wie Siemens und schadet damit dem Mittelstand, in dessen Regionen sich ein großteil der alternativen Energien noch abspielen.
+
+Da entsteht mit einem gewagten, aber funktionierenden Finanzierungskonzept eine Jobmaschine (Allein in diesem Jahr 20.000 Jobs laut dem Artikel) die den ach so gebeutelten Mittelstand fördert und dafür sorgt, das uns in Sachen Solar- und Windenergie  technologisch so schnell keiner was vormacht und Frau Merkel und ihre Freunde der Großindustrie haben nichts besseres zu tun als das alles in Frage zu stellen und statt dessen eine fragwürdige Energieform mit quasi unkalkulierbaren Kurz- und Langzeitrisiken (UND Unsummen an Fördermitteln verschlingend) wieder Salonfähig zu machen.
+
+Ich kann gar nicht so viel essen wie ich kotzen möchte. Frau Merkel, das ist durchsichtig, dumm, kontraproduktiv und hat mit "dem Land dienen" nun aber auch so wirklich gar nichts zu tun.
+
+Wegtreten!
+
+P.S.: Da ist mir glatt ein Zitatsfehler unterlaufen. Der Anteil bezog sich auf die gesamte Energie, also auch Heizenergie, z.B. über die sehr effektiven Solarkollektoren.

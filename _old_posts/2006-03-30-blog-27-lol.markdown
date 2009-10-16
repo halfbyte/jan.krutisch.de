@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 261
+layout: post
+title: Blog 27 - LOL
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=261
+---
+WTF?!?

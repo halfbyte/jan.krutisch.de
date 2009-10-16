@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 82
+layout: post
+title: Re-Launch
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=82
+---
+<br />
+<a href="http://www.aol.de/"><%image(20040915-aollaunch.jpg|362|193|AOL.de)%></a><br />
+<br />
+Nach mehreren Monaten Projektarbeit ist das neue Layout heute morgen endlich live und ich bin todm&uuml;de. Alles in allem habe ich schon deutlich schlimmere Projekte mitgemacht, diesen Sommer gabs nicht mal 'ne Urlaubssperre und irgendwie hab ich nicht mal &uuml;berm&auml;&szlig;ig viele &Uuml;berstunden. Hurray!<br />
+Das Zeug validiert (fast) vollst&auml;ndig und ist, f&uuml;r unsere Verh&auml;ltnisse, ziemlich sauber programmiert, jedenfalls sind wir (fast) ohne Tabellen ausgekommen. Hurray!<br />
+<br />
+So. Um sieben gibs Fr&uuml;hst&uuml;ck mit Sekt :)

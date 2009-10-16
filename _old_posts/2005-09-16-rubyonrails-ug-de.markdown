@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 211
+layout: post
+title: rubyonrails-ug.de :)
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=211
+---
+Nach dem Motto "Kleckern, nicht klotzen" (?!?) habe ich mir zumindest schon mal eine passende Domain für die Usergroup besorgt. Eine Mailingliste ist auch schon eingerichtet, man darf auf die Resonanz gespannt sein.
+
+Bei Interesse gehen Sie bitte <a href="http://rubyonrails-ug.de/">hier entlang</a>.

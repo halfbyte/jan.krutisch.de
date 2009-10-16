@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 392
+layout: post
+title: Ein anderes rp09-Fazit
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=392
+---
+Nein, es war nicht alles schlecht auf der re:publica. Ja, es waren ein paar richtig gute Vorträge dabei am Ende. Ja, ich habe sehr gute Unterhaltungen geführt.
+
+Was bleibt ist der Eindruck, dass sich die Organisatoren mit der Größe der Veranstaltung übernommen haben - Das mangelhafte WLAN, die chaotische Zeitplanung, das Gedränge in der Kalkscheune. Mein Eindruck ist, dass eine Re:publica mit 1/3 der Besucher, mit 1/2 der Veranstaltungen, ohne die Einbeziehung des furchtbaren Friedrichstadtpalasts genau richtig gelegen hätte. Aber natürlich ist es verlockend, jedes Jahr zu wachsen und natürlich steigt die Relevanz einer Veranstaltung auch zumindest gefühlt mit der Größe. Dennoch: Eine Veranstaltung wie die Reboot lebt davon, dass es jedes Jahr zwar voll, aber nicht übervoll ist. Dass man genug Platz zum zurückziehen hat - Und das schaffen die Organisatoren nur dadurch, dass sie die Teilnehmerzahl künstlich begrenzen.
+
+Auf der anderen Seite: Wenn man stumpfe Journalisten wie den mir vollkommen unbekannten Jochen Stahnke dazu bringt, so einen Angsttriefenden, geifernden Schwachsinn zu schreiben, dann kann man auch nicht alles falsch gemacht haben:
+
+<blockquote>Was das für Folgen für das eigene Tun hat, kann man am zweiten Tag sehen: Es findet eine Twitter-Lesung statt, einer der Höhepunkte. Twitter ist ein Netzanbieter, auf dessen Internetseite man in höchstens 140 Zeichen einer sogenannten Community eigene Gedanken und Befindlichkeiten mitteilen kann. Habe mir die Hände gewaschen, twittert einer der Teilnehmer aus dem Sanitärbereich des Veranstaltungsortes. Hab wohl Tinnitus in den Augen - ich seh' nur Pfeifen, lautet ein anderer Beitrag. Was, es gibt eine gedruckte Version der New York Times? Verstehe, für die Obdachlosen, ein dritter. Geballte Information.</blockquote>
+Große Güte. Die Spaßveranstaltung "Twitterlesung", im abendlichen Unterhaltungsprogramm angesiedelt, als Relevanzmaßstab verwendet. Das ist schon ganz großes Propagandakino. Angst, Herr Stahnke?
+
+Richtig interessant wird es, wenn sich der guten Jochen an Lawrence Lessig abarbeitet:
+
+<blockquote>Lessig hat die creative commons-Bewegung gegründet, ein Modell der freien Lizenz für Medienerzeugnisse. Niemand dürfe für vermeintlich urheberrechtsverletzende Downloads kriminalisiert werden, trägt Lessig in einer erstaunlich schlichten Powerpoint-Präsentation vor: Kultur lebe von Freiheit der Gedanken und (kosten-) freier Verwendung von Medienerzeugnissen. Gegenwärtig herrsche ein Kulturkampf, in dem Künstler und große Medienhäuser aus Angst vor Veränderung ungerechtfertigt Besitzstand wahren wollten.</blockquote>
+
+Zur Oberfläche: Die "erstaunlich schlichte Powerpoint-Präsentation" ist so ziemlich das beste, was man an Präsentationstechnik erleben kann. Lessigs Stil ist nicht umsonst 1000fach kopiert worden. Er ist dazu ein großartiger Rethoriker, mit wahnsinnig gutem Sinn für Tempo und Rhythmus. Die Wahrnehmung von Herrn Stahnke kann ich mir eigentlich nur damit erklären, dass ihn der Inhalt so aufgeregt hat, dass er nicht mehr in der Lage war, die ausgefuchste Technik von Lessig zu bewundern. Geschenkt:
+
+<blockquote>Würde Lessig, einmal anders gefragt, auch von Immobilienmaklern, Steuerberatern und Rechtsprofessoren verlangen, dass sie auf ihren Besitzstand und die Bezahlung ihrer Leistungen verzichten? Dass die Urheber von Gedanken, die nicht bezahlt und geschützt werden, bald keine Zeit und kein Geld mehr haben, diese zu denken, und dass eine Avantgarde, die über 140 Zeichen und den Horizont ihres Privatlebens nicht hinauskommt, kaum geeignet ist, die Weltöffentlichkeit aufzuklären - an diesen Widerspruch mochte Lessig aus Angst vor Veränderung keinen Gedanken verschwenden.</blockquote>
+
+Ich glaube ja, dass Mr. Lessig gern und oft falsch verstanden wird. Ausgerechnet ihm allerdings vorzuwerfen, Angst vor Veränderung zu haben, das ist schon ziemlich skurril. 
+
+Dass ein Journalist (Noch dazu von der FAZ) Schwierigkeiten hat, sich mit dem Gedanken einer neuen ReadWrite-Kultur anzufreuden, damit habe ich kein Problem, auch wenn es vor allem zu sandigen Ohren führt - Dass man Lessig so falsch versteht, wie Stahnke es hier demonstriert, kann nur noch mit Vorsatz erklärt werden. 
+
+Lessig ist eben KEIN Copyright-Gegner. Er hat mehrfach in dem Vortrag betont, dass man ein starkes Copyright benötigt, um Content-Erschaffer entlohnen zu können - Was Lessig sagt, ist, dass es vielleicht keine ganz so gute Idee ist, eine ganze Generation zu kriminalisieren. Aber genau das ist momentan das Mittel der Wahl um einen Besitzstand zu wahren, der sich in Wirklichkeit nicht mehr wahren lässt - Weil, und das will die Content-Industrie immer noch nicht wahrhaben - Die Möglichkeit, mit Inhalten Geld zu verdienen, ist seit jeher daran geknüpft, für den Informationsträger (CD, DVD, Zeitung, Buch) Geld verlangen zu können - Das allerdings wird mit der fortschreitenden Digitalisierung und dem Internet immer schwieriger. Informationen zu kopieren, kostet nichts mehr.
+
+Und zu guter Letzt: Aus der weitgehenden Belanglosigkeit des Twitterversums die Notwendigkeit der Existenz von tollen, weisen, aufklärerischen Gatekeepern zu schließen, das ist an Ahnungslosigkeit und Ironie kaum noch zu überbieten.
+
+Ich stehe ja der deutschen Blogosphäre sehr skeptisch gegenüber, weil ich leider nicht die Masse an guten Blogs sehe, wie sie in den Staaten schon längst Teil des journalistischen Mainstreams geworden sind (Ariana Huffington ist da nur die Spitze des Eisbergs) - Aber trotz dieses Qualitätsdefizits müssen "wir Blogger" uns glaube ich darauf einstellen, für alle Reinfälle und Pleiten der deutschen Zeitungsverlage in den nächsten Jahren verantwortlich zu sein. Wir müssen uns darauf einstellen, dass es kaum noch Journalisten geben wird, die in der Lage und Willens sind, das Internet, seine Möglichkeiten und seine Risiken einigermaßen realistisch und vor allem unvoreingenommen zu betrachten. Wichtig wird sein, diese Chance zu nutzen und ahnungslosen Leuten wie Herrn Stahnke nicht das Feld zu überlassen, um zu verhindern, dass die breite, unbloggende Masse sich nicht von dem gegenwärtigen "Im Internet ist alles scheisse"-Trend zu sehr beeinflusst wird - Denn das wäre ein entscheidender Nachteil auf anderen Feldern, auf denen momentan viel wichtigere Schlachten geschlagen werden - z.B. wenn es um die Frage geht, wie viel Freiheit das Netz braucht, um funktionieren zu können. Oder wie wichtig Netzneutralität ist. Oder oder oder.
+

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 333
+layout: post
+title: Logical Progression
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=333
+---
+Mein erster Rails-Patch (zugegeben, <a href="http://dev.rubyonrails.org/ticket/3335"  title="dev.rubyonrails.org">nur ein paar Unit-Tests für einen bereits existierenden Patch</a>) ist in den honorablen Verified-Status erhoben worden.
+
+Ich bin ja doch ein bisschen stolz gezz. :)

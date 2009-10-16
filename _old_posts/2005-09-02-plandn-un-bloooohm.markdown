@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 198
+layout: post
+title: Plandn un Bloooohm!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=198
+---
+Neuer (zumindest firmeninterner) Rekord für die Minigolfbahn in Planten und Blomen: 32 Schläge.
+
+Wer kann da drunter? Hat jemand (Vereinsspieler zählen nich) die Bahn schon mal besser gespielt?
+
+(Wahnsinn, da wird die Luft schon echt dünn. Ich habe, bis auf einen 6er, alle Bahnen mit 1 oder 2 Schlägen gespielt. Und das auf einer, sagen wir mal, medium gut gepflegten bahn)
+
+Also dafür das wir momentan so 1-2 Partien in der Woche spielen ist das echt gut, glaube ich. Meine Kollegen waren auch beeindruckt :)

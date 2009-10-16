@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 180
+layout: post
+title: "Pimp my Wohlt\xE4tigkeitskonzert"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=180
+---
+Hm. Bin ich eigentlich der einzige, den die &Auml;sthetik des Live8-Designs eher an Xibit und West Coast Customs erinnert als an ein Wohlt&auml;tigkeitskonzert? Unser zust&auml;ndige Designer hier hat sogar die ganze Microsite in Gold gehalten. Gold? Hallo?

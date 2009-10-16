@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 358
+layout: post
+title: Die Tour...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=358
+---
+...ist jetzt gottseidank zuende. Ist ja doch ein bisschen anstregend auf Dauer, die zu ignorieren :)

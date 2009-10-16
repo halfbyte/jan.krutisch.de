@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 178
+layout: post
+title: ROFL!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=178
+---
+gerader sehr &uuml;ber die &Uuml;berschrift bei diesem Artikel gelacht:<br />
+<br />
+<a href="http://www.lautgeben.de/2005/06/12/connection-reset-by-peer/">http://www.lautgeben.de/2005/06/12/connection-reset-by-peer/</a><br />
+<br />
+Viel Gl&uuml;ck &uuml;brigens auch von meiner Seite an das Spreeblick-Netzwerk. Man dr&uuml;ckt die Daumen.<br />

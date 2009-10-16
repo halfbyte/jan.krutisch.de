@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 386
+layout: post
+title: Wenn einem die Worte fehlen...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=386
+---
+Eigentlich würde ich ja gern mal einen Eintrag zur Weltwirtschaftskrise schreiben. Aber jedes Mal wenn ich versuche, meine Gedanken dazu zu Ordnen, finde ich nicht die richtigen Worte. Was da momentan passiert, war einerseits so hervorsehbar und ist andererseits so unglaublich, das mir als echtem Wirtschaftslaien noch viel weniger dazu einfällt als den Experten.
+
+Also eher Metaebene. 
+
+Sehr interessant (und zum ersten Mal seit langem nicht nur enttäuschend) war die Lektüre des letzten Spiegels (ja, ich lese tatsächlich Nachrichten auch in Papierform). Zum einen, weil ganz offensichtlich ein Großteil der Spiegelredaktion plötzlich aus dem Neoliberalismen-Traum aufgewacht ist und man teilweise fast den Eindruck hat, eine Konkret in der Hand zu haben, zum anderen, weil zumindest am Rande das erste Mal sei sehr sehr sehr sehr langer Zeit auch sowas wie Selbstkritik auftaucht. Selbstkritik an der eigenen, distanzlosen Berichterstattung in den letzten Jahren. Selbstkritik an dem Mangel an kritischer Hinterfragung von wirren Finanzprodukten mit zweistelligen Gewinnversprechungen. "Siehste, geht doch". 
+
+Doch Vorsicht: Natürlich schreibt der Spiegel auch jetzt wieder nur das, was die Leute erwarten, das er schreibt. Die DEPFA aus Steuergründen nach Irland zu verlegen und jetzt zur Rettung deutsche Steuergelder zu verwenden ist moralisch sehr fragwürdig. Das jetzt plötzlich, wenn es ernst wird, so scharf zu kritisieren, ist, vorsichtig ausgedrückt, populistisch.
+
+Jetzt wo ich diese Zeilen schreibe, wird wohl gerade ein beispielloses Staatshilfenprogramm aufgelegt (scheint wohl um 400 Milliarden  zu gehen). Schauen wir mal, ob das reicht, um das System zu retten, oder zumindest, um den Untergang des Systems nicht zu heftig ausfallen zu lassen. Auf Revolution, Monster-Inflation, Tauschhandel und den ganzen Mist hat dann ja doch irgendwie keiner so richtig Bock, hoffe ich.

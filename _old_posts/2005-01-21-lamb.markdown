@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 143
+layout: post
+title: lamb
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=143
+---
+Ja, hallo? Wie konnte eine so gro&szlig;artige Band bis jetzt vor mir verborgen bleiben?<br />
+<br />
+Ich bin entsetzt und fasziniert zugleich.

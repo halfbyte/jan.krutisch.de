@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 192
+layout: post
+title: roflmao
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=192
+---
+Sehr cool, sowas zu lesen, nachdem gerade die Freundin einen Kuchen (Wohlgemerkt ohne Kollateralschaden) mit Kuvertüre überzogen hat:<blockquote>Heute dann eine neue, bislang unveröffentlichte Folge aus der beliebten Nachmittagsserie „Katastrophenhilfe für Küchenblondinen“. Lehrsatz des Tages: Wer einen Geburtstagskuchen gebacken hat und ihn nur noch schnell verzieren möchte, sollte unbedingt die Kuvertüre ins Wasserbad stellen und nicht die Tüte mit den M&Ms.</blockquote>
+Ich kann die Lektüre der <a href="http://www.lyssas-lounge.de/peepshow/archiv/000286.html">Frau Lyssa</a> wirklich ans Herz legen: Da lernt man fürs Leben :)

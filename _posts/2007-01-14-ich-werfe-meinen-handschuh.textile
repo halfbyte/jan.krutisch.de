@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 322
+layout: post
+title: Ich werfe meinen Handschuh...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=322
+---
+<a href="http://www.flickr.com/photos/jankrutisch/357450610/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/134/357450610_313fedbb92_m.jpg" width="240" height="160" alt="Lost" /></a>
+
+Irgendwie läuft das Jahr nicht so richtig an. Kommt davon, wenn man so viele Altlasten aus dem letzten Jahr mittschleppt. :(

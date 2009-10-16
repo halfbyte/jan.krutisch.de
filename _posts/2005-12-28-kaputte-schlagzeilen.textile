@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 235
+layout: post
+title: Kaputte Schlagzeilen
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=235
+---
+"Wordpress unterstützt AJAX", meldet <a href="http://www.golem.de/0512/42400.html">Golem</a>. 
+
+Jungs. AJAX ist doch keine externe API, die man "unterstützen" kann. AJAX ist 'n beknacktes Akronym für ein paar Techniken, die es ermöglichen, Webapplikationen "Applikationsmäßiger" zu bauen, nothing more, nothing less.
+
+"Wordpress 2.0 verwendet AJAX" würde ich mir gefallen lassen. Oder "Wordpress 2.0 jetzt neu mit AJAX". Oder ganz doof "Wordpress 2.0 ist AJAX-Powered". 
+
+Mann, mann. Denken hilft beim Texten.

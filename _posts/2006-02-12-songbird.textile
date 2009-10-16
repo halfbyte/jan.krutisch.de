@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 248
+layout: post
+title: Songbird
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=248
+---
+Coole Idee, cooles Interface, coole Website, cooler <a href="http://www.songbirdnest.com/"  title="Songbird website">Domainname</a>.
+
+Aber uncool ist, dass das Interface absolut träge ist. Ich kann keinen Mediaplayer gebrauchen, der mir 80% meiner CPU-Zeit klaut. Auch dann nicht, wenn er im Hintergrund gerade meine komplette Musiksammlung (die NICHT klein ist, zugegeben) einscannt. 
+
+All right, es ist erst 0.1. Also abwarten und Teetrinken. Viel Glück. In 1,2 Jahren könnte der Player ganz annehmbar werden :)
+

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 132
+layout: post
+title: damn
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=132
+---
+<s>24.000</s> 156.000 Menschen sind nach jetzigem Stand durch die Flutwellen (aka Tsunamis) durch das Seebeben am 26.12. ums Leben gekommen.<br />
+<br />
+Viel Deutlicher kann die Natur einem ihre allzeitige &Uuml;berlegenheit nicht beweisen, oder?<br />
+<br />
+Ein paar Bilder davon <a href="http://flickr.com/photos/tags/tsunami/">gibts wie &uuml;blich bei flickr</a>.

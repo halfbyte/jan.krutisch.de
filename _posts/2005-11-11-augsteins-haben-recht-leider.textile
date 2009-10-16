@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 225
+layout: post
+title: Augsteins haben Recht! Leider.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=225
+---
+Ich bin ja erst durch den <a href="http://www.spiegel.de/kultur/gesellschaft/0,1518,384466,00.html">Öffentlichen Widerspruch der SPIEGEL-Redaktion</a> darüber gestolpert: Franziska Augstein, Erbin einer der größten Journalisten, die Deutschland je hatte, <a href="http://www.netzeitung.de/medien/367248.html">regt sich über den Spiegel</a> auf. 
+
+Und womit? Mit Recht. 
+
+Ich lese den Spiegel regelmäßig, will mich auch gar nicht über die mangelnde Unterhaltung beschweren. Aber das Niveau ist schon erschreckend in den Keller gerutscht. Gabor Steingart ist unendlich überheblich (Habe vor kurzem ein Interview mit ihm und Roger Willemsen bei Frau Maischberger gesehen...mir ist fast schlecht geworden ob des journalistischen Selbstverständnisses des Herrn Steingart (<a href="http://girl.twoday.net/stories/983149/">und nicht nur mir</a>). Und Herr Willemsen <a href="http://www.jungewelt.de/2005/09-17/029.php">hat so seine eigene Meinung zum Spiegel</a>) und Stefan Aust ist ja spätestens durch die <a href="http://www.netzeitung.de/medien/280689.html">Windkraft-Affäre</a> dumm aufgefallen.

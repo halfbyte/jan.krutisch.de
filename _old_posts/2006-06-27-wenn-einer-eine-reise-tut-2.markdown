@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 278
+layout: post
+title: Wenn einer eine Reise tut...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=278
+---
+Gerade sagte mein Kollege Mike noch "Wow, so einfach war die Einreise noch nie". Unser Gepäck nach Rekordverdächtigen 5 Minuten bereits in den Händen wollten wir uns zum einchecken für den Anschlussflug einreihen, da sagte der (mittelmäßig) freundliche Mensch mit dem großen Handheld nach einem flüchtigen  Blick auf unsere Gepäcktags "Your flights been canceled...".
+
+ooookay. Soweit so gut. Am Informationsschalter war das höchste der Gefühle Eine Standby-Reservierung für den nachfolgenden Flug. 
+
+Das wäre noch nicht so dramatisch. Aber das Gepäck wird jetzt auf jeden Fall mit dem 3:00-Flug weiterfliegen (Wie uns die (tatsächlich) freundliche Continental-Mitarbeiterin mitteilte, klebt sie zwar einen Hinweis drauf, das es sich um Gepäck von Standby-Passagieren handelt, aber das ist wohl mehr pro forma).
+
+Nachdem wir aus irgendeinem ziemlich unerklärlichen Grund für das recht entwürdigende "Special Screening"-Programm beim Checkin (für einen Flug, bei dem wir nicht sicher sind, ob wir ihn bekommen) ausgewählt wurden (Und jetzt wohl nach der 5. oder 6. Kontrolle klar ist, das von mir TATSÄCHLICH keine Gefahr für Gods Own Country ausgeht), sitze ich jetzt hier in der Lounge und Surfe für 4,75$ unlimitiert im Netz während Mike versucht, mal wieder rauszubekommen, ob wir mitkommen mit dem 3:00-Flight.
+
+Na, mal sehen.
+
+[NACHTRAG]
+
+Ja, wir sind mitgekommen mit dem Flug. Mehr durch Zufall und durch regelmäßiges Pesten und vermutlich auch wegen meines bemitleidenswerten Aussehens (Nach 9 Stunden Flug und anschließenden ca. 8 Stunden Warten sieht keiner mehr besonders gut aus :)
+
+Der 3-Uhr-Flug muss irgendwo so um 6 oder 7 abgehoben sein, jedenfalls waren wir so gegen 22:00 endlich im Hotel. 
+
+Der Grund ist ein ziemliches Wetterchaos, was wohl den Nordosten der USA die letzten zwei, drei Tage ziemlich beherrscht hat.
+
+So. Gleich gehts endlich zur Konferenz...

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 306
+layout: post
+title: Geek-Satire.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=306
+---
+Kevin Poulsen über den US Torture Bill:
+<blockquote>It occurs to me now that the whole 94-page bill really amounts to a common, one-character programming error:
+<code><pre>if (person = terrorist) {
+            punish_severely();
+} else {
+            exit(-1);
+}</pre></code>
+</blockquote>
+Finde den Fehler. Großartig.

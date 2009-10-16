@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 14
+layout: post
+title: XML-RPC...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=14
+---
+ist den meisten Bloggern ja eh ein Begriff. Heute hat mich dann mal die Neugier gepackt und ich hab schnell mal eine Testimplementation zusammengehauen. Benutzt habe ich f&uuml;r den Server die allseits bekannte PHP-Implementation von <a href="http://xmlrpc.usefulinc.com/php.html">Useful Inc.</a> und die ex-Helma-jetzt-apache <a href="http://ws.apache.org/xmlrpc/">Java-Implementation</a> als Client, wobei ich zum Schluss ein kleines Applett gebaut habe, welches sich ein Array und einen String vom Server holt.<br />
+<br />
+Nichts dramatisches, aber da ich noch nie vorher so RPC-Sachen gemacht habe, ganz spannend.<br />
+<br />
+Die Java-Implementation finde ich ziemlich cool, komplett Typ-transparent, das hat was. Da finde ich die PHP-Implementation schon anstrengender (weil umst&auml;ndlicher), aber letztendlich machts ja doch Sinn, da PHP halt im Prinzip typenlos ist.<br />
+<br />
+Also: Noch eine H&uuml;rde f&uuml;r The Next Big Thing genommen. There are things to come :)

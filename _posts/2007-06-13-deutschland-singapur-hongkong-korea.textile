@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 350
+layout: post
+title: Deutschland, Singapur, Hongkong, Korea
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=350
+---
+Was diese Länder gemeinsam haben?
+
+Flickr <a href="http://www.heise.de/newsticker/meldung/91085" >blockt als "moderate" oder "restricted" eingestufte Bilder in diesen Ländern</a>. Und zwar ohne, dass die Benutzer eine Möglichkeit haben, diese Filter auszuschalten. 
+
+Ich frage mich, durch welche Gesetze so ein Vorgehen ausgelöst wird. Sind wir schon wieder so weit hier? Oder ist das nur vorauseilender Gehorsam bei den Flickerites?
+
+Eine offizielle Antwort ist flickr bisher schuldig geblieben, man kann sich ob des entfachten Wirbelsturms allerdings vorstellen wie da gerader die PR- und die Rechtsabteilung von Yahoo rotiert.
+
+Man darf gespannt sein. Zur Not wird der Pro-Account halt nicht verlängert.
+

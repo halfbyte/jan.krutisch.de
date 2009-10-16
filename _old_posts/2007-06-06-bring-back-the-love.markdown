@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 348
+layout: post
+title: Bring back the love...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=348
+---
+Gestern Abend also <a href="http://www.bebelgilberto.com/" >Bebel Gilberto</a> "bei uns" im Knust. Trotz offensichtlicher Probleme mit einem angeknacksten Knöchel liefert die kleine Frau mit der sexy Stimme eine sehr sehr coole Show ab, in der sie sehr bewusst mit ihrer Erotik, aber eben auch mit daran angeknüpfter Ironie spielt. 
+Die Musik ist klasse, die Musiker grandios und gegen Ende der Show, die mir viel zu kurz vorkam, ist nicht nur die Vorband (ebenfalls großartig: <a href="http://www.forrointhedark.com/" >Forro in the dark</a>) mit obskuren Percussion-Instrumenten komplett mit auf der Bühne, sondern auch diverse Menschen bei denen ich mir sicher war, das sie vorher noch irgendwo im Publikum standen.
+
+Schön auch die Ironische Geste von Bebel mit der sie den germanischen Stampfklatscher Hops nahm (wobei ich mir doch relativ sicher bin, dass den meisten der ebengenannten diese Ironie entgangen sein dürfte).
+
+Das Konzert war jedenfalls einer der wenigen Momenten, in denen ich mir doch sehr gewünscht habe, Portugisisch zu können, da die Ansagen und die komplette Konversation mit der Band doch eher selten in Jan-kompatiblem Englisch abgehalten wurden.
+
+Das Knust war voll, das Publikum allerdings überwiegend (inklusive mir, fürchte ich) hanseatisch träge, was Frau Gilberto nicht übermäßig zu stören schien.
+
+Das aktuelle Album "Momento" ist übrigens auch sehr zu empfehlen, jaja.

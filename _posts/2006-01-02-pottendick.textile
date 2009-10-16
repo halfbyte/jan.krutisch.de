@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 234
+layout: post
+title: Pottendick...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=234
+---
+...nennt man die Wetterkonstellation, die momentan hier in Hamburg zu bewundern ist: Aus der U3 konnte ich die Rickmer Rickmers nur mit Mühe erkennen, vom anderen Elbufer war nix zu sehen. 
+
+Und hier aus dem Büro ist der Spielbudenplatz eine einzige graue Masse.
+
+(Für alle, die das Wort nicht kennen: Es handelt sich um Nebel :)

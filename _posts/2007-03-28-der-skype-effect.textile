@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 336
+layout: post
+title: Der Skype-Effect...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=336
+---
+...auf einem neu eingerichteten Rechner JEDES MAL wieder auf den Skype-Namen des Opfers (a)synchroner Kommunikation klicken, merken, dass die Scheisssoftware sofort einen Anruf startet, den Anruf abbrechen, in die Preferences gehen und "bei Doppelklick: Chat starten" einstellen, den Benutzer erneut doppelklicken und sich erst einmal für den abgebrochenenen Anruf entschuldigen.
+
+JEDES MAL.
+
+DENKT MAL DRÜBER NACH, SKYPE-PROGRAMMIERER :)

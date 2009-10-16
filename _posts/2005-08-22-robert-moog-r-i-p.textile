@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 195
+layout: post
+title: Robert Moog, R.I.P
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=195
+---
+<div class="serendipity_imageComment_right" style="width: 96px"><div class="serendipity_imageComment_img"><a href='http://en.wikipedia.org/wiki/Bob_Moog'><img width='96' height='110'  src="/uploads/photos/bob_moog.s9yThumb.jpg" alt="" /></a></div><div class="serendipity_imageComment_txt">Bob Moog</div></div>
+Bah, wenn das so weiter geht, benenne ich diese Seiten bald in "Todesanzeigen und andere Schreckensnachrichten" um. 
+
+Heute also <a href="http://en.wikipedia.org/wiki/Bob_Moog">Robert Moog</a>, besser bekannt als Bob, seines Zeichens Entwickler und Scheffscheff der Firma Moog, eine der ersten Firmen, die Synthesizer gebaut haben. Der Durchbruch kam mit dem Minimoog, die eigentlichen Stars sind die fiesen Modularsysteme, die z.B. Platten wie <a href="http://www.wendycarlos.com/cdcovers/SOBNew.jpg">"Switched on Bach"</a> beherrschen.
+
+Bob Moog war ein Visionär, der damals die Zukunft der M<s>oo</s>usik entscheidend mitgeprägt hat. Und wenn man sich Switched On Bach anhört, dann weiss man, das Leute wie <s>Walter</s><a href="http://http://www.wendycarlos.com">Wendy Carlos</a> schon alles vorweg genommen haben, was später im Ambient- und Technobereich als "Innovative Sounds" bezeichnet wurde.

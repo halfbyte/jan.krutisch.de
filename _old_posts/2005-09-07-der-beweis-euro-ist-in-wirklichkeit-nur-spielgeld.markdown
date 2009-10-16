@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 202
+layout: post
+title: "Der Beweis: Euro ist in Wirklichkeit nur Spielgeld"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=202
+---
+Zitat einer "<a href="http://www.spiegel.de/wirtschaft/0,1518,369207,00.html">Eilmeldung</a>" beim SpON:
+<blockquote>"Der Markt will die 5000 Punkte im Dax einfach mal sehen", sagte ein Händler. "Angesichts der guten Vorgaben war die Zeit reif für einen Test dieser Marke. Ich glaube aber nicht, dass es gleich weiter nach oben gehen wird. Jetzt werden einige Anleger wahrscheinlich erst einmal Gewinne mitnehmen."</blockquote>
+
+Diese Spielkinder spielen mit unserem Geld. Diese Spielkinder haben inzwischen mehr Macht als so mancher Politiker. Diese Spielkinder sind ein Indikator für den Zustand unserer Gesellschaft. Die Gesamte Wirtschaft ist mehr oder weniger Abhängig von einer Horde Spielsüchtiger. 
+
+Aktienhändler kommen im meinem Wertesystem irgendwo hinter Schnaken und Kellerasseln.
+
+&lt;/rant&gt;

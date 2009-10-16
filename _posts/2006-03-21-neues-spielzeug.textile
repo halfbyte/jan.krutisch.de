@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 256
+layout: post
+title: Neues Spielzeug...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=256
+---
+...für den Photogeek. Eine <a href="http://www.pentax.de/_de/photo/products/index.php?gruppe=digital%20slr&produkt=18996&id=uebersicht"  title="Pentax.de">Pentax *istDS</a> und damit endlich der Einstieg in die DSLR-Welt. Der erste Eindruck ist super. Als (jetzt schon) langjähriger Nutzer von Digi-Kompaktkameras fühlt es sich VERDAMMT gut an, den Zoom per Drehung am Objektiv einstellen zu können (und zur Not sogar den Fokus).
+
+<a href="http://www.flickr.com/photos/jankrutisch/115982310/" title="Photo Sharing"><img src="http://static.flickr.com/42/115982310_68a114c29e_m.jpg" width="240" height="160" alt="macro beetle" /></a>
+
+Das Problem ist bloß: Das hört ja nie auf mit dem Geldausgeben. Ein <a href="http://www.lensbabies.com"  title="Lensbabies.com">Lensbaby</a> ist schon bestellt. Auf der Wunschliste steht noch die obligatorische lichtstarke Festbrennweite (da werde ich wohl was altes kaufen. Ich habe jedenfalls keine 800 EUR für ein <a href="http://www.pentax.de/_de/photo/lenses/index.php?gruppe=44&produkt=17"  title="Pentax.de">FA 77 f/1.8 ltd.</a>) und auch gern ein Telezoom um den Bereich jenseits des 18-55-Kits abzudecken.
+
+Naja, und ein vernünftiger Automatikblitz wär auch nicht zu verachten :)

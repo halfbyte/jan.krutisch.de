@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 317
+layout: post
+title: Hm. Hm.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=317
+---
+Nach langer Zeit sitze ich mal wieder an meinem Windows-PC. Der Grund ist, dass OpenOffice auf dem Mac einfach saugt, end of Story. Ich werds nochmal mit der X-Version probieren aber mit Neooffice ist mein ansonsten rattenschnelles MBP einfach gnadenlos überfordert.
+
+Also Windows. Was fehlt sofort? Quicksilver natürlich. Obwohl es mit <a href="http://www.launchy.net/"  title="Launchy">Launchy</a> und <a href="http://colibri.leetspeak.org/"  title="Colibri">Colibri</a> zwei Kandidaten gibt, die immerhin das Startmenü überflüssig machen könnten. Was noch fehlt, bzw. sehr nervt sind die doch sehr unterschiedlichen Tastaturbelegungen. An ALT-l für @ gewöhnt man sich irgendwann, aber ähnlich wie damals der AMIGA packt OS X sehr viel mehr Funktionen auf die Umschalt-ALT-CTRL-CMD-Tasten. So kann man z.B. mit CMD-Links und CMD-Rechts sehr schnell an Anfang und Ende der Zeile springen. Das geht (in Millisekunden gemessen) vermutlich schneller, weil man nicht erst die Hand auf die blöden Pos1 und Ende-Tasten bewegen muss. Und sorgt, wie gesagt für leichte Flashback-Gefühle. Immerhin habe ich noch bis 2000 an meinem AMIGA gesessen und Webseiten gebaut mit dem unschlagbaren GoldEd. Das war mal ein Texteditor. 
+
+Ansonsten bleibt nur die Feststellung, dass Windows ein ziemlich hässliches Betriebssystem ist. Aber ehrlich gesagt habe ich das auch schon immer gedacht, wenn ich von Ubuntu zurück zu Windows gekommen bin :)

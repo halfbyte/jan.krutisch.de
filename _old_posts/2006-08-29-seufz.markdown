@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 293
+layout: post
+title: Seufz.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=293
+---
+Ich fühle mich ein bisschen wie ein Gummiball in einem Walzwerk. Und dachte eigentlich, dass das <a href="http://www.comedix.de/lexikon/db/behoerde.php"  title="Comedix.de">"Haus der Verrückten"</a> eine Behörde darstellen sollte.

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 391
+layout: post
+title: "Re:Publica - Ein Res\xFCmee nach 1,5 Tagen."
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=391
+---
+Also. Hätte ich nicht nur läppische 40 EUR für diese Konferenz bezahlt, wäre ich jetzt einigermaßen erbost. Dass das WLAN konsequent für den Arsch ist, kann man verurteilen, aber dafür habe ich ja meinen Stick dabei. Dass das Catering im Friedrichsstadt-Palast frech teuer ist, geschenkt, die Umgebung gibt ja genug leckere Dinge zu Berlin-typischen Sparpreisen her.
+
+Dass das Konferenzprogramm zumindest bis zu diesem Zeitpunkt vor allem aus Banalitäten und verpassten Chancen besteht, kann man den Organisatoren nicht vorwerfen - Ärgerlich ist es allerdings. Mit wenigen Ausnahmen ist das Programm nicht an Niveau zu unterbieten - Abgedroschene Allgemeinplätze, schlechte Vorträge, abgewürgte oder gar nicht erst angefangene Diskussionen.
+
+Der Tiefpunkt war bisher, auch wenn ich in etwa nur 1/3 der Vorträge gesehen habe, weil mich bei 2/3 (überwiegend zurecht, leider) schon die Titel abgeschreckt haben, die Diskussionsrunde mit Cem Basman zum Thema Twitter/Mobil.  Totale, technologisch zentrierte Beliebigkeit als nette Plauderei. Ohne Einsichten. Ohne Reflektion des eigenen tuns. Es gäbe so viele Dinge dazu zu sagen, wie Twitter unser Leben verändert, wie es das Gefühl von Nähe erzeugt, über große Entfernungen, es gäbe die Kritiker anzukacken, die die Banalität von Twitter-Streams verurteilen und Journalistische Standards für Twitter fordern. 
+
+Und die Jungs schwafeln über mobile Twitter-Clients. Eines habe ich aber gelernt: Dieses Mobil-Dings, das ist jetzt das neue Ding, da sollte man dran bleiben...
+
+Ich setze meine Hoffnungen auf die Nachmittags-Veranstaltungen, die prinzipbedingt viel kleiner sind und so viele angeboten werden, dass hoffentlich interessante Dinge dabei sind. Wo man diskutieren kann. Wo Banalitäten und Allgemeinplätze auch mal draußen bleiben dürfen.
+

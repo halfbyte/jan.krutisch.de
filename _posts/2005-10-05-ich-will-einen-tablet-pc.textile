@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 216
+layout: post
+title: Ich will einen Tablet-PC!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=216
+---
+Wie cool ist denn bitte DIESES Tool!
+<img width='110' height='82' style="float: left; border: 0px; padding-left: 5px; padding-right: 5px;" src="/uploads/doc_small_screen.s9yThumb.gif" alt="" />
+<a href="http://dub.washington.edu/projects/denim/">Denim</a> ist ein Tool zur Erzeugung von Website-Wireframes, Sitemaps und allem was dazu gehört. Die Oberfläche ist konsequent auf Stiftbenutzung ausgelegt. Man kann für verschiedene Arbeitsschritte zwischen verschiedenen Ansichten hin- und herzoomen, kann z.B. erstmal die Sitemap bauen, in dem man grob die seitentitel eingibt und die verlinkung zwischen den Seiten einzeichnet, kann dann hochzoomen, die menüpunkte auf der Seite eintragen und dort die querverlinkungen klären. im letzten Schritt zoomt man die Seiten ganz auf und kann dann (wenn man will auf Karopapier... :) die Details der einzelnen Seiten ausfüllen.
+
+Sehr cool und auf den ersten Blick sehr benutzbar. Denim benutzt die Radialmenüs, eine Art "einfacher" Mausgesten, die man auch z.B. als Mozilla-Extension schon kennt.
+
+Ob das ganze stabil ist, muss sich noch rausstellen. Ich werde das als erstes erstmal ans Design-Department hier schicken. Und dann geh ich mich mal nach einem Tablet-PC umgucken :)

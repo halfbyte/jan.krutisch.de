@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 297
+layout: post
+title: Bewegung.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=297
+---
+Bewegung ist gut. Stillstand ist schlecht.
+
+Es geht voran.

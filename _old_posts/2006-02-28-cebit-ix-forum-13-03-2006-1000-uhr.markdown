@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 251
+layout: post
+title: Cebit, iX-Forum, 13.03.2006 10:00 Uhr
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=251
+---
+Jan macht auf Dicke Hose und Rails-Experte und hält mit <a href="http://rawahh.blogspot.com/"  title="Dem Ramon sein Blog">Ramon</a> zusammen einen Vortrag zu Ruby On Rails.
+
+be there or be a rectangular thyng (Frei nach Terry Prattchet)

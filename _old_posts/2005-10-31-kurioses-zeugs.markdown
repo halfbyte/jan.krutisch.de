@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 220
+layout: post
+title: Kurioses Zeugs
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=220
+---
+<a href="http://www.spiegel.de/panorama/0,1518,382464,00.html">Dieser SpOn-Artikel</a> hat nicht nur ein ziemlich kurioses Changelog, er scheint auch immer noch am Kern der Sache vorbeizugehen.
+
+Katie Melua singt in ihrem Song "Nine Million Bicycles" folgenden Satz:
+
+<blockquote>We are twelve billion light years from the edge,
+That's a guess,
+No-one can ever say it's true
+But I know that I will always be with you. </blockquote>
+
+Die Geschichte des Spiegels ist nun, das sich Bestsellerautor Simon Singh aufgeregt haben soll, dass es dazu keiner Schätzung bedürfe, sondern sich diese Zahl ziemlich genau ermitteln liesse. So weit, so gut.
+
+Jetzt wirds kurios: Zunächst war im Spiegel-Artikel vom "Alter des Universums" die Rede, was den dämlichen Redakteur nicht davon abgehalten hat, von Lichtjahren zu sprechen. Aufgrund der sicher zahlreich eingegangenen Besserwisser-Leserbriefe ("Füchse sind gar keine Rudeltiere"), wurde dann, und jetzt wirds erst recht strange, überall das "Lichtjahr" durch "Jahr" ersetzt. 
+
+Jetzt frage ich mich natürlich: Hat der Redakteur den Text von Katie Melua gar nicht gelesen? "Twelve Billion Light Years from the edge" klingt ja nun wahrlich nicht nach einer Zeitangabe.
+
+Bei dem Herrn Singh hört sich das übrigens auch ein bisschen anders an, wie man <a href="http://www.guardian.co.uk/ideas/story/0,16345,1581755,00.html">im Guardian nachlesen</a> kann:
+
+<blockquote>When Katie sings "We are 12 billion light-years from the edge", she is suggesting that this is the distance to the edge of the observable universe, which in turn implies that the universe is only 12 billion years old.</blockquote>
+
+Diesen Gedankensprung ist vielleicht ein bisschen viel verlangt von "normalen" Spiegel- oder Guardian-Lesern.  Aber einfach hinzuschreiben, die arme Katie singe vom Alter, ist dann doch ein bisschen dreist.

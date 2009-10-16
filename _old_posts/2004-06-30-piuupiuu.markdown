@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 60
+layout: post
+title: Piuupiuu
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=60
+---
+<div class="rightbox"><%image(20040630-logo.gif|220|225|Bhajis Loops)%></div>Wie geil ist das denn bitte? Weil mein alter Palm III (IBM Workpad) die Gr&auml;tsche gemacht hat (Wenn sich jemand mit Elektronikerfahrung daran versuchen m&ouml;chte? Ich nehme an, der Kontakt zum Display ist Locker und die Batteriehalterung hat einen Wackelkontakt), habe ich mir, wie bereits berichtet, geekstyle, einen Zire72 gekauft. Zur engeren Wahl stand noch ein Tungsten E, mit dem ein Arbeitskollege sehr zufrieden ist, aber die Bluetooth-Integration hat mich dann doch gereizt.<br />
+<br />
+Nachdem ich Bhajis Loops eine knappe halbe Stunde getestet hatte, habe ich die Registrierung in die Wege geleitet. Heute kam dann endlich der Reg-Code. Damn, das macht Spa&szlig;. Das nenne ich Mobile Composing. Wenn also jemandem in Hamburg demn&auml;chst in der U-Bahn ein kopfnickender, &uuml;ber seinen Palm gebeugter Typ gegen&uuml;bersitzt, ist die Wahrscheinlichkeit recht gro&szlig;, das ich das bin :)<br />
+<br />
+Beispielkompositionen demn&auml;chst an dieser Stelle :)

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 383
+layout: post
+title: Was genau macht eigentlich ein...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=383
+---
+...Suchmaschinenexperte?
+
+Folgendes Zitat aus der Netzeitung flatterte gerade durch meine Feedreader:<blockquote>Sie durchforstet mehr Seiten als Google, speichert keine Nutzerdaten und hat zum Start für großes Aufsehen gesorgt. Ein deutscher Suchmaschinenexperte rät trotzdem vorerst von der Nutzung von Cuil ab.</blockquote>
+Und die einzige Frage, die ich mir angesichts dieses Textes stelle: Was qualifiziert einen eigentlich als "Suchmaschinenexperte"? Jemand der alle Google-Query-Tricks kennt? Jemand der den ganzen Tag nix anderes macht als zu "suchen"?
+
+*verwirrt*

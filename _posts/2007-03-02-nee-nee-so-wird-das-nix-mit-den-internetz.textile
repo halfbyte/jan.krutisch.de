@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 334
+layout: post
+title: Nee, nee, so wird das nix mit den Internetz.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=334
+---
+Die Lead-Awards 2007 haben ja auch eine Online-Kategorie, in der unter anderem auch Xing nominiert war. Las ich gestern auf <a href="http://blog.openbc.com/"  title="OpenBC (Xing)">deren Blog</a>. Preisverleihung war am 1. März. Mithin also gestern. Gestern um 23:00 stand auf der <a href="http://www.leadacademy.de/2007/preistraeger.html"  title="Lead Academy">Website</a> immer noch:<blockquote>
+DIE PREISTRÄGER
+
+Die Preisträger werden am 1. März 2007 bekanntgegeben.</blockquote>
+Heute morgen stand dann da:<blockquote>
+DIE PREISTRÄGER
+
+Die Preisträger werden am 1. März 2007 bekanntgegeben.</blockquote>
+
+Na, dann ist ja gut.

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 104
+layout: post
+title: "wie gro\xDF ist der unterschied wirklich?"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=104
+---
+In der letzten Zeit hat man an vielen Stellen in den Medien gelesen, das die Wahl des Pr&auml;sidenten zu unrecht so zur "gro&szlig;en Entscheidungswahl" hochstilisiert wird und die politischen Unterschiede zwischen Kerry und Bush &auml;hnlich nuaciert seien, wie inzwischen zwischen SPD und CDU.<br />
+<br />
+Ich denke, man tut damit den beiden Fraktionen unrecht. Was Bush in meinen Augen so gef&auml;hrlich macht, sind nicht die gro&szlig;artigen, f&uuml;r die upper class ma&szlig;geschneiderten Steuergeschenke, oder die alleinige Tatsache, das die USA in den Irak marschiert sind, ohne ein UN-Mandat abzuwarten, sondern viel mehr die erschreckend selbstgef&auml;llige und ideologisch verquere Art, mit sich und seinen Kritikern umzugehen. Das Klasse Zitat "...we build our own realities..." aus dem Munde eines Bush-Medienberaters (schlagt mich, aber ich bin zu faul zum recherchieren, gelesen hab ichs in einem Spiegel-Artikel), fasst das ganz gut zusammen. Man schert sich nicht gro&szlig; um die Meinung anderer (bzw. man versucht sie dann gleich kaputtzureden oder gar zu unterdr&uuml;cken. Man ist so von der eigenen Richtung &uuml;berzeugt, das man auch gar nicht gro&szlig; auf die Idee kommt, Konsequenzen aus offensichtlichen Fehlleistungen zu ziehen. Anders ist z.B. die Tatsache dass Herr Rumsfeld sich nach Abu Ghiraib noch im Amt befindet ja nicht zu erkl&auml;ren. <br />
+<br />
+Dieses totale Fehlen von Kritikf&auml;higkeit, dieses unbedingte, oft einfach nur sehr dreist anmutende beharren auf den eigenen Ansichten und das beliebige Zurechtbiegen der eigenen Realit&auml;t ist etwas, dass dem Kandidaten Kerry und seinen Leuten (hoffentlich) abgeht und das ist auch der Grund warum ich es f&uuml;r so wichtig halte, das die &Auml;ra Bush in ein paar Tagen hoffentlich, hoffentlich der Vergangenheit angeh&ouml;rt. <br />
+<br />
+Wenn allerdings Bush seinen Sieg in Florida holt, wom&ouml;glich mit weniger als 58.000 Stimmen, wundert mich das pers&ouml;nlich nicht.<br />
+<br />
+Amis, tut Euch den Gefallen und sorgt daf&uuml;r, das diese Wahl einigerma&szlig;en fair und gerecht durchgef&uuml;hrt wird, wenn ihr nicht zum Lachsack der Welt werden wollt. (Man k&ouml;nnte allerdings einwenden, DAS Kind ist sp&auml;testens mit den 58.000 absentee ballots in den Brunnen gefallen)

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 274
+layout: post
+title: Ich. Bin. Sprachlos.
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=274
+---
+Aus meiner Inbox:<blockquote>Ich bin ziemlich verärgert! Altes Kennwort soll nicht in Ordnung sein.
+
+Eine Spielform, die mir kein Spass macht!Das Kennwort ist kompliziert
+
+und nicht eindeutig. Das 3.Zeichen ist es ein I oder eine römische 1?</blockquote>
+Habe gerade erst einmal <a href="http://www.comedix.de"  title="Comedix">meinen Kollegen Marco</a> auf eine Idee für ein lustiges Asterix-Gimmick angesprochen: Die römische Tastatur.
+Es ist für mich immer wieder Erstaunlich WIE WENIG man bei Webanwendungen, die für "Nichttechniker" gedacht sind, vorrausetzen kann. 

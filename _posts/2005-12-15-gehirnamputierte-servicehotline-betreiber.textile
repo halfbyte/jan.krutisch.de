@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 233
+layout: post
+title: Gehirnamputierte Servicehotline-Betreiber
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=233
+---
+Erstmal vorweg: Ich hatte (im Gegensatz zu vielen Freunden und Kollegen) nie Probleme mit Hansenet und den Servicehotlines. 
+
+Heute allerdings lief das ganze so ab:
+
+- Nachdem ich mich durch die inzwischen wohl obligatorische Nummernauswahl gepflügt habe eröffnet mir eine Telefonstimme, dass leider alle Leitungen belegt sind (Man erwartet das ja) und das (häää?) die Warteschleife leider auch voll sei. *click*
+- Dank Wahlwiederholung ist das ja kein großes Problem. Das die Nummerauswahl aber erst funktioniert, wenn man den Introtext (gefühlte Zeit: 1:30) hinter sich hat, ist schon scheisse.
+- Nach 3-4 Anrufen war ich endlich in der Warteschleife (Wartezeit >5min). Der Warteschleifen-Sound besteht aus einer Soundschleife, die sich in etwa so zusammensetzt: 20Sekunden gedudel (ziemlich laut), während der letzten 5 Sekunden das obligatorische "Bitte warten"-Gesabbel. Danach (!) ein knacken, dass man schon denkt "wow, gezz gehts los!" und dann 10 Sekunden Pause, danach beginnt das ganze von vorn.
+- Nach ca. 10 Minuten hab ich jetzt endlich einen Servicemenschen am Apparat. Er misst jetzt gerade meine Leitungen durch (!)
+- Das Problem ist vermutlich der NTBA oder der Splitter. Super. Ich brauch das Internetz ja auch nich...

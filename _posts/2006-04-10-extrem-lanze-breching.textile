@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 263
+layout: post
+title: Extrem Lanze Breching...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=263
+---
+...heute für eine Software namens "<a href="http://wiki.splitbrain.org/wiki:dokuwiki"  title="Dokuwiki">Dokuwiki</a>". 
+
+Bei <a href="http://rubyonrails-ug.de/wiki/"  title="rubyonrails-usergroup">rubyonrails-ug.de</a> schon seit geraumer Zeit im Einsatz jetzt auch hinter <a href="http://wiki.krutisch.de/doku.php"  title="krutisch-wiki">wiki.krutisch.de/</a>. ACLs machen es einfach, ein offenes Wiki mit eigenen, "geheimen" Seiten zu mixen. Templating ist simpel. Keine Datenbank nötig. Installation ist dead simple. So muss Software sein.

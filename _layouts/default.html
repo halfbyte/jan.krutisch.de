@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print"> 
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+  <![endif]-->
+
+  <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection">
+
+	<title>{{page.title}}</title>
+	<script type="text/javascript" charset="utf-8">
+    var disqus_developer = 1;
+  </script>
+  
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="span-24" id="header">
+  <h1><a href="/">http://jan.krutisch.de</a></h1>
+  <p>An ongoing conversation between Jan Krutisch and the Interwebs on nothing in particular.</p>
+</div>
+
+<div class="span-15 prepend-1 append-1" id="content">
+
+{{ content }}
+
+</div>
+
+<div class="span-6 append-1 last" id="sidebar">
+  <ul>  
+    <li><a href="/archive.html">Archive</a></li>
+    <li><a href="/about.html">About Jan</a></li>
+    <li><a href="/imprint.html">Imprint/Impressum</a></li>
+</ul>
+
+</div>
+
+
+
+<div class="span-24 last" id="footer">
+  &copy; Jan Krutisch
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/janblog/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+</body>
+</html>

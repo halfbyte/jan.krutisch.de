@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 390
+layout: post
+title: "Review: Apple In-Ear-Headset"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=390
+---
+Ich hätte es besser wissen sollen. Obwohl andererseits, klingen tun sie ja schon gut. Wenn man sie denn richtig einsetzt. Womit wir beim ersten Problem wären: Meine Ohren sind scheinbar nur bedingt In-Ohr-Kopfhörer-Geeignet. Mit viel Rumprobieren habe ich jetzt eine Kombination von zwei Ohr-Teilen, die halbwegs funktioniert ohne dass ich sofort Ohrenschmerzen bekomme oder die Dinger einfach wieder rausfallen. Und ehrlich gesagt glaube ich, dass die Ohr-Teile von Apple nicht besonders gut sind - Mangels Vergleich kann ich das aber nicht beurteilen.
+
+Aber der Reihe nach: Ich bin eigentlich anspruchslos, was die Kopfhörer angeht. Ich habe seit Jahren eigentlich immer die 25 EUR-Kampfklasse von Sony im Ohr, keine echten Ohrstöpsel, sondern diese klassischen, leicht unrunden Ohr-Hörer im 90er-Jahre-Design mit der praktischen Box zum aufrollen. Die sind jetzt aber kaputt, und da ich ja Musik eigentlich nur noch über mein iPhone höre, und das mitgelieferte Headset schon nach 2 Monaten das erste Mal zur Reparatur (=Austausch) musste und mir die Apple-Ohrhörer eh nicht gut genug klingen und ausserdem mir immer aus meinen Ohren fallen (sie sind halt speziell), dachte ich, hey, 80 Ocken für GUTE In-Ear-Stöppsel plus Headset-Funktion, klingt wie ein Deal. Wie gesagt, am Klang habe ich nix auszusetzen, bin jetzt auch nicht so der audiophile. Wenn sie gut sitzen, blenden sie die Umwelt gut aus, was bedeutet, dass man nicht so laut aufdrehen muss, alles super.
+
+Wenn sie gut sitzen. Was sie nicht tun. Was an mir liegen kann. Was aber z.B. dazu führt, dass ich die Dinger beim Joggen nicht einsetzen kann (gut, am Shuffle brauche ich auch kein Headset). Zum einen weil sie sich eh immer von alleine aus dem Ohr rausruckeln, zum anderen, weil diese dummen dummen Schnüre von Apple ja aus diesem griffigen Gummi gemacht sind (wer ist eigentlich auf die dumme Idee gekommen?), so dass sich die Schnur beim Laufen immer weiter in den Kragen der Laufjacke fressen und dann irgendwann aus den Ohren gezerrt werden.
+
+Ich bin noch ein bisschen unschlüssig, was ich jetzt mache. Als Headset taugen die Dinger auch nur bedingt, weil Reden mit Stöpseln im Ohr die zu gut isolieren auch wahnsinnig anstrengend ist. Zum Musikhören in der Bahn sind sie ganz okay, weil sie eben viel besser isolieren als so normale Stöppsel. Eine Idee wäre, sich mal richtige In-Ear-Stücke anpassen zu lassen, aber das ist sauteuer. Andererseits kann man dann auch mal einen Live-Auftritt damit absolvieren.
+
+

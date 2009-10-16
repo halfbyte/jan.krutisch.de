@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 327
+layout: post
+title: OpenId
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=327
+---
+mal <a href="http://openid.net/"  title="openid">im Auge behalten</a>, den Kram. Sieht ganz gut aus, Ruby-Consumer und -Server gibt es auch schon. Sehr schön. 

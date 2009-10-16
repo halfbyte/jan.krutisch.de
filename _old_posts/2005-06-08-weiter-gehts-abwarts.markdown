@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 175
+layout: post
+title: "Weiter gehts...abw\xE4rts!"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=175
+---
+Na, da wird sich der Verband der Elektrizit&auml;tswirtschaft aber gefreut haben: Frau Merkel will (schreibt <a href="http://www.spiegel.de/politik/deutschland/0,1518,359627,00.html">SpON</a>) die "Energiewende". Das mit den Atomkraftwerk-Ausstiegszeiten kannte man ja schon. Weitere Vorschl&auml;ge:<br />
+<ul><br />
+<li>Abschaffung der F&ouml;rderung aus dem EEG</li><br />
+<li>Umbau von den Kyoto-Zielen (Was immer das konkret heisst)</li><br />
+<li>"Abgaben auf Energie senken" (Ohne Abschaffung der &Ouml;kosteuer)</li><br />
+</ul><br />
+<br />
+H&ouml;rt sich f&uuml;r einen Umwelttechniker alles richtig toll an. Das Investitionsprogramm des EEG (dazu noch Haushaltsneutral, weil durch die Energieverbraucher direkt finanziert) geh&ouml;rt zu den wenigen Dingen der Rot/Gr&uuml;nen Regierung, die wirklich gut funktioniert haben. Sicher, es gab wie immer, wenn es F&ouml;rderungen abzugreifen gibt, Wildwuchs, aber daf&uuml;r wurden reale Jobs geschaffen, und zwar davon reichlich.<br />
+<br />
+Die Umwelttechniker k&ouml;nnen sich also schon mal auf einen zusammenbrechenden Arbeitsmarkt f&uuml;r Windtechniker und Solartechniker einstellen, nach der Wahl von Frau "Mehrwegquote" Merkel. Aber die kommen dann sicher alle in der Atomindustrie unter...hust.

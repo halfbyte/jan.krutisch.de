@@ -1,0 +1,18 @@
+---
+layout: default
+title: jan krutisch
+---
+
+h2. Blog posts
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li>
+      <h3 class="post-headline"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="post-content">
+        {{ post.content | truncate: 1000}} 
+        <a href="{{ post.url }}">read on...</a>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 10
+layout: post
+title: msnp32.dll
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=10
+---
+Wir schimpfen ja immer ganz wahnsinnig &uuml;ber Windows und die Idiotien dieser Systeme und das die MS-Programmierer nix k&ouml;nnen, etc. <br />
+<br />
+Wenn man allerdings im Zeitalter von WinXP pl&ouml;tzlich gezwungen ist, auf einem Win98-Rechner eine WLAN-Karte zu installieren, dann wird einem schnell klar, wie sehr sich vor allem diese ganze Treiberkacke verbessert hat. Jetzt meckert er immer noch nach der o.g. dll und ich weiss verdammt nochmal einfach nicht, wo er die hinhaben will.<br />
+<br />
+Scheisse mit der Scheisse hier! <a href="http://www.flaboratorium.de/experimente/1/index.htm">Wie gehtndas!</a>

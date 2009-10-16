@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 258
+layout: post
+title: Lens, Baby!
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=258
+---
+yay. Dieses mal war DHL wirklich fix. Mein Lensbaby2.0 ist da and it rocks. Bringt unheimlich Spaß damit zu spielen und sich den Fokus zurecht zu biegen.
+
+Erstes halbwegs verwertbares Resultat:
+
+<a href="http://www.flickr.com/photos/jankrutisch/116772875/" title="Photo Sharing"><img src="http://static.flickr.com/19/116772875_10207c9078_m.jpg" width="240" height="160" alt="Lens, baby!" /></a>
+
+Schon sehr "tilt-shiftig". 
+
+Auch schön:
+
+<a href="http://www.flickr.com/photos/jankrutisch/116848960/" title="Photo Sharing"><img src="http://static.flickr.com/36/116848960_a7e17907dc_m.jpg" width="240" height="160" alt="keep your focus, man!" /></a>

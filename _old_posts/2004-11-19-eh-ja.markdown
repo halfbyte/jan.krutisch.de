@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 116
+layout: post
+title: eh, ja...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=116
+---
+<a href="http://www.flickr.com/photos/jankrutisch/1575269/" title="Photo Sharing"><img src="http://www.flickr.com/photos/1575269_063d438c9b_m.jpg" width="240" height="5" alt="firefox tab hell" /></a><br />
+<br />
+[<a href="http://www.flickr.com/photos/1575269_063d438c9b_o.jpg">link zum original</a>]

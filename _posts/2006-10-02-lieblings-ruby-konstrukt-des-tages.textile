@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 305
+layout: post
+title: Lieblings-Ruby-Konstrukt des Tages
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=305
+---
+<code><pre>
+@book_array = books.collect { |book| [book.name, book.id] }
+</pre></code>
+
+das ungefähre Java 1.4-Equivalent (nicht getestet, für compilerfehler bitte nicht schlagen):
+
+<code><pre>
+bookArray = new ArrayList(books.size())
+for (Iterator it = books.iterator();books.hasNext();) {
+  IrgendeineKlasse io = (IrgendeineKlasse)books.next();
+  ArrayList inner = new ArrayList(2);
+  inner.add(io.name());
+  inner.add(io.id());
+  bookArray.add(inner);
+}
+</pre></code>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 368
+layout: post
+title: Was ich mich manchmal so zwischendurch frage
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=368
+---
+Warum konnte man vor 40 Jahren eine Zeitschrift wie den Spiegel fast ohne Werbung und mit einer als durchaus als unabhängig zu bezeichnenden Redaktion machen und damit Geld verdienen, während das scheinbar heute nicht mal mehr im Ansatz funktioniert? Wo an welcher Stelle versickert das Geld? Welche Kostenanteile haben sich da wie verschoben?

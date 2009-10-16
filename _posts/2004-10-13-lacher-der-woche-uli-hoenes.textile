@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 93
+layout: post
+title: "Lacher der Woche: Uli Hoene\xDF"
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=93
+---
+Ausgerechnet Uli Hoene&szlig; wirft der Nationaltrainerriege Vetternwirtschaft vor.<br />
+<br />
+Selten so gelacht.<br />
+<br />
+Naja, eigentlich war ja <a href="http://vowe.net/archives/005096.html">das hier</a> der Lacher der Woche.<br />
+<br />
+Und wenn ich mir das so recht &uuml;berlege, ist heute erst Mittwoch, die Headline ist also eher unpassend. Naja, wassolls, fuck dat! (Frei nach Blumentopf)<br />
+<br />
+<br />

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 219
+layout: post
+title: Motorisiert
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=219
+---
+Aus der Kategorie "Aaaalt": Vorletzten Samstag habe ich zum erstem Mal in meinem Leben hinter dem Steuer eines Personen-Kraftfahrzeugs gesessen, auf dem Verkehrsübungsplatz. Schweineaufregend, Hölleanstrengend, aber irgendwie auch gut. 
+
+Und heute werde ich mich dann für meine ersten Fahrstunden anmelden.
+
+Was man so alles tut, wenn der Chauffeur #1 einfach so verstirbt.

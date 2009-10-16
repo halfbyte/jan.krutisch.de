@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 230
+layout: post
+title: Was geht...
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=230
+---
+...<a href="http://www.spiegel.de/panorama/0,1518,389985,00.html">eigentlich in Australien</a> [SpOn] ?

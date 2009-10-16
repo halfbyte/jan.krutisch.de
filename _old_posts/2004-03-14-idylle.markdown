@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 15
+layout: post
+title: Idylle
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=15
+---
+<%image(20040314-iduelle.jpg|400|300|Idylle. (c) 2004 Jan Krutisch)%><br />
+<br />
+Da hat die Lebensabschnittsgef&auml;hrtin ohne es zu ahnen ein Lichttechnisches Kunstwerk geschaffen :)
