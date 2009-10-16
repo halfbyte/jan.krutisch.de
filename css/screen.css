@@ -1,9 +1,19 @@
 
 #footer { text-align: center; margin-top: 2em; padding-top: 2em; border-top: 1px solid black; }
 
-#header { font-size: 1.2em; margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid black;}
+#header { font-size: 1.2em; }
 
 #content { font-size: 1.2em; }
 
-.posts { list-style-type: none; margin:0; padding:0; }
+.posts, .posts-compact { list-style-type: none; margin:0; padding:0; }
 .post { }
+
+#sidebar { font-size: 1.2em;}
+#menu {margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid black; font-size: 1.2em;}
+#menu ul { list-style-type: none; display:block; margin:0; padding:0;}
+#menu li {
+  float:left;
+  display:block;
+  padding: 5px;
+  
+}

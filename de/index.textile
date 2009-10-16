@@ -16,3 +16,4 @@ h2. German articles
     </li>
   {% endfor %}
 </ul>
+<p><a href="/de/archive.html">Older posts (aka "da archive")</a></p>

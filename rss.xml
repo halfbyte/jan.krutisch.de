@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>jan.krutisch.de</title>
+    <link>http://jan.krutisch.de</link>
+    <language>en</language>
+    <webMaster>Jan Krutisch <jan@krutisch.de></webMaster>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <copyright>Copyright 2004-2009</copyright>
+    <ttl>60</ttl>
+    <description>An ongoing conversation between Jan Krutisch and the Interwebs on nothing in particular.</description>
+    {% for post in site.posts limit:10 %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://jan.krutisch.de{{ post.url }}</link>
+      <pubDate>{{ post.date }}</pubDate>
+      <guid>http://jan.krutisch.de/{{ post.url }}/</guid>
+      <description>{{ post.content | xml_escape }}</description>
+      {% for topic in post.topics %}
+      <category domain="http://jan.krutisch.de/tags/{{ topic }}">{{ topic }}</category>
+      {% endfor %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

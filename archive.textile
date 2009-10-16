@@ -1,0 +1,14 @@
+---
+layout: default
+title: archives - jan krutisch
+---
+
+h2. All articles
+
+<ul class="posts-compact">
+  {% for post in site.posts %}
+    <li>
+      &raquo; <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})
+    </li>
+  {% endfor %}
+</ul>
