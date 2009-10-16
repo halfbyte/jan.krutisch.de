@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 341
 layout: post
-title: "Tote B\xE4ume mit schwarzer Tinte."
+title: "Tote Bäume mit schwarzer Tinte."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=341
 ---
 <!-- s9ymdb:16 --><img width='110' height='89' style="border: 0px; padding-left: 5px; padding-right: 5px;float:left;" src="/uploads/jan_mit_buch.s9yThumb.jpg" alt="" />Letzten September sind <a href="http://ramonsblog.wartala.de/wordpress/index.php/archives/67"  title="wartala.de">Ramon</a> und ich vom Addison-Wesley-Verlag gefragt worden, ob wir ein Buch über Rails schreiben wollen. Nach dem Abklingen der ersten Verblüffung haben wir uns dann relativ schnell an die Arbeit gemacht, es sollte aber noch bis Anfang April diesen Jahres dauern, bis die Arbeit an dem Buch abgeschlossen war. Ein Buch zu schreiben ist an sich bereits harte Arbeit. Ein Buch neben dem Job her zu schreiben ist schon echt anstrengend. Ein Buch zu schreiben, während man sich gerade in einen neuen Job einarbeitet ist eine mittlere Katastrophe und keineswegs zur Nachahmung empfohlen.

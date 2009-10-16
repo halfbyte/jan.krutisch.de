@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 200
 layout: post
-title: "Oh Du mein Mineral\xF6l!"
+title: "Oh Du mein Mineralü6l!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=200
 ---
 Aus der Warte eines noch Führerscheinlosen ÖPNV-Benutzers ist die Benzinpreisdebatte echt mal amüsant anzusehen. 

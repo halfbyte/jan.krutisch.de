@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 236
 layout: post
-title: "Dem Sch\xE4uble seine Denke"
+title: "Dem Schäuble seine Denke"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=236
 ---
 Irgendwie hatte ich ja schon <a href="http://blog.krutisch.de/archives/231-Mautkontrollstellen-auch-zu-Fahndungszwecken....html">böse Vorahnungen</a>, als ich gehört habe, wer Innenminister wird.

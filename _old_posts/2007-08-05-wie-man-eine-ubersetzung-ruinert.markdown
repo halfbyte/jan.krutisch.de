@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 359
 layout: post
-title: "Wie man eine \xDCbersetzung ruinert."
+title: "Wie man eine Übersetzung ruinert."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=359
 ---
 Dialekte in Büchern zu benutzen ist immer ein zweischneidiges Schwert. Es ist nicht immer ganz einfach, den Klang und die Melodie eines Dialekts in Schrift umzusetzen, insbesondere dann, wenn man nicht davon ausgehen kann, dass der Leser den Dialekt kennt, respektive versteht.

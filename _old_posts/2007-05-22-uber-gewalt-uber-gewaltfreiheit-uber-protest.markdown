@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 344
 layout: post
-title: "\xDCber Gewalt. \xDCber Gewaltfreiheit. \xDCber Protest"
+title: "Über Gewalt. Über Gewaltfreiheit. Über Protest"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=344
 ---
 Eine Replik auf den <a href="http://www.elfengleich.de/index.php?log_id=759#kommentare"  title="elfengleich.de">tollen Artikel der geschätzten Frau Elfengleich</a> und ihre Antwort auf meinen etwas länglichen Kommentar. Ursprünglich als Kommentar gedacht, ist er wieder eigentlich zu lang und erscheint deswegen hier. Ich erlaube mir, Sannie etwas ausführlicher zu zitieren um den Zusammenhang klar zu machen:

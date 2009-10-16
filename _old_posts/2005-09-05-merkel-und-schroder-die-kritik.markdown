@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 201
 layout: post
-title: "Merkel und Schr\xF6der - Die Kritik!"
+title: "Merkel und Schrü6der - Die Kritik!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=201
 ---
 Hier mal ein paar Schlussfolgerungen ab vom Schuss (Das ich Schröder wesentlich souveräner als Merkel fand nur kurz vorweg):

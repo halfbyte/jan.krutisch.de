@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 197
 layout: post
-title: "\"Nur die Ajatollahs k\xF6nnen B\xFCrgerkrieg noch abwenden\""
+title: "\"Nur die Ajatollahs kü6nnen Bürgerkrieg noch abwenden\""
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=197
 ---
 Ein Satz der mir kein Vertrauen einflößt, das muss ich an dieser Stelle einfach mal so sagen. Wie mein Kollege so schön sagte: "Die Ajatollahs gelten nicht als klassische Bürgerkriegsabwender". Indeed.

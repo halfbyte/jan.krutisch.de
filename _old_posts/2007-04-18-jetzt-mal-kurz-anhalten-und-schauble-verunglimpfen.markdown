@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 339
 layout: post
-title: "Jetzt mal kurz anhalten und Sch\xE4uble verunglimpfen!"
+title: "Jetzt mal kurz anhalten und Schäuble verunglimpfen!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=339
 ---
 <!-- s9ymdb:14 --><img width='88' height='110' src="/uploads/stasi20-schablone.s9yThumb.png" alt="" />

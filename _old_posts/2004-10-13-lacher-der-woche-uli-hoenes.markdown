@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 93
 layout: post
-title: "Lacher der Woche: Uli Hoene\xDF"
+title: "Lacher der Woche: Uli Hoeneß"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=93
 ---
 Ausgerechnet Uli Hoene&szlig; wirft der Nationaltrainerriege Vetternwirtschaft vor.<br />

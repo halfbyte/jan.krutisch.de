@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 391
 layout: post
-title: "Re:Publica - Ein Res\xFCmee nach 1,5 Tagen."
+title: "Re:Publica - Ein Resümee nach 1,5 Tagen."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=391
 ---
 Also. Hätte ich nicht nur läppische 40 EUR für diese Konferenz bezahlt, wäre ich jetzt einigermaßen erbost. Dass das WLAN konsequent für den Arsch ist, kann man verurteilen, aber dafür habe ich ja meinen Stick dabei. Dass das Catering im Friedrichsstadt-Palast frech teuer ist, geschenkt, die Umgebung gibt ja genug leckere Dinge zu Berlin-typischen Sparpreisen her.

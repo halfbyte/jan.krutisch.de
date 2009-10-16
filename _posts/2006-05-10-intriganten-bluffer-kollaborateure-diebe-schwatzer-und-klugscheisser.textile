@@ -1,7 +1,0 @@
---- 
-wordpress_id: 267
-layout: post
-title: "Intriganten, Bluffer, Kollaborateure, Diebe, Schw\xE4tzer und Klugscheisser"
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=267
----
-Nuff said. Danke <a href="http://vowe.net/archives/007246.html" >Cem</a>. Danke <a href="http://www.fr-aktuell.de/in_und_ausland/politik/dokumentation/?sid=115344fe9cc82fe8d42745bf83e955d3&em_cnt=878795" >Thomas Leif</a>.

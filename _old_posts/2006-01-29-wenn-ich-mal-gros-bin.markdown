@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 242
 layout: post
-title: "Wenn ich mal gro\xDF bin..."
+title: "Wenn ich mal großDF bin..."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=242
 ---
 ...bzw wenn ich meinen Führerschein endlich habe und dann irgendwann mal wieder genug Geld da ist, dann leiste ich mir eine <a href="http://www.digitalkamera.de/Kameras/Pentax/ist_DS.asp" >Pentax *ist DS</a>.

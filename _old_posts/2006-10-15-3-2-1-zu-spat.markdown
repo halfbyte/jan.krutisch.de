@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 309
 layout: post
-title: "3, 2, 1 ...zu sp\xE4t"
+title: "3, 2, 1 ...zu spät"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=309
 ---
 Ich habe gerade ein Objektiv "in der Bucht" ersteigert. Interessantes Zitat aus 'ner Mail des Verkäufers:

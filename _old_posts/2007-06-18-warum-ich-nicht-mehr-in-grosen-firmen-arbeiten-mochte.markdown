@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 352
 layout: post
-title: "Warum ich nicht mehr in gro\xDFen Firmen arbeiten m\xF6chte..."
+title: "Warum ich nicht mehr in großDFen Firmen arbeiten mü6chte..."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=352
 ---
 ...demonstriert gerade sehr anschaulich die Weltfirma Yahoo!. Morgen ist es genau eine Woche her, dass Flickr die I18n-Version deployed hat und seit dem steht die Zeit im Flickr-HQ scheinbar still. Abgesehen von gelegentlichen Versuchen, die glühende Community mit "wir wissen nix neues, geduldet Euch"-Sprüchen zu beruhigen ist seit 6 Tagen NICHTS passiert. Nada. Ingenting. Nuffin.

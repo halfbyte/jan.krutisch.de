@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 345
 layout: post
-title: "Und was ich beinahe noch geschrieben h\xE4tte..."
+title: "Und was ich beinahe noch geschrieben hätte..."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=345
 ---
 ...war sowas wie "Mir ist es eigentlich egal, ob sich jemand wie Kai Diekmann vor Angst in die Hosen macht. Aber er hat Familie und seine Kinder können nichts für ihren kaputten Vater".

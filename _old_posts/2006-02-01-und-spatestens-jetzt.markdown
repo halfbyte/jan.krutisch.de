@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 245
 layout: post
-title: "Und sp\xE4testens JETZT..."
+title: "Und spätestens JETZT..."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=245
 ---
 ...ist klar, dass die Jyllands-Posten genau das richtige getan hat, auch wenn sie jetzt alle ob der nationalen und der eigenen Sicherheit (bzw. Wirtschaft) wegen auch sicher richtigerweise zurückrudern.

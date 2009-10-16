@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 99
 layout: post
-title: "zw\xF6lf st\xE4mme - reichlich verr\xFCckte"
+title: "zwü6lf stämme - reichlich verrückte"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=99
 ---
 Man kann es sich kaum vorstellen, aber wenn es um solche <a href="http://www.spiegel.de/unispiegel/studium/0,1518,323695,00.html">kaputten Fanatiker</a> geht, wie diese sog. "Glaubensgemeinschaft", dann bin ich sogar mit Frau Hohlmeier einer Meinung.<br />

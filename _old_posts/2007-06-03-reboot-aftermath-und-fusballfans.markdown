@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 347
 layout: post
-title: "Reboot aftermath und Fu\xDFballfans"
+title: "Reboot aftermath und FußDFballfans"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=347
 ---
 Die Kopenhagener Strøget ist an Samstagen eigentlich immer voll. Gestern allerdings war sie voll mit gelb-blauen und weiss-roten Trikots. Alles Fans der beiden Nationalmannschaften, die in der EM-Qualifikation gegeneinander antreten sollten. Kongens Nytorv war komplett von Schweden besetzt, Nyhavn war eine einzige, Bierselige Masse von gröhlenden Fans. Als wir so gegen 14:00 zu einer Hafenrundfahrt aufbrachen, haben wir uns noch darüber unterhalten, dass in Deutschland so ein Happening vermutlich nicht ohne diverse Hundertschaften der Polizei auskommen würde.

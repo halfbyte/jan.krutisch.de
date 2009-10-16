@@ -1,7 +1,0 @@
---- 
-wordpress_id: 262
-layout: post
-title: "Es ist Fr\xFChling, Dammit!"
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=262
----
-<a href="http://www.flickr.com/photos/jankrutisch/122721900/" title="Photo Sharing"><img src="http://static.flickr.com/35/122721900_06d8b6447e_m.jpg" width="240" height="160" alt="spring. appreciated." /></a>

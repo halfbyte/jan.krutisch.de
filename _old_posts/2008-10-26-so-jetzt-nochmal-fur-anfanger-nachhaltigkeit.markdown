@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 387
 layout: post
-title: "So, jetzt nochmal f\xFCr Anf\xE4nger: \"Nachhaltigkeit\""
+title: "So, jetzt nochmal für Anfänger: \"Nachhaltigkeit\""
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=387
 ---
 So, jetzt sind wir gerade mal ein paar Wochen in diesem Riesenschlamassel namens Weltwirtschaftskrise. Und schon geraten etliche Autohersteller ins Taumeln, kündigen an Leiharbeiter nicht mehr zu benötigen (VW), Stoppen für mehrere Wochen die Bänder (Mercedes) etc. etc.

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 376
 layout: post
-title: "Musik. Gute Musik. Gro\xDFartige Musik, sogar!"
+title: "Musik. Gute Musik. GroﬂDFartige Musik, sogar!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=376
 ---
 Zwei Platten sind mir in letzter Zeit zugeflogen, die ich hier nicht unerw‰hnt lassen will. 

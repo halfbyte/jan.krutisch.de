@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 341
+layout: post
+title: "Tote Bäume mit schwarzer Tinte."
+wordpress_url: http://localhost/~jankrutisch/wordpress/?p=341
+---
+<!-- s9ymdb:16 --><img width='110' height='89' style="border: 0px; padding-left: 5px; padding-right: 5px;float:left;" src="/uploads/jan_mit_buch.s9yThumb.jpg" alt="" />Letzten September sind <a href="http://ramonsblog.wartala.de/wordpress/index.php/archives/67"  title="wartala.de">Ramon</a> und ich vom Addison-Wesley-Verlag gefragt worden, ob wir ein Buch über Rails schreiben wollen. Nach dem Abklingen der ersten Verblüffung haben wir uns dann relativ schnell an die Arbeit gemacht, es sollte aber noch bis Anfang April diesen Jahres dauern, bis die Arbeit an dem Buch abgeschlossen war. Ein Buch zu schreiben ist an sich bereits harte Arbeit. Ein Buch neben dem Job her zu schreiben ist schon echt anstrengend. Ein Buch zu schreiben, während man sich gerade in einen neuen Job einarbeitet ist eine mittlere Katastrophe und keineswegs zur Nachahmung empfohlen.
+
+Jetzt ist es also vollbracht. Jetzt ist es also Zeit den Lohn für die harte Arbeit einzufahren. Soll heissen: <a href="http://www.amazon.de/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.de%2FWebanwendungen-Praxiseinstieg-Installation-Testing-Erweiterung%2Fdp%2F3827324912%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1177701703%26sr%3D8-1&site-redirect=de&tag=blogkrutischd-21&linkCode=ur2&camp=1638&creative=6742">Kauft</a><img src="http://www.assoc-amazon.de/e/ir?t=blogkrutischd-21&amp;l=ur2&amp;o=3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> das Buch :)
+
+Etwas genauer: Das Buch ist ein klassisches Einsteigerbuch. Es setzt zwar Programmierkenntnisse voraus, aber weder Ruby- noch Rails-Kenntnisse. Es ist eine DVD mitgeliefert die sogar ein VMWare-Image enthält in dem ein Debian mit kompletter Rails-Installation inklusive RadRails enthalten ist, so daß man sofort loslegen kann.
+
+Für alle, die die letzten zwei Jahre geschlafen haben und die nicht wissen was Rails ist, empfehle ich <a href="http://de.wikipedia.org/wiki/Ruby_on_Rails"  title="wikipedia.org">den Wikipedia-Artikel, den auch Ramon verlinkt hat</a>.
+
+Und wenn dann, nach Lektüre des Buches, noch Fragen offen sind, ist die <a href="http://www.rubyonrails-ug.de"  title="rubyonrails-ug.de">Rails-Usergroup</a> (einer der Gründe, warum wir das Buch geschrieben haben) immer für Euch da.

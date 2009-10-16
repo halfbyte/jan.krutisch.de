@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 271
 layout: post
-title: "W\xE4re das Leben ein Gary-Larson-Comic..."
+title: "Wäre das Leben ein Gary-Larson-Comic..."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=271
 ---
 ...würde die Überschrift <a href="http://www.spiegel.de/sport/fussball/0,1518,416545,00.html"  title="SpOn">zu diesem</a> Artikel vermutlich "Schiedsrichter-Deppen" heissen:

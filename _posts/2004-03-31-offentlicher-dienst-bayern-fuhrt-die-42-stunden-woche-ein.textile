@@ -1,9 +1,0 @@
---- 
-wordpress_id: 23
-layout: post
-title: "\xD6ffentlicher Dienst: Bayern f\xFChrt die 42-Stunden-Woche ein"
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=23
----
-Die meinen das tats&auml;chlich ernst. Ich bin wirklich &uuml;berrascht. Sch&ouml;n ist, das sie offen zugeben, das dadurch Stellen eingespart werden sollen. Bis jetzt hat man ja noch m&uuml;hevoll versucht, so zu tun, als w&uuml;rden durch die Arbeitszeitverl&auml;ngerung Arbeitspl&auml;tze geschaffen, bzw. erhalten. (Auch wenn das einem halbwegs denkenden Menschen nicht ansatzweise logisch erscheint)<br />
-<br />
-[ via: <a href="http://www.spiegel.de/politik/deutschland/0,1518,293409,00.html">&Ouml;ffentlicher Dienst: Bayern f&uuml;hrt die 42-Stunden-Woche ein - Politik - SPIEGEL ONLINE</a> ]

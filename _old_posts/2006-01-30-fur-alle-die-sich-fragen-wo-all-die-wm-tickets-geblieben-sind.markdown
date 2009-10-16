@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 243
 layout: post
-title: "F\xFCr alle die sich fragen, wo all die WM-Tickets geblieben sind...."
+title: "Für alle die sich fragen, wo all die WM-Tickets geblieben sind...."
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=243
 ---
 ...lohnt ein Blick in Toshibas Marketing-Abteilung (bzw. <a href="http://www.golem.de/0601/43024.html" >zu Golem</a>).

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 286
 layout: post
-title: "Waterloo Sunset - Mann ist mir \xFCbel"
+title: "Waterloo Sunset - Mann ist mir übel"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=286
 ---
 Hah! Jetzt weiss ich wieder, was ich schreiben wollte, als ich heute unter der Dusche stand.

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 106
 layout: post
-title: "das gro\xDFartige bush-Endorsement der Bild"
+title: "das gro§DFartige bush-Endorsement der Bild"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=106
 ---
 Weil ich mich gestern so &uuml;ber den "ach-so-kritischen" Medienkritiker (dieses mal bekommt er keinen Link von mir) und seine Lobpreisungen auf das Bild-Endorsement ge&auml;rgert habe, hier kurz die Argumente des Herrn M&uuml;ller-Vogg zerpfl&uuml;ckt:<br />

@@ -3,10 +3,10 @@ layout: default
 title: jan krutisch
 ---
 
-h2. Blog posts
+h2. All articles
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 10 %}
     <li>
       <h3 class="post-headline"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="post-content">

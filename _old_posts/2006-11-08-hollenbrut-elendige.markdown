@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 312
 layout: post
-title: "H\xF6llenbrut, elendige!"
+title: "Hü6llenbrut, elendige!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=312
 ---
 <div class="serendipity_imageComment_left" style="width: 265px"><div class="serendipity_imageComment_img"><img width='265' height='188'  src="/uploads/screenshots/buzz.gif" alt="" /></div><div class="serendipity_imageComment_txt">Buzz Screenshot</div></div>Da hat man so einen tollen Mac und was läuft dann darauf? <a href="http://www.parallels.com/"  title="parallels.com">Windows</a>. Toll. Toll jedenfalls um kurz mal Seiten auf dem IE zu testen, kommt man ja nich drumrum.

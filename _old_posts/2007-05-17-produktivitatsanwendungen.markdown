@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 343
 layout: post
-title: "Produktivit\xE4tsanwendungen"
+title: "Produktivitätsanwendungen"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=343
 ---
 Seit geraumer Zeit bin ich auf der Suche nach dem geeigneten Produktivitätstool mit dem ich (nach möglichkeit GTD-Kompatibel, damit ich zumindest die Chance habe, es noch mal zu versuchen) meine Aufgaben (Landläufig ja Todos genannt klammer auf wann steht das eigentlich im Duden klammer zu) tracken kann. In der letzten Zeit habe ich versucht, dem Papier (in Form meines bisher vor allem für spontane Brainstormings verwendeten Moleskine) eine Chance zu geben. War so mittel erfolgreich, fürchte ich.

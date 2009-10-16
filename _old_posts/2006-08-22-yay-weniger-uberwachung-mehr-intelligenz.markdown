@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 291
 layout: post
-title: "Yay! Weniger \xDCberwachung, mehr Intelligenz!"
+title: "Yay! Weniger Überwachung, mehr Intelligenz!"
 wordpress_url: http://localhost/~jankrutisch/wordpress/?p=291
 ---
 Sehr schöner Artikel bei <a href="http://www.hebig.com/archives/003952.shtml"  title="Heiko Hebig">Heiko Hebig</a>:
