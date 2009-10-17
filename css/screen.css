@@ -1,19 +1,45 @@
+body { background-color: #611C26; color: #2B211D;}
+.container { background-color: #F1E4B7;}
+#footer { text-align: center; margin-top: 2em; padding-top: 2em; padding-bottom: 2em; border-top: 1px solid #C5003E; font-size: 1.2em;}
 
-#footer { text-align: center; margin-top: 2em; padding-top: 2em; border-top: 1px solid black; }
+#header { height:9.4em; overflow:hidden; }
+#header h1 { margin:0;padding:0; margin-top:-0.3em; margin-left: -0.05em;}
+#header h1 a { font-size: 3.8em; font-weight: bolder; text-decoration:none; color:#8EB7A8; line-height:0.8em;}
+#header p { font-weight: bolder; margin-left: 2.3em; margin-top:-0.4em; font-size:1.5em; z-index:4; position:absolute; color:#C5003E;}
+#content { font-size: 1.2em;}
 
-#header { font-size: 1.2em; }
+#content h2,
+#content h3,
+#content h4 { font-weight: 200; line-height: 1em;}
 
-#content { font-size: 1.2em; }
+#content h2 { font-size: 3em; letter-spacing:-0.05em;}
+#content h3 { font-size: 2em; letter-spacing:-0.05em;}
+
+#content h3 span { font-style:italic; font-size:0.6em;display:block; color: #8EB7A8; line-height:0.8em;}
+#content h3 a { text-decoration:none; color: #2B211D;}
+#content h3 a:hover { text-decoration:underline;}
 
 .posts, .posts-compact { list-style-type: none; margin:0; padding:0; }
-.post { }
+.post-content { font-size:1.2em  ; }
 
-#sidebar { font-size: 1.2em;}
-#menu {margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid black; font-size: 1.2em;}
+#sidebar {}
+#sidebar ul { font-weight: bold; font-size:1.5em; list-style-type: none; margin:0; padding:0;}
+#sidebar ul a { text-decoration: none; color: #2B211D;}
+#sidebar ul a:hover { text-decoration: underline; }
+
+#menu {margin-bottom: 0.5em; border-bottom: 1px solid #C5003E; background-color:#8EB7A8; font-size: 1.5em; font-weight: bolder; }
 #menu ul { list-style-type: none; display:block; margin:0; padding:0;}
 #menu li {
   float:left;
   display:block;
-  padding: 5px;
-  
+  padding: 0.2em 0 0.2em 2.25em;  
 }
+#menu li a:link, #menu li a:visited { text-decoration:none; color: #2B211D;}
+
+#menu li.active  { background-color:#F1E4B7; }
+
+#menu li a:hover { color:#F1E4B7; }
+
+a:link, a:visited { color: #C5003E;}
+
+blockquote { font-family: Georgia, serif;}
