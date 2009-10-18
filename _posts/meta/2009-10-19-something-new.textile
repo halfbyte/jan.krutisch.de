@@ -1,0 +1,9 @@
+---
+title: Something new
+layout: post
+---
+Yes, I'm a bit late to the game, but finally it clicked for me: I want to write Blog posts in my favourite Text editor and want to have it versioned, thank you very much.
+
+Well, here it is. My all-new website. It is an experiment to try to bundle my various blogging activities here. After all, my blogging-frequency dropped near zero anyway, so having like three and a half blogs only made matters worse.
+
+Enjoy. I'll keep you posted on my experiences. Eventually.
