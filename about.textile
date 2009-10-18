@@ -1,7 +1,19 @@
 ---
-layout: default 
+layout: default
+title: About Jan Krutisch
 ---
 
 h2. About Jan Krutisch
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a *passionate developer*, an enthusiastic *user of a digital camera* and a creator of *random blips and bleeps*. I like *Rails* and *Ruby* but don't mind the occasional dash into other environments.
+
+I always aim at the *cheapest pun* possible. I am known to *rehearse* my *beatbox skills* while using the shower or while waiting for {{{rake test}}}. I feel *strange in a suit* and even *stranger in latex pants*. I *like Macs*, but *don’t worship* them. I *don’t worship anything*, really.
+
+Up to now, I programmed a *huge array of programmable devices and systems*, ranging from *ultra low voltage integrated microprocessors* (such as the TI MSP 430 series) to *multi-million-page-impression-per-day web applications* (such as aol.de). I have written code in Languages such as Logo, C, C++, E, Basic (in it’s countless incarnations such as VB, BlitzBasic, Amos, QuickBasic, TurboBasic), Pascal, Perl, PHP, Python, Java, Coldfusion (Oh, the horror!), Javascript, TypoScript (Oh, the horror!) and probably a dozen more I don't not remember (for my own good). I pretend to know a *few things* about *the Interwebs*.
+
+Still *not impressed*? Dang.
+
+I am one of the founders of the German "*rails usergroup*":http://rubyonrails-ug.de/ and currently work for a Hamburg-based company called "*mindmatters*":http://www.mindmatters.de/ as *rails team lead*. I am a *coauthor* of the *german rails book* “Webapplikationen mit Ruby On Rails” from Addison-Wesley, which is, unfortunately, a bit *outdated* by now.
+
+This website is an experiment to finally bundle all my blogging activities. It contains entries in both german (which will mostly be political rants and personal observations) and english (which will be mostly technical and work-related). If you are one of those crazy realtime web people, you will also find me on "twitter":http://twitter.com/halfbyte.
+
