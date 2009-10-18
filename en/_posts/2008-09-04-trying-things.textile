@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 57
+layout: post
+title: Trying things...
+wordpress_url: http://localhost3000.de/2008/09/04/trying-things/
+---
+This is a test to post from shozu, something that never really worked on my old phone.<p align="right" ><a href="http://www.shozu.com/portal/?utm_source=upload&amp;utm_medium=graphic&amp;utm_campaign=upload_graphic/" target="_blank" ><img src="http://www.shozu.com/resources/messages/logo_blog.gif" alt="Posted by ShoZu" border="0" /></a></p>

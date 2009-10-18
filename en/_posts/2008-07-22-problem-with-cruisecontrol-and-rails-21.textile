@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 56
+layout: post
+title: Problem with Cruisecontrol and Rails 2.1
+wordpress_url: http://localhost3000.de/?p=56
+---
+This is just a quick note, I will try to expand later on as I gather more details on the issue.
+
+After upgrading our first application to rails 2.1, the cruisecontrol.rb integration suddenly stopped working. The reason is still a bit cloudy, it seems as if rails 2.1 changed the place where the environment is determined, which in turn means that the line ENV['RAILS_ENV']='test' (used in the cc_build.rake from cc.rb) doesn't really switch rails into test mode. Instead, development.rb is loaded and the development database credentials are used, which don't really exist on my ccrb box, thus, bringing the build process to a grinding halt.
+
+I have yet to find any details on this, and surprisingly, a quick google search suggests that I am really the only one having that problem.
+
+The quick fix is to use project.build_command = 'RAILS_ENV=test rake cruise' in cruise_config.rb but that surely sucks big time.
+
+As I wrote, I still have to investigate a little more here to make sure it is really an issue with cc.rb and rails and note any of the obscure plugins in the project, so watch this space for updates on the issue.

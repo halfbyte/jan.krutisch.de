@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 36
+layout: post
+title: Programming Erlang - A book review
+wordpress_url: http://localhost3000.de/2007/11/03/programming-erlang-a-book-review/
+---
+I have a long list of book reviews to write, and one day, I simply had to start writing them fer real. GTD-Style, so to speak. So here we go. The book I'll talk about is "Programming Erlang" by Joe Armstrong, published by the Pragprogs.
+
+<a href="http://www.amazon.de/gp/product/193435600X?ie=UTF8&amp;tag=blogkrutischd-21&amp;linkCode=as2&amp;camp=1638&amp;creative=6742&amp;creativeASIN=193435600X"><img src="http://localhost3000.de/wp-content/uploads/2007/11/programming_erlang.jpg" align="left" border="0" /></a><img src="http://www.assoc-amazon.de/e/ir?t=blogkrutischd-21&amp;l=as2&amp;o=3&amp;a=193435600X" style="border: medium none  ! important; margin: 0px ! important; float: left" border="0" height="1" width="1" />
+
+For someone who never had a formal education in computer science, Erlang is a real beast to look at - It's a functional programming language with a really strange syntax and fundamentally different assumptions on a lot of things (And that's just the tip of the iceberg). Sounds like fun.  (And I mean that)
+
+Well, it is. Joe Armstrong does one hell of a job to explain all the beforementioned alien concepts and, as generally true with PragProg books, he's really passionate about it. I guess I would enjoy the book even more if I could find some time reading it while doing all the examples for real. But it was a good read, nevertheless. I also like the balance he'd found between teaching the concepts and showing some real life demonstrations and as a third block, reference. Plus the demonstrations are pretty cool, I think. I always wanted to develop a shoutcast server. Didn't you too? :)
+
+That beeing said, I can go on and say that the book is much harder to swallow for me as, for example the Pickaxe. The comparison is unfair, because, let's face it, in my current surroundings Ruby has so many more applications than Erlang. Erlang has some pretty specific purposes (like, writing extremely scalable server architectures) and my demand for those is quite limited, while Ruby really is some kind of Swiss knive programming language and I tend to use it for almost everything I code nowadays. And so here's the real drawback: While reading the pickaxe, I had thoughts like "Oh, that's neat, I could use this" on almost every page. That switch didn't flip on me while reading "The Zebra Crossing", really. Again, I blame this more on my missing formal education on functional languange and the resulting alienation.
+
+I still have the urge to do the tutorials hands on and will probably change this review for the better, as soon as I did, because I have some ideas (ah, those again) that will indeed increase my need for extremely scalable server architectures.
+
+And that's even the reason why I think that everybody interested in the future of programming should probably read this book: Because it shows one solution for a problem we, the software developers of the world, will face much more often from now on: Developing things that scale, especially over n processor cores. Right now we are talking about n=4 or even n=8 and the current route (xen and the likes) of virtualisation gives us an excuse to still think scalar without the need to worry much about concurrency (actually we do need to worry, we just tend to ignore it most of the time). I expect this to change with the current trend of putting n into regions of probably 16, 32 and so on.
+
+All in all, a fun, recommended reading that was partly lost on me, which I blame more on me than on the book. Huzzah!

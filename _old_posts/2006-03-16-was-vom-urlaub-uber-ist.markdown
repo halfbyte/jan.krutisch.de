@@ -1,7 +1,0 @@
---- 
-wordpress_id: 255
-layout: post
-title: "Was vom Urlaub über ist..."
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=255
----
-<a href="http://www.flickr.com/photos/jankrutisch/111445798/" title="Photo Sharing"><img src="http://static.flickr.com/47/111445798_7fad6ce72e.jpg" width="500" height="127" alt="how low can you go?" /></a>

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 46
+layout: post
+title: "announcement: the ultimate framework shootout!"
+wordpress_url: http://localhost3000.de/2008/04/08/announcement-the-ultimate-framework-shootout/
+---
+Yesterday, <a href="http://mt7.de" title="mt7.de">Thorsten</a> came up with the idea for a private <a href="http://pastie.caboo.se" title="Show Pastie some love!">pastie</a>-like site. We are currently preparing a talk and he was wondering where we could leave code snippets for that. Pastie kind of fails, because we'd have to track the pastie links elsewhere additionally. A git repo (my first bet) is probably too structured for short snippets.  But I thought, "hey, a pastie site...i did one of those", and it's true, because I chose a minimal pastie-like rails app as a demo for my i18n-lib shootout for Rails-Konferenz last year - although I never used the examples in the talk, the process of trying out every lib out there with a small, but thourough example was extremely helpful.
+
+Then, I thought, well, I've written quite a few camping apps during the last week, and a camping app is probably more efficient. And so, last night, I went for it. The whole way. coding, versioning, deployment. What I left out was testing, but camping apps are usually not conceived in a TDD way, I'm afraid. When I went to bed at 3:30 AM (yipyip), the app was running on my private vServer using an RV hosting approach. The app is almost finished, I'm currently having trouble to leave out the authentication for some publicly available actions such as feeds.
+
+Thing is: It was not as pain-free as I expected it. Rendering XML (rss in this case) with camping is a little harder. Setting up the deployment was painful and camping doesn't play nice with the current version of ActiveRecord in conjunction with MySQL, so the app currently runs on sqlite3, which is okay, I guess, at least for the expected scope.
+
+All in all, it probably took me about 4 hours. I'll throw another 2 at it for the feed's fixing and probably a dash of design. And then, I'll do it all over again. This time Testdriven, using Merb and DataMapper. I have a good idea about the data model, so not having non-destructive migrations will not hurt me. After that, I'll do it again using edge rails. And then, probably, I'll try Ramaze. And then probably another framework. And another one.
+
+I will publish all my approaches to github. And I will write at least one blog entry on every framework, plus one or another summarizing article. That's my own little task for this spring. It gives me a chance to try as many different approaches as possible and will hopefully show a few quirks and a few highlights in every framework.

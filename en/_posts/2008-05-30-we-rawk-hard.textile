@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 54
+layout: post
+title: We rawk hard!
+wordpress_url: http://localhost3000.de/?p=54
+---
+When was the last time you played with something you built and you started to feel like a small child, grinning all the time, drunk with possibilites (and beer, in my case)? Well, yesterday evening was one of that moments. We had a real, working, prototype of the reacTIVision-Stuff I talked about <a href="http://localhost3000.de/2008/05/17/tangible-interfaces-me-wants/">last time</a>, running with a slightly modified version of my test app. Simple stuff that took a lot of work in setting up the hardware, calibrating the reacTIVision software, playing with lighting, modifying the glass surface and on and on. But the result was...special. It is almost weird how great it feels to move some small magnets on a glass surface and seeing some lines drawn in a color that's modified by turning the magnets. (we used magnets because they had a good knobby shape and nothing else was in reach...no need for magnetism). Now, the hardware is improvable. We need a better mirror, maybe a better camera, we need a real table like setup, we need real IR lighting, and whatnot.
+
+But what we have learned yesterday is that it's absolutely feasible to build that thing. It will work. So, while the hardware is built, we'll also go back to the software lab and try to find ideas and turn them into working code.
+
+Yes, I am one happy camper today. Still smiling from the experience of yesterday evening. Go, <a href="http://www.maeshroom.de">mæshroom</a>, go.

@@ -1,0 +1,14 @@
+---
+layout: default
+title: german archives - Jan Krutisch
+---
+
+<h2>All german articles</h2>
+
+<ul class="posts-compact">
+  {% for post in site.categories.de %}
+    <li>
+      &raquo; <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})
+    </li>
+  {% endfor %}
+</ul>

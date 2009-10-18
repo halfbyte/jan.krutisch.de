@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 20
+layout: post
+title: "Testing: How to catch REALLY stoopid mistakes"
+wordpress_url: http://localhost3000.de/2007/06/14/testing-how-to-catch-really-stoopid-mistakes/
+---
+While I was debugging some code I thought to be already working, I noticed that I messed up a part of my relations code: A User in my app may have a Coach, which is also a User. Now, my first stab at it was this:
+<pre lang="ruby">has_one :coach, :class => User, :foreign_key = 'coach_id'</pre>
+which is utter crap, of course, since it actually should be
+<pre lang="ruby">belongs_to :coach, :class => User, :foreign_key = 'coach_id'</pre>
+If only I would have used the test-first approach, I hear you say.
+
+Only, that I did and the tests all worked. Because the first line is, as you may know, absolutely valid rails code. But of course it sets the foreign key on the wrong object, making it impossible to have a Coach take more than one user. My error (besides cranking out climate-induced braindead code) has been to insufficiently test the relation. I can see two ways of hardening the test harness in this case:
+<ol>
+	<li>Testing not only the correct value of the actual association (like, say "<code>assert_not_nil user.coach</code>") but also the foreign key ("<code>assert_not_nil user.coach_id</code>"). This would have caught my error, but I normally don't do that because it feels like testing rails interna, which you shouldn't do.</li>
+	<li>Testing a 1:n relation using more than one data pair. Since one coach may have many users, but one user may have only one coach, it might be a good idea to test if that actually works.</li>
+</ol>
+The whole case just reminded me of the fact that the errors you make tend to be at least one order sillier that you would have thought they could be. So tests really cannot be silly and stupid looking enough.

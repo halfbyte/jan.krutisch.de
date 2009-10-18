@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 7
+layout: post
+title: goin&#039; public
+wordpress_url: http://localhost3000.de/2007/03/22/goin-public/
+---
+This blog is now publicly available. Hooray.

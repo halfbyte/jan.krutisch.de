@@ -1,0 +1,43 @@
+--- 
+wordpress_id: 35
+layout: post
+title: Rails on OS X Leopard is cool, but...
+wordpress_url: http://localhost3000.de/2007/11/03/rails-on-os-x-leopard-is-cool-but/
+---
+...somehow they managed to f'**k it up, anyway. Because, out of the box
+
+<pre lang="bash">rake rails:freeze:gems</pre>
+
+fails with a remarkably stupid and confusing error message:
+
+<pre lang="bash">
+Freezing to the gems for Rails 1.2.3
+ERROR:  While executing gem ... (Gem::Exception)
+Cannot load gem at [/Library/Ruby/Gems/1.8/cache/activesupport-1.4.2.gem] in /Users/jan/Documents/ruby/railsdocs/app/vendor/rails
+</pre>
+Thats because actually the gems are located in a different place:
+
+<pre lang="bash">gem environment
+RubyGems Environment:
+- VERSION: 0.9.4 (0.9.4)
+- INSTALLATION DIRECTORY: /Library/Ruby/Gems/1.8
+- GEM PATH:
+- /System/Library/Frameworks/Ruby.framework/ Versions/1.8/usr/lib/ruby/gems/1.8
+- /Library/Ruby/Gems/1.8
+- REMOTE SOURCES:
+- http://gems.rubyforge.org
+</pre>
+The factory delivered gems are stored in the first path, but rails:freeze:gems doesn't seem to like multiple gem paths.
+
+Mind you, the fix is easy: A simple
+
+<pre lang="bash">
+sudo gem update rails -y
+</pre>
+bumps rails to 1.2.5, the gems are downloaded to /Library/Ruby/Gems/1.8 and rails:freeze:gems works like a charm afterwards.
+
+I'm still not 100% sure what causes this. A simple gem unpack (as done by the rake task in form of a Gemrunner call) fails, as it simply looks in the wrong place. What worries me is that all normal requiring seems to work, so I can only assume the the gem require logic and the lookup logic of the gem tool itself somehow are different. That's not clever.
+
+So, is rubygems simply not capable to have multiple gem storages? Is it probably only hacked by Apple people to do so at least for the require logic?
+
+So much to explore, so little time.

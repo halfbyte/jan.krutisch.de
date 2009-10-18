@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 18
+layout: post
+title: portmidi, third post
+wordpress_url: http://localhost3000.de/2007/05/09/portmidi-third-and-probably-last-update-at-this-place/
+---
+For anyone interested in my work to wrap portmidi, take a look at the <a href="http://rubyforge.org/projects/portmidi/">fresh rubyforge project page</a>
+
+I will try to put up some preliminary documentation as soon as possible to document the API, although the interface will change quite a few times. The wrapper will not be a 1:1 translation of the portmidi api, but a more object oriented ruby style module.
+
+There are quite a few open ends I need to find out, for example how to correctly implement Pm_Terminate() in a transparent fashion (This function must be called after using the portmidi library, but of course it would be nice if that happens when the module decomposes at the program termination. Probably I really need to do something like midi do...end,  which seems to be the standard way for defining resource life cycles (see File.open), probably it will be a finalize() approach.
+
+We'll see.

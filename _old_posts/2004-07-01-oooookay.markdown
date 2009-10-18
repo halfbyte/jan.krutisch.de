@@ -1,9 +1,0 @@
---- 
-wordpress_id: 62
-layout: post
-title: oooookay?!?
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=62
----
-Rehakles' Antikfusballer schlagen meinen gro&szlig;en EM-Favoriten. Nicht das ich wirklich traurig dar&uuml;ber bin. Witzig, das wir jetzt mit derselben Begegnung aufh&ouml;ren, mit der wir angefangen haben. Nehme an, die Portugiesen gehen mit einer geh&ouml;rigen Portion Respekt in das Spiel.<br />
-<br />
-Mal sehen, wer <b>jetzt</b> neuer Bundestrainer wird ;-)

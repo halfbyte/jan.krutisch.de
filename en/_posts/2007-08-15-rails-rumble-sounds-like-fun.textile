@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 28
+layout: post
+title: Rails Rumble - Sounds like fun.
+wordpress_url: http://localhost3000.de/2007/08/15/rails-rumble-sounds-like-fun/
+---
+As I grew up loving the Demoscene and its competition-loaded events, competitions like the <a href="http://railsrumble.com/">Rails Rumble</a> do have an instant appeal to me. Although, of course, that's one of those occasions that make me hate Timezones. The Event will take place from Saturday 0:00 EDT to Sunday 23:59 EDT. Which means that us Germans will need to start at 6:00 on saturday (which is "okay") and will need to be finished by 6:00 on monday, which kind of sucks. But then again, that monday would be wasted anyway after staying up for 48 hours in one go (okay, that's probably not such a good Idea anyway).
+
+Let's see if I can find 3 other crazy people willing to try this.

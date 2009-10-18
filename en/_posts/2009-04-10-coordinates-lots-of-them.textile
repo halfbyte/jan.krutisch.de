@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 77
+layout: post
+title: coordinates. lots of them.
+wordpress_url: http://localhost3000.de/?p=77
+---
+I recently bought a HOLUX m-241 GPS logger. The device looks like a slightly distorted and oversized film container, and it does so for a reason, I suspect: It's one of those gadgets you can take with you when you are out there shooting, so that you can easily geotag your photos afterwards. That's one of the reasons, I bought it. The other reason is, of course, that it's one of the cheaper entry points to GPS datalogging (yes, I know, my iPhone has GPS built in, but let's just say that the software side is not optimal) and a good start to collect data for OpenStreetMap.
+
+Getting the device to work with my Mac was a bit painful. The Mac is not officially supported, but there's software like gpsbabel and, most notably BT747 (easily winning the price for most innovative product name), that does a good job of getting the data out of that device, via Bluetooth or USB cable.
+
+The great Jeffrey Friedl, known Lightroom API wrangler, wrote a cool plugin for LR that allows me to geotag my photos by loading a GPS track (Best in GPX format, which both BT747 and gpsbabel allow to convert to) and trying to locate the images by matching the time in the images and the time in the GPS tracks.
+
+So when me and my girlfriend took some after-re:publica time to take a longer look at Berlin, I thought it might be a good idea to carry the Holux with me. After the usual struggle to get a reliable signal, the little box seemed to be happy to record our ways through a sunny german capital.
+
+Thats all very well, as long as, well, your bloody DSLR didn't forget what time it was. I haven't exactly found out what happened, but most of my images were allegedly shot sometimes in 2005. Foxtrott Unicorn, Charly Kilo, all in bold capital letters, please.
+
+Now, I did remember the places we visited, I did recognize them on the photos, so I could have done the geocoding the other way round - setting the times of the images after consulting the gps track.
+
+<!--more-->
+
+Believe it or not, I did not find a single GPS tool out there that would allow me to simply view a GPS track and tell me, graphically, when I exactly had been where. In the process I had seen wonderful map integrations, most of them display waypoints with some form of timestamp display but none of them let me click on a specific track point and let me seen when this trackpoint was recorded.
+
+Holy cow.
+
+Now, GPX is a pretty simple format. And the google maps API is one of the most amazing and powerful thing I've ever used (and I used it quite often now). <a href="http://skitch.com/halfbyte/bmj68/tracks-show">Enter "trackalyze"</a>, a simple Rails application that can visualize GPX files on a google map and allows you to move along the displayed track while showing you the time. It could need a lot of extra features like calculating time zone offsets (GPS tracks are recorded in GMT, cameras usually don't even have an idea what the heck a time zone would be), displaying the time on a canvassed analog clock, and whatnot, but for now, it gets the job done.

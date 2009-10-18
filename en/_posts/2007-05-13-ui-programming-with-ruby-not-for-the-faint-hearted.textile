@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 19
+layout: post
+title: "UI-Programming with Ruby: Not for the faint-hearted..."
+wordpress_url: http://localhost3000.de/2007/05/13/ui-programming-with-ruby-not-for-the-faint-hearted/
+---
+Probably at one time, I will try Ruby/TK, just for kicks. Right now, I started off with WxWidgets, which is, in it's current incarnation "not ready for production work" and the documentation is somewhat lacking. I took a look at FLTK, but it seems as if FLTK on OS X needs X11. I then turned myself to RubyQt (There's a pragprog book on it), but I don't even get that stuff to compile on my machine (And, according to some ruby/qt-Mailinglist posts, that's not an easy task at any rate).
+
+So back to WxWidgets, for the time beeing. At least I already managed to get some widgets on the screen with that. That stuff must go through some seerioush abstraction before I feel comfertebule with that, so much for sure.
+
+Now for some sleep.

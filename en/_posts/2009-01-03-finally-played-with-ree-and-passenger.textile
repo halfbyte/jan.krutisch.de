@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 65
+layout: post
+title: Finally played with REE and Passenger
+wordpress_url: http://localhost3000.de/?p=65
+---
+We are  currently using mod_passenger for the first time on our spanking new staging server, simply because it is so easy to set up new applications. A colleague of mine even hacked together a script that completely automates the process by creating an apache vhost config, creating the database and generating the capistrano config. But until now, we had this running on a standard ruby version, mostly because it seemed the easiest way to set it up and performance and memory usage didn't really matter.
+
+Over the last few days, I reinstalled my private root server with Ubuntu 8.10 (Intrepid Ibex? These names get a bit silly, if you ask me). Since it was based on a very old version of SuSE Linux before, this was a very painful, work intensive process. Anyone following me on twitter might have an idea on what I went through :) But being back on track with the system simply feels great.  
+
+Today, to reward me with something for the chores, I tried out REE and Passenger on it. All in all a very smooth experience with two small kinks:
+<ol>
+	<li>Installing REE was a breeze on Ubuntu (The Ubuntu package seems to work fine under Ubuntu 8.10, despite the advertisement for 8.04), but installing Passenger after that didn't work out. It appears that the installer needs rake in the PATH, so adding /opt/ruby-enterprise/bin to the PATH fixed that. I suspect that the installer silently assumes a normal ruby install on the system.</li>
+	<li>While experimenting with Rack support in Passenger, I tried out a minimal Sinatra app and the configuration <a href="http://www.modrails.com/documentation/Users%20guide.html#_sinatra">example on the Passenger Website</a> does not work. I didn't look into the problem too deep, as the example on the sinatra website works. I'll have to check it this is due some recent changes in sinatra or if this is an error in the phusion docs. [EDIT] I can't reproduce this on my local machine. This is weird, but I'm not in the mood of digging deeper here right now.</li>
+</ol>
+I hope to play a bit more with REE and Passenger at mindmatters during the next few weeks. This is really the smoothest rails hosting setup I ever had - And I had a lot of the during the last year.

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 13
+layout: post
+title: acts_as_commentable reload fubar
+wordpress_url: http://localhost3000.de/2007/04/17/acts_as_commentable-reload-fubar/
+---
+Well, acts_as_commentable doesn't really add a whole lot of value, but I was told to use it, so I did. At least I tried.
+
+The line
+
+<code>comment.user = current_user</code>
+
+resulted in the very, very helpful Exception message "User expected, got User". After a whole evening of research, I found the problem: acts_as_commentable defines the AR class "Comment" inside the plugin. Which means, that it will not, in contrast to normal AR models, be reloaded on every request in development mode. Which is bad, because the Comment model has a belongs_to relation to User. Which will be reloaded on every request and, here's the catch, will be assigned a new object_id. Which in turn means that the object_id of the model class saved in the association will not be the same as the object_id of the model class I tried to use in the above line. Which leads to a broken <code>is_a?</code> call inside the association proxy code. Which leads to many too many whichs, broken code and, above all, the gorgeous (and pretty surreal) error message.
+
+The morale: Don't define Model classes in plugins, at least if they define associations to normal (reloadable) models. Which (which will be the last which, granted) leads to a very simple fix: Drag <code>comment.rb</code> from <code>vendor/plugins/acts_as_commentable/lib/</code> to <code>app/models/</code>.
+
+Done. Another life saved. :)

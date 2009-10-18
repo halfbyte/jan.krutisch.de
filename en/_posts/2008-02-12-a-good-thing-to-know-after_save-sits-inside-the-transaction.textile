@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 43
+layout: post
+title: "A good thing to know: after_save sits inside the transaction"
+wordpress_url: http://localhost3000.de/2008/02/12/a-good-thing-to-know-after_save-sits-inside-the-transaction/
+---
+Although a little counterintuitive, this might make sense in some scenarios. But the following code will not work (at least not on a DBS with working transactions):
+<pre lang="ruby">after_save :do_some_stuff
+def do_some_stuff
+  model = Model.find(self.id)
+end
+</pre>
+The reason is obvious: Since the save mechanism is encapsulated in a transaction, the record is not saved permanently at that moment. Now you say "why in the world would someone do that", but what I really tried to do is to do the find in a backgroundrb worker triggered by the after_save. Which worked sometimes, but only because the worker was started at a time where the commit of the transaction was already done.
+
+My Solution for this: Overwrite the save method of my model using alias_method and call the after_save method in my save implementation. And a slight feeling that I want to have something like a "after_commit" filter. Probably something I should get a hack on.
+
+UPDATE: AS Michael points out, the above code should (and most probably will) work, since the find() is actually called inside the transaction. I must admit that I didn't really test it. What breaks the code is doing the find in, let's say, a different process, such as a backgroundrb worker, well, anything that's outside the transaction. I guess I expected that the find in the above code will be called in it's own transaction wrapper or at least outside of the save-transaction, but that's obviously not the case.
+
+Thanks to Michael for pointing it out!

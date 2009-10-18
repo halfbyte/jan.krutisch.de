@@ -1,11 +1,0 @@
---- 
-wordpress_id: 13
-layout: post
-title: Dimage Z1
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=13
----
-Obengenannte Digital-Kamera von Minolta/Konika ist jetzt meine. Stranges Design, 10xZoom, geil schneller AF, sehr cool alles.<br />
-<br />
-Jetzt werd ich mir nachher noch 'ne angemessene Speicherkarte (256 MB sollten reichen) und eine Tasche ziehen und dann kann der Sommer kommen :)<br />
-<br />
-Bilder wirds hier auch ab und zu geben, denke ich.<br />

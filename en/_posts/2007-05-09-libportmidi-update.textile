@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 17
+layout: post
+title: "libportmidi: Update"
+wordpress_url: http://localhost3000.de/2007/05/09/libportmidi-update/
+---
+I took a deeper look at the SWIG docs and after that I decided that a simple SWIG conversion ain't the right thing to do anyway.
+
+So I started hacking away on a more ruby style wrapper code that encapsulates the procedural api behind some nice ruby objects. I'm currently making fast progress and have already been able to write a simple MIDI monitor in real ruby code, so things look a whole lot brighter now.
+
+My current "stand in awe" moment is due to this: The portmidi lib has a somewhat strange idea of "messages" that are always 4 bytes long, which means that analyzing sysex messages will be much harder and stranger than it already is, since they will arrive in 4 byte chunks.
+
+On a side note, writing ruby modules in C is much easier than expected since there are tons of helper functions and macros. I suppose the real problems will come as soon as I start debugging for memory leaks and stuff like that, but for the moment, I'm a happy camper.
+
+rb_ary_push, nuff said.

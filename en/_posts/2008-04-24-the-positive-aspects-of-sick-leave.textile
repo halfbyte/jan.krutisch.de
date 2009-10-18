@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 51
+layout: post
+title: The positive aspects of sick leave...
+wordpress_url: http://localhost3000.de/?p=51
+---
+Essentially I stayed the last few days in bed. I have a bad, very stubborn cold, that doesn't really seem to respond too well to my massive Vitamine C + Zinc + Loads of vedgies + Loads of Water and Tea treatment. The upside of this is that I have a lot of time to read and look and listen. Videos from conferences (aren't those confreaks videos simply great?), Podcasts, Blogs and all that. The downside of this is that I now officially know that I am not able to follow the whole "ruby" thing under normal circumstances. So much to learn, so much to read, so very much too much.
+
+One example: I am, as everybody, always struggling with fixtures in Rails. And while Thorsten and I have a strategy which works pretty well so far and is only slightly messy (read: has its drawbacks), I took the time and tried to find out the best way to deal with it. Whoah - So many different opinions on it, so many different ways to work around the problem that I don't even know where to start to test these ideas out.
+
+The lesson? It's illusional to think I could keep myself completely up-to-date on everything ruby or even everything rails. So I must try harder to  filter out the relevant stuff and probably take my time for very intensive research projects as soon as I have a problem to solve. Relying on the stuff I "read somewhere, sometimes" doesn't work anymore.

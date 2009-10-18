@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 9
+layout: post
+title: Oh no. I&#039;m out of macs!
+wordpress_url: http://localhost3000.de/2007/03/22/oh-no-im-out-of-macs/
+---
+Things don't run as smooth as I expected. The transition to my new employer includes a three week break which will see me without my beloved MacBook Pro (I will get a "new" one, as soon as I start at the new company).
+
+Which means: No Textmate, No Quicksilver, No Growl. No Cigar.
+
+So probably I won't code as much as I thought I would. Probably that's a good thing. I could improve my photography skills and start using my 35mm lens, finally. I could try to restart my music career. I could try to get a little more sleep.
+
+Or I will try to tweak my Ubuntu to something almost usable for Rails development :)

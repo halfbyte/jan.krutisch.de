@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 58
+layout: post
+title: Did you guys even listen?
+wordpress_url: http://localhost3000.de/?p=58
+---
+So I took a fast look yesterday at the rails rumble applications. One thing that surprisingly didn't change from last year was that every other app greets you with a login/signup screen, or, second best, with a splash screen that has a link to signup.
+
+I think that's plain stupid. And it makes me kinda sad. Because, if people really would have listened, they would have noticed that one of the reasons that we've won the "most innovative" category last year was that we didn't force the user to signup before we was able to play with the badge generation. So people could actually find out how frickin' innovative we've been :)
+
+Mind you, this years restriction to OpenID logins in some way rounds the edges of the experience.But still: Why should I invest as much as a full OpenID roundtrip without beeing able to see what's awaiting me?
+
+One could easily claim that the restrictions of the rumble timeframe make it impossible to deliver a perfect user experience, and thats of course quite correct. But I'd argue that if you really want to win something, you don't stand much of a chance but to put UX on top of your priorities - Simply because the judges, with something like a hundred apps to judge, will only take a very brief glance at your piece. And only if the first impression is really good, you will suck them in and this will probably make you some rating stars already.
+
+As soon as the rating period is officially open, I'll try to give you a list of the apps that I think do their best with this.
+
+(Damn, I am still kinda pished that I couldn't make it into the rumble. Lisbon was not exactly more relaxing than rumblin', though. I am getting old, I tell you.)

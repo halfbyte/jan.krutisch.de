@@ -1,9 +1,0 @@
---- 
-wordpress_id: 28
-layout: post
-title: hammer
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=28
----
-ohne worte: <a href="http://crass.on.ru/flash/honda-ad-300k.html">http://crass.on.ru/flash/honda-ad-300k.html</a><br />
-<br />
-[ via: <a href="http://www.contentschmiede.de/weblog.php">Contentschmiede</a> ]

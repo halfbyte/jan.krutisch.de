@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 53
+layout: post
+title: Tangible Interfaces. Me wants!
+wordpress_url: http://localhost3000.de/?p=53
+---
+If you are, like me, a sucker for cool, new interface ideas and, at the same time, a wanna-be-electronic-musician, the <a href="http://mtg.upf.edu/reactable/">reacTable</a> stuff is just, you know, mouth watering. But somehow I guess I will never ever be able to buy one..
+
+Fortunately, the software to do the actual motion/symbol tracking is open source - It is a standalone application that sends the tracking data in consumable form over OSC, which is a lightweight network based MIDI replacement of some sorts.
+
+After some trouble with finding a both working AND fast-enough ruby implementation of the OSC protocol, I finally managed to build a <a href="http://github.com/halfbyte/reactivision_test/tree/master">simple application</a> that only displays the tracked markers and cursors. It uses GOSU for displaying things. Details on the project are to be found on the <a href="http://www.maeshroom.de/wiki/doku.php?id=reactable">maeshroom wiki</a>.
+
+That's pretty basic stuff for now, because developing real applications for that are not that interesting as long as you don't have the hardware to use it. And the hardware part IS kinda hard, mostly because you have to differentiate the marker symbols from the projection itself which is usually done by using IR-pass-filters on the camera and "illuminating" the marker symbols using IR light. As we currently use a sony mini-DV cam that has the infamous "nightshot" mode, this should be relatively easy. I'll make some tests next week using developed film as a fake IR-pass filter (simply because these beasts are rather expensive and hard to get)

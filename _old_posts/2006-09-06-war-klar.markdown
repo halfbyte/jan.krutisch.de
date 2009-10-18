@@ -1,7 +1,0 @@
---- 
-wordpress_id: 294
-layout: post
-title: War klar.
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=294
----
-Wenn der Server mal ausfällt ist natürlich auch das Resetinterface "Wegen Wartungsarbeiten" deaktiviert und der Telefonsupport schmeisst einen nach einem "Leider sind alle Leitungen belegt, bitte versuchen Sie es später noch einmal" sofort wieder aus der Leitung.

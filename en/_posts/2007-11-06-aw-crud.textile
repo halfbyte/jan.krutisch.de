@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 38
+layout: post
+title: Aw, crud.
+wordpress_url: http://localhost3000.de/2007/11/06/aw-crud/
+---
+Just updated this blog to a reasonable wordpress version and every single of my templates seems to be broken. So bear with me while I try to find a better one. (Somehow the fun in doing  my own templates completely left me...)

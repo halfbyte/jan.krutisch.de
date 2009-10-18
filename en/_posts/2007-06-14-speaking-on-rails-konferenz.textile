@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 21
+layout: post
+title: Speaking on Rails-Konferenz
+wordpress_url: http://localhost3000.de/2007/06/14/speaking-on-rails-konferenz/
+---
+I will attend the german <a href="http://www.rails-konferenz.de">Rails-Konferenz</a> on the 22 of June as a speaker, talking about Internationalising rails projects and the obstacles you'll be able to find while doing it. Since I am currently not involved in the development of an internationalised application, this means that I have to digg deep into my memories of doing it at qype.com where I probably faced almost every problem one may encounter. It's just so much more than just installing a plugin and translating the strings.
+
+More at the conference, where I'm going to battle against Florian Görsdorf giving a talk on Google Maps integration in parallel to mine (probably not a battle thats worth of even trying to win) :)
+
+See you in FRA next week!

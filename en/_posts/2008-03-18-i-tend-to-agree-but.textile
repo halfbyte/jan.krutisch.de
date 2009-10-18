@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 45
+layout: post
+title: I tend to agree, but...
+wordpress_url: http://localhost3000.de/2008/03/18/i-tend-to-agree-but/
+---
+Please consider the following snippet from mongrel 1.1.3 (lib/mongrel/handlers.rb):
+<pre lang="ruby"># do not remove the check for @path at the beginning, it's what prevents
+# the serving of arbitrary files (and good programmer Rule #1 Says: If
+# you don't understand something, it's not because I'm stupid, it's
+# because you are).
+if req_path.index(@path) == 0 and File.exist? req_path</pre>
+Actually I'm pretty cool with the patch that introduced this comment, it's an important security fix, although the comment quality is rather questionable (It all becomes clear if you know that the patch was done by none other than Zed Shaw himself)
+
+What I'm not cool with is that this patch breaks the camping handler code, which is part of the mongrel source tree. While the change itself is absolutely necessary, the side effects are a real bummer. That's not really a problem of the patch itself, one could argue, but more of mongrels test suite, which is, especially for a project with such a huge deployment base, astoundingly, uhm, short legged.
+
+In my case, this breaks the local camping command (with mongrel), since the DirHandler is not working anymore, as it is initialized with path=nil. The whole DirHandler code is handling the nil case, except, you guessed it, the line introduced by the patch. Which makes me think again about the comment...
+
+<strong>Update</strong>: mongrel 1.1.4, available since 2008-02-29, fixes this, thanks to <em>cabo</em> for pointing me to it. Makes me look stupid, doesn't it? Well, the release 1.1.3 has been out there since December, so my point is still kind of valid, I guess.

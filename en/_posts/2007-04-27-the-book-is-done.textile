@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 14
+layout: post
+title: The Book is done!
+wordpress_url: http://localhost3000.de/2007/04/27/the-book-is-done/
+---
+<a href="http://localhost3000.de/wp-content/uploads/2007/04/jan_mit_buch.jpg" title="jan_mit_buch.jpg"><img src="http://localhost3000.de/wp-content/uploads/2007/04/jan_mit_buch.thumbnail.jpg" alt="jan_mit_buch.jpg" align="left" /></a>My german Rails book "<a href="http://www.amazon.de/Webanwendungen-Praxiseinstieg-Installation-Testing-Erweiterung/dp/3827324912/" title="Amazon">Webanwendungen mit Ruby on Rails</a>" I wrote together with <a href="http://ramonsblog.wartala.de/wordpress/">Ramon Wartala</a> is done and should be in the stores by the end of the first week in May. It is a typical beginner book using a sample application to show off the whole stack.
+
+More to read at my german blog. If you like to read german books, buy it. Now!

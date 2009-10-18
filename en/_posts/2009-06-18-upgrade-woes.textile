@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 83
+layout: post
+title: Upgrade woes
+wordpress_url: http://localhost3000.de/?p=83
+---
+Anyone following <a title="halfbyte @ twitter" href="http://twitter.com/halfbyte">me on twitter</a> might have noticed that I fought a rails upgrade battle yesterday. I upgraded a medium sized (whateverthatmeans) rails app from 2.1 to 2.3. Most of the changes were straight forward (Like instantiating the correct Testclasses) but some of them exposed a few more radical changes in Rails after 2.1 (I did go in one big step, not going to 2.2 first. Which might be an error, not sure though).
+
+Here's a short list of gotchas I stumbled upon:
+<ol>
+	<li>As I said: You should change your test cases to use the correct superclass. Thats mostly ActiveSupport::TestCase for unit tests and ActionController::TestCase for functional tests.</li>
+	<li>Routing got a whole lotta less forgiving. You really should get the sorting of your routes right to load them in the correct order. In my case, I had a named route that had basically the same parameters as the root route - and was defined BEFORE the root route. In Rails 2.1, calling url_for with the matching params returned "/", in Rails 2.3, it returns the named route path.</li>
+	<li>Formatted routes. Nuff said. The easiest fix to make: search project wide for formatted_ and kill them all. I never understood the reasoning behind the formatted route, so, good riddance.</li>
+	<li>Rails 2.3 gives interesting error messages in functional tests if you try to assert things (like, with assert_select) without actually firing a request. Which doesn't make any sense. The funny thing: I had a "please make sure, the tag is not in the source" assertion, which flawlessly works in Rails 2.1 on a non existant request. A real bug and I think there should be something like a "well, do we have a response object to work on, anyway?" kind of assertion implicit in any assertion that works on the response (like assert_response, assert_select, and the likes). But at least the test finally failed in Rails 2.3.</li>
+	<li>Most of my time went into a problem involving attachment_fu. To completely describe it would probably take ages, but basically it boils down to this: The behaviour of associations and which callbacks on the associated objects will be fired totally changed somewhere between 2.1 and 2.3. Associated objects are, on create, by default saved with save(false), which means bypassing the validations. You need to explicitly activate :validate =&gt; true on the associations. Funnily, this is not the case on updates, as it seems. This calls for deeper investigation, because it did not, in any way, made sense to me and there seems to be a lot of discussion going on surrounding this particular change.</li>
+</ol>
+This post will be updated later on with more findings.

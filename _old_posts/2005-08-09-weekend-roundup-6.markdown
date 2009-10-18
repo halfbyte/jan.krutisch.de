@@ -1,7 +1,0 @@
---- 
-wordpress_id: 191
-layout: post
-title: Weekend Roundup
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=191
----
-Timmendorfer Strand ist ein gutes Gebiet für Sozialstudien. Minigolfbahnen mit hohen Aufbauten haben ein hohes Verletzungsrisiko für Leute mit großen toten Winkeln (Tunnelblick?). Neustadt hat eine sehr nette Notaufnahme. 28 Punkte auf der Bahn? Niemals. Schokolade mit Meersalz? Immer!

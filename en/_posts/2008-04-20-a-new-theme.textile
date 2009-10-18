@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 50
+layout: post
+title: a new theme
+wordpress_url: http://localhost3000.de/?p=50
+---
+So this is the beginning of a new theme for localhost:3000. It's based on the excellent blueprint theme, which in turn is obviously based on the blueprint css framework. It's far from beeing finished, as you might notice, the code highlighter is broken (i might replace it with something that is built in in the theme, since it invalidates the pages, as it currently needs a name attribute on a &lt;pre&gt; element). Other things I dislike right now are the headings that too often are broken into two lines (the price of having a geeky fixed width font in there) and the overall font size is waaay to small for my taste. Apart from that, the whole grid needs to be semanticized (is that a word?) after I finish the grid.

@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 16
+layout: post
+title: "Coding Bounty: Ruby SWIG bindings for libportmidi"
+wordpress_url: http://localhost3000.de/2007/05/07/coding-bounty-ruby-swig-bindings-for-libportmidi/
+---
+Damn, my C coding skills are very very rusty. Over the weekend I tried to <a href="http://www.swig.org">SWIGify</a> the <a href="http://www.cs.cmu.edu/~music/portmusic/portmidi/">portmidi</a> library. I only had pareto style success, unfortunately it's the remaining 20% that matter.
+
+My main problem is my limited understanding of the SWIG syntax to convert Pointer arguments to procedure results.
+
+If someone is willing to help me with that, I will give chocolate, cookies, probably even limited amouts of money.
+
+Why do I need this? I am pretty determined to write a full flegded Universal Midi Patch Editor along the lines of Unisyn or (the unfortunately dead) Sounddiver. The Editor will be (for extended hackability) written in Ruby and will be completely portable (due to wxWidgets and Portmidi). I've done about 60% of the conceptual work and already half defined a DSL for specifying MIDI devices and their parameter.  Why am I determined to do so, while the whole world thinks Music Hardware is gone for good? Read after the fold :)
+
+<!--more-->Okay. Hardware synthesis is dead. Software is more flexible, takes less space in the rack and is generally more pleasing to edit. On the other hand, hardware prices (especially of old hardware from the digital age, such als Rolands JV's and such) are dropping constantly, while software prices rise with the level of professionality. At the same time, the complexity and the flexibility of software synthesis comes not only with a monetary cost: I'm probably not the only one that gets constantly lost in his plugin folder. Hardware synthesis poses limitations on the musician at several levels: Studio space runs out much faster than Harddisk space. Hardware is usually much less userfriendly, so most of the time you don't actually get lost in deciding over various envelope shapes as you would in a complex soft synth. And last but not least, Hardware designs are often much simpler than their software counterpart because DSPs actually cost real money.
+
+There is a last point I'd like to rise: Hardware is usually less error prone and more stable. Doing mostly MIDI sequencer work keeps your PC snappy and is not a big deal, CPU wise.
+
+There is just one problem: While the cheapest MIDI sequencers come for free or at very low cost, MIDI librarians/editors are either not available for modern platforms (Emagic Sounddiver has a sloppy Beta for OS X, which is already a few years old) or very expensive (Unisyn doesn't even have a demo version, so I can't try out MOTU's 200$+ software). This is all very disappointing.
+
+At the same time I was pretty astonished to see that there are NO good open source alternatives. Writing an universal patch editor IS a hard problem since MIDI sysex communications are far away from beeing standardized. Every vendor is cooking their own soup with different schemes for addressing sound parameters, using checksums, ACK messages and so forth. But, with a high level scripting language like Ruby, many of the problems should simply vanish.
+
+At least, let me try. And, if you can, help me in the process,  for example by coding a SWIG binding for portmidi. Or (later on) providing hardware synths you want to see integrated. Or spreading the word. Whatever.

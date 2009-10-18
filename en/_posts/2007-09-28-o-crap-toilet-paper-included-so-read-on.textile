@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 33
+layout: post
+title: O, crap. (toilet paper included, so read on)
+wordpress_url: http://localhost3000.de/2007/09/28/o-crap-toilet-paper-included-so-read-on/
+---
+So, imagescience is all great, and it's integration into attachment_fu makes me feel warm and fuzzy inside. One large problem neatly solved.
+
+Only, that executing /etc/init.d/mongrel_cluster restart is not such a good idea, out of the box. The story goes like this:
+<ol>
+	<li>mongrel_cluster_ctl tears down all mongrels. <span style="font-style: italic">No problem here.</span></li>
+	<li>mongrel_cluster_ctl starts all mongrels. <span style="font-style: italic">Everything fine so far.</span></li>
+	<li>ruby-inline (as used in image_science) tries to put its temp files in $HOME/.rubyinline. <span style="font-style: italic">Looks unsuspicious?</span></li>
+</ol>
+Only that $HOME is not what you expect it to be, since the user-changing mechanism in mongrel doesn't really boot up the whole user environment (nobody would expect that I'd say), so $HOME still points to /root/. <span style="font-weight: bold">Boom</span>.
+
+The Solution? As usual, a one-liner, snatched from the <a href="http://sample.caboo.se/weed2/config/environment.rb">caboose sample app</a> (credit where credit is due):
+<pre>ENV['INLINEDIR'] = "/tmp/ruby/"</pre>
+Fortunately rubyinline is smart enough to not rely completely on the $HOME variable, but also looks for $INLINEDIR. So add the above line to your environment.rb and you are set.

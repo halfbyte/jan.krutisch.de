@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 11
+layout: post
+title: cruisecontrolrb vs. non-US locales
+wordpress_url: http://localhost3000.de/2007/03/26/cruisecontrolrb-vs-non-us-locales/
+---
+Hah! Those bloody unreflecting americans again. :)
+
+<a href="http://cruisecontrolrb.thoughtworks.com/" title="Thoughtworks: CCrb">Cruisecontrolrb</a> from Thoughtworks is great in it's simplicity and beauty. But it doesn't work if the locale of the user it's running under is set to something different than en-US. Reason: the commandline of SVN is localized and parsing of SVN output doesn't work if you look for (for example) "Latest Revision:", but SVN gives you "Letzte Revision:".
+
+Fortunately, a simple "unset LANG" does the trick before starting CCrb.  The only solution I see is not using commandline tools but using svnlib for subversion access.
+
+Added to that, CCrb doesn't seem to work with SVN 1.3.2 (although advertised), since SVN 1.3.2 doesn't support the --non-interactive switch.

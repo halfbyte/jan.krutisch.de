@@ -1,7 +1,0 @@
---- 
-wordpress_id: 269
-layout: post
-title: Haha.
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=269
----
-Ich lese im Feedreader die Überschrift "Zinsangst bringt Dax hohe Verluste" und denke "Jaja, immer diese Chinesen".

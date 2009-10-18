@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 22
+layout: post
+title: AWSUM!!!1!
+wordpress_url: http://localhost3000.de/2007/06/25/awsum1/
+---
+<img src="http://farm2.static.flickr.com/1134/605236343_d688983e66_m.jpg" align="left" height="240" width="160" />Wow, what a day. <a href="http://www.rails-konferenz.de">Rails-Konferenz 2007</a> is over and what a conference it was. I was pretty busy shooting the sessions for Marco Kuznik's presentation platform <a href="http://www.loroma.com">Loroma</a>, so I had only so little breaks, somehow managed to get my presentation almost completely ready (I guess I hit the conference record, having 213 slides in the presentation and showing them all!) and after the closing "ceremony" (thanks to <a href="http://www.b-simple.de">Thomas Baustert</a> for the kind words on the Usergroup) I felt like, well, ready for lunch. Only that the clock had turned 6pm by then. The drive home sucked (as did the way to FRA on thursday) with rain and heavy traffic almost all the way, but fortunately there was a weekend to follow. Yay!
+
+A more complete writeup will happen later, probably at the <a href="http://www.mindmatters.de/weblog/">mindmatters blog</a>.
+
+(<a href="http://www.flickr.com/photos/scoop/605236343/in/set-72157600455347393">Photo by Patrick Lenz, Hosted by flickr</a>, released unter a <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de">CC License</a>)

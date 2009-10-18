@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 39
+layout: post
+title: Yay! Lightroom SDK, Part One
+wordpress_url: http://localhost3000.de/2007/11/16/yay-lightroom-sdk-part-one/
+---
+The time zone difference between the US and Europe does have it's benefits. For example, it's almost like Christmas to wake up and find out that some major stuff I'm working with has been upgraded. This morning has been especially update-rich: Leopard has been bumped to dot one, fixing a whole lot of stuff, Lightroom is now 1.3 (somehow they f***ed up the download section for the upgrade, but downloading the trial package helped) and the printing dialogue works again (<a href="http://www.oreillynet.com/digitalmedia/blog/2007/11/lightroom_13_release.html" title="Oreilly Lightroom Blog">James Duncan Davidson</a> says that there are some minor things not working and <a href="http://blogs.adobe.com/lightroomjournal/2007/11/lightroom_13_the_export_sdk_pr.html" title="Adobe Lightroom Team Blog">Tom Hogarty</a> still doesn't recommend the Lightroom + time machine usage, but hey, at least I can print!) and least but not last, Adobe even managed to push out the first part of the long-awaited <a href="http://labs.adobe.com/technologies/lightroomsdk/">Lightroom SDK</a>. ATM it's restricted to the export dialogue, but thats a clever move for one thing, since it offers the greatest benefits, at least in my eyes.
+
+What's even better, the SDK download includes a pretty neat flickr exporter as an example. There are some features I am missing, but that's one starting point to give the developers.
+
+So, it's time to learn Lua, so it seems.

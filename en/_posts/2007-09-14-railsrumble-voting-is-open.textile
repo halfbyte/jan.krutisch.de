@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 31
+layout: post
+title: RailsRumble voting is Open.
+wordpress_url: http://localhost3000.de/2007/09/14/railsrumble-voting-is-open/
+---
+<strong><a href="http://beat.vote.railsrumble.com/">Vote</a>, people, <a href="http://beat.vote.railsrumble.com/">vote</a>.</strong>
+
+Don't forget to look at our competitors, there are some fun things out there.

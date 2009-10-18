@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 40
+layout: post
+title: So it&#039;s Rails two-point-zero (-point-one)...
+wordpress_url: http://localhost3000.de/2007/12/09/so-its-rails-two-point-zero-point-one/
+---
+... and I am curious on the adoption rate in our projects.
+
+<a href="http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done">Rails 2.0</a> includes quite a lot of goodies, small improvements, adjustments and such. What it doesn't include is the enthusiasm and revolutionary smell of 1.0, 1.1 or 1.2. Rails development is not something for the enlighted elite coders anymore. In other words: Rails is now officially grown-up. That's good, but it feels a bit disappointing somehow.

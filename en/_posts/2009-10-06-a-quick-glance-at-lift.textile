@@ -1,0 +1,66 @@
+--- 
+wordpress_id: 89
+layout: post
+title: A quick glance at &quot;lift&quot;
+wordpress_url: http://localhost3000.de/?p=89
+---
+
+Lift is a webframework written in Scala. Sounds like it combines a lot of hot stuff, right? So I took a quick look tonight to see what's good about it. So I dived right "into the official tutorial":http://liftweb.net/docs/getting_started/mod_master.html and built the app. After the usual "maven is now downloading the internet, please stand by" procedure, the actual process of replaying the development was pretty straight forward. Here are the things I noticed (please note that this is really really just a quick glance, so take it with a grain of salt and feel free to correct me if neccessary):
+
+First of all, the tutorial is a bit too Anti-Rails for my taste. As I am a full time Rails developer, I tend to notice these things. :)
+
+Especially the template language discussion is as old as Rails (probably as old as PHP) and repeating the same arguments over and over again doesn't make ANY of the points more valid. Not that keeping business logic out of the view is a bad thing. But: Rails leaves this as a task to the developer, because we developers should be able to handle that. I DO see the benefits in a compiler based environment as stated in the templating section, but then please leave Rails out of the equation. I don't have any problems with well designed templating language, mind you.
+
+Ironically, my personal oppinion on XML based templating languages is that I have too much trouble separating the "template engine" parts from the real HTML, which makes templates hard to read for me. Something that can (and will) be addressed by proper syntax highlighting. Still, for me, both the "scriptlet" style syntax (&lt;% %&gt;) and the usual Mustache syntax ({{ }}) deliver better visual cues for me.
+
+Okay, let's leave the view part aside.
+
+<!--more-->
+
+The model class actually almost looks nice. There are a few things that look strange to me, basically because I don't know my Scala well enough, like the following line:
+
+{% highlight scala %}
+  override def validations = validPriority _ :: super.validations
+{% endhighlight %}
+
+
+I can kind of guess what this means, but still. And then, there's this (We're still in the model):
+
+{% highlight scala %}
+  override def _toForm = Full(select(ToDo.priorityList,
+    Full(is.toString),
+    f => set(f.toInt)))
+{% endhighlight %}
+
+All strange syntaxy things aside, here's what the tutorial says on this:
+
+
+bq. override def _toForm override the default form generation for the priority field. select(ToDo.priorityList, create an HTML &lt;select/&gt; with a list of values. Set the default value to the current priority field value (is), converted to a String: Full(is.toString). When the form is submitted, call this function: f =&gt; set(f.toInt).
+
+So your model class is now responsible for generating the correct widget? HTML generation in a model method? WTF? This lift land is surely a strange country.
+
+But to be sarcastic: Lift doesn't want to be an MVC framework, so mixing the M and V probably doesn't matter because Brother C is actually completely missing from the game. Lift doesn't have Controllers, it has Snippets. Snippets are, if I understand this correctly, a bit like mini-components that are tied to the custom view markup in the lift templates. Snippets bind values to the various tags. The nice thing is that you can actually have many snippets on one page and you don't really have to care about the view flow. Also, for a very cleanly kept templating language, the needed code is pretty minimal.
+
+The example snippet code is full of view logic though, with the highlight being the code for rendering a description:
+
+{% highlight scala %}
+  private def desc(td: ToDo, reDraw: () =&gt; JsCmd) =
+    swappable(<span>{td.desc}</span>,
+      <span>{ajaxText(td.desc,
+      v => {td.desc(v).save; reDraw()})}
+      </span>)
+{% endhighlight %}
+
+Yes, HTML in a method. The syntax is quite funny, given that there are no explicit string literals involved (This has to do with Scala's strong XML background, I guess). Again, this looks awfully wrong to me and I hope that this is more of an artefact of "we wanted to show as much as possible with as little as possible code". This also shows Lift's awesome Ajax support (but don't expect unobtrusive javascript just yet).
+
+I guess the "Snippets as Mini-Controllers" concept makes perfect sense, since most of todays web applications are typically multi-flow-path with little Ajax actions going on all the time and a lot less simple action pages.
+
+So I'm actually leaving this little excursions with very much mixed feelings. For one, this looks quite a bit more awesome than anything I've ever seen on the Java front. The ORM called mapper actually leaves out the whole JPA complexity that even Grails suffers from and is probably enough for most small scale web apps. It also takes a lot of cues from Rails' ActiveRecord (e.g. validations defined on the model), so this is definitely a winner. I am extremely sceptical of the whole View/Snippet construct, since it actually doesn't deliver the separation of view logic and business logic it pretends to favor so much more than the bad, bad Rails ERB-Templates.
+
+Which kind of is my main critique after looking at the web page and the tutorial: Bashing Rails is bad style and it doesn't get you nowhere. If you claim something like this:
+
+bq. Lift code is as clean and brief as Rails, yet performs at least 6 times faster and is multithreaded.
+
+Then do me a favor and at least show me your test setup (not that I doubt that it is possible to outperform Rails times six). Plus I'd like to argue about the "brief" :). Again, I do understand if you are disgusted by Rails' templating system (which is actually just "the simplest thing that could possibly work"), but since so many Rails projects prove that this is a moot point as long as you have a skilled developer team, a little less "bashing" would be in order, I'd say.
+
+All in all an interesting experience, definitely something to watch out for, but nothing that seems to suggest I should hasten my journey to Scala.

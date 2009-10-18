@@ -1,9 +1,0 @@
---- 
-wordpress_id: 205
-layout: post
-title: Na sauber...
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=205
----
-...aus heiterem Himmel hat sie mich wieder, die Trauer. Verengter Brustkorb, Lustlosigkeit, die ganze Leier.
-
-Scheisse.

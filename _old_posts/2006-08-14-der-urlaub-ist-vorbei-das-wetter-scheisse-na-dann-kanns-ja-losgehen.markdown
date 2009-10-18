@@ -1,8 +1,0 @@
---- 
-wordpress_id: 289
-layout: post
-title: Der Urlaub ist vorbei, das Wetter scheisse. Na, dann kann's ja losgehen.
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=289
----
-Nebenbei wird mal wieder an der Überwachungsspirale gedreht, weil in UK angeblich (Beweise! Beweise!) ein paar Bombenleger verhaftet wurden. Der Libanon wird in Schutt und Asche gelegt, aber, hey, jetzt haben wir ja Waffenruhe.  Da helfen nur noch Ärzte:
-<blockquote>Hip-Hip-Hurrah, alles ist super, alles ist wun-der-bar, alles ist besser, als es gestern war!</blockquote>

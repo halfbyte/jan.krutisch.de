@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 30
+layout: post
+title: The Rumble is over...
+wordpress_url: http://localhost3000.de/2007/09/10/the-rumble-is-over/
+---
+...and we are only slowly getting back to real live.
+
+The rumble itself was a blast. I still find it astounding what you can achieve with a great team of experts, great tools and enough caffeine. Nothing you should do on a daily basis (I'm actually more one of the "8 hours a day should be enough" guys), but a friggin' great experience.
+
+Of course: a big thank you to "my" team: Karsten, Florian and Wolfgang, you all did an amazing job.
+
+So, what's next?
+
+You all are cordially invited to go to <a href="http://soundbadge.net">soundbadge.net</a> and try out our little App. And don't forget to register as a voter and <a href="http://beat.vote.railsrumble.com/">vote for us </a>from wednesday on. Because you all want a photo of us, wearing <a href="http://www.railsrumble.com/2007/9/5/championship-belt">the belt</a>, right?
+
+To get an Idea on what soundbadge.net is:
+
+<script type="text/javascript" src="http://soundbadge.net/b5b39c8f21b5bb1ab97852ed32c888ab.js"></script>
+
+P.S.: In the following days, I'll try to highlight a few of our implementation details, especially from the no-so-railsy-parts, like the sound engine. And, we'll try to cover some specifics of our development process, what worked for us and what didn't.

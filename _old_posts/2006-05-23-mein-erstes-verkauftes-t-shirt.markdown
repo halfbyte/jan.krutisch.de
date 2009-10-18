@@ -1,9 +1,0 @@
---- 
-wordpress_id: 272
-layout: post
-title: Mein erstes verkauftes T-Shirt!
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=272
----
-Hurra! Ich bin T-Shirt-Verkäufer! Für die <a href="http://www.rubyonrails-ug.de"  title="Rubyonrails-UG">Rubyonrails-UG</a> habe ich einen <a href="http://rubyonrails-ug.spreadshirt.de"  title="Spreadshirt">Spreadshirt-Shop</a> mit Rails-Motiven aufgesetzt. Der kleine Gewinn, den ich damit generiere, geht erstmal in meine Serverrechnung.
-
-Kauft mehr T-Shirts!

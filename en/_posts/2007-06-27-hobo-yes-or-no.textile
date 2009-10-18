@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 23
+layout: post
+title: Hobo, yes or no?
+wordpress_url: http://localhost3000.de/2007/06/27/hobo-yes-or-no/
+---
+After I listened to Nico's presentation on the subject matter, I just finished the three <a href="http://hobocentral.net/">hobo</a>
+screencasts. Whew, that's really rails development on speed.
+
+Nevertheless I am still wondering what kind of web sites (or the development of those) will benefit from the hobo perspective.  I think i need to try out some of the concepts behind Hobo to become more oppinionated on it.
+
+I'll keep you updated on that.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 10
+layout: post
+title: A blog a day keeps the doctor away
+wordpress_url: http://localhost3000.de/2007/03/25/a-blog-a-day-keeps-the-doctor-away/
+---
+Any decent rails developer needs a tumblelog these days, right? <a href="http://localhost.tumblr.com" title="my tumblelog">So do I</a>.

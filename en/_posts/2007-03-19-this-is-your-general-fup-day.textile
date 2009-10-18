@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 6
+layout: post
+title: This is your general f***up Day
+wordpress_url: http://www.kickeramt.de/blog/2007/03/19/this-is-your-general-fup-day/
+---
+When things break, they break with style and force.
+
+It all started when something (still unknown) happened to my Ruby installation which broke TextMate's Testrunner (Segfaulting, ugh). After trying out a few of the libraries I recently installed, I decided to try "port upgrade ruby".  Bad Idea, because after that, I had Ruby 1.8.6 on disc which doesn't exactly plays nice with Rails 1.1.6 (Another reason to get that migration going). Interestingly, after activating Ruby 1.8.5 again, everything seemed to be in order.
+
+Only that it wasn't.
+
+Somewhere in the middle of the process, I upgraded RMagic. Which doesn't play nice with our version of the file_column plugin. While trying to recover, I also learned that our patched version of globalize doesn't really work with the errors issued by the file_column plugin. Which is interesting since we didn't change anything in there. Which probably means that we don't have any test testing for invalid image uploads.
+
+Trying to run parallels which ended in a "You don't have a valid license for this version" caused by an automatic update (WTF?!?) only added to the flavor of a pretty beeped up monday.

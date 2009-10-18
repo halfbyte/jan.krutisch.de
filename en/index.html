@@ -1,0 +1,19 @@
+---
+layout: default
+title: english articles - Jan Krutisch
+---
+
+<h2>English articles</h2>
+
+<ul class="posts">
+  {% for post in site.categories.en limit: 10 %}
+    <li>
+      <h3 class="post-headline"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="post-content">
+        {{ post.content | truncate: 1000}} 
+        <a href="{{ post.url }}">read on...</a>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+<p><a href="/en/archive.html">Older posts (aka "da archive")</a></p>

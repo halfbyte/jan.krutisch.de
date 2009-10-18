@@ -1,9 +1,0 @@
---- 
-wordpress_id: 337
-layout: post
-title: Es gibt...
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=337
----
-...schlimmeres als heute Urlaub zu haben:
-
-<a href="http://www.flickr.com/photos/jankrutisch/437659829/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/149/437659829_042ea4a6c4_m.jpg" width="240" height="160" alt="A good day off" /></a>

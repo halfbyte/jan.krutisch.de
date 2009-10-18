@@ -1,7 +1,0 @@
---- 
-wordpress_id: 88
-layout: post
-title: poppkomm
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=88
----
-irgendwie entwickelt sich das thema musik gerade zu einem Dauerbrenner. Die Doitsch-Quote ist mir einfach zu doof um dar&uuml;ber zu schreiben, &uuml;ber das deutsche Radio lasse ich mich schon seit einigen Jahren nicht mehr aus (es lebe <a href="http://www.sr.se/p3">P3</a>), aber <a href="http://don.antville.org/stories/932022/">Don Dahlmanns Bericht</a> &uuml;ber die Popkomm best&auml;tigt sowas von derma&szlig;en meine momentane Wahrnehmung der Musikindustrie, das es schon wirklich be&auml;ngstigend ist. Wenn blos endlich das Buch des Herrn Renner bei mir ankommen w&uuml;rde :)

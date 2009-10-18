@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 48
+layout: post
+title: On git, Gitorious and GitHub.
+wordpress_url: http://localhost3000.de/?p=48
+---
+Yes, I am git infected, too. I have accounts at <a href="http://gitorious.org">gitorious</a> and <a href="http://github.com">github</a>, I use it for all my small private projects, and I am starting to push git usage inside my company too.
+
+What's so cool about sites like gitorious and github is how effortless they make it to share your work. If I look at the state of my github repos, a little too effortless, even. Yes, git usage itself can be a bit confusing at times (at least if you are a rather mediocre subversion user, too), but the benefits of using it (in contrast to svn or, oh the horror, CVS) are so tremendous that I sometimes feel the same adrenaline rush I had when I built my first rails application (those were the days).
+
+<!--more-->
+
+But now you are pondering...what service should I use? Gitorious has the sweet smell of beeing completely open, but is lacking a business model and only time will tell how sustainable it will be - GitHub on the other hand, has a business model (private repos are only supported in the paid plans), has quite a few shining stars in the portfolio (merb, rails, etc.) and really has this "Social Network for Geeks feeling" to it.
+Which is, apart from the rather philosophical aspect of gitorious beeing open source itself, the biggest difference between those two: gitorious focuses on the project as the main entity (or "social object" as Jyri would say) while GitHub focuses on the hacker and his artefacts. Not sure which one's really better, but somehow GitHub feels closer to the core idea of git, at least as I understood it.
+
+So, in general I tend to use GitHub. I have recently started a <a title="rf.org" href="http://bookmaker.rubyforge.org">rubyforge project</a> (rf now has git, too, but is missing all the cool features, such as repo-views, stats and, of course, the whole forking-stuff) and for now, the code is only on gitorious and, of course, rubyforge. Why did I leave out GitHub? Dunno, really. It was an ad-hoc descision, probably based on the idea that pushing it to github would give me slightly less exposure :)
+
+Oh and yes, there's also repo.or.cz. Let's not forget that one. (Actually that's unfair in a sense that the repo.or.cz-people were actually the first to have free public git repos. Their problem is gitweb (the web interface repo.or.cz uses), which, in terms of design and usability is quite a nightmare, mostly because it exposes a little too much of git's uglier internals, as I see it.
+
+Summary? All of these initiatives are a great step into git's world domination. They are, in general, fun to work with and all of them (I hope) are here to stay for good.
+
+Next stop: Distributed Bugtracking. <a href="http://ditz.rubyforge.org">Ditz</a> is a start (I use it on the beforementioned project), The Gitorious' very own <a href="http://groups.google.com/group/gitorious/browse_thread/thread/40a541377060cb34">Johan Sørensen</a> is at it (at least in thought) and searching <a href="http://bugseverywhere.org/be/show/HomePage">brings</a> <a href="http://www.distract.wellquite.org/">up</a> <a href="http://www.ditrack.org/">a</a> <a href="http://rubyforge.org/projects/ticgit/">few</a> more contenders. (Too bad, I run out of links...) - The issue I have with most of them is that they are not SCM agnostic (ditz is, btw.) which kind of disqualifies those systems in a way that I don't want my bugtracker to lock me in on the used SCM technology - lock-ins are always a bad sign).

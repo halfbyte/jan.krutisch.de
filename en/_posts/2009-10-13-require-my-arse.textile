@@ -1,0 +1,41 @@
+--- 
+wordpress_id: 97
+layout: post
+title: require my arse.
+wordpress_url: http://localhost3000.de/?p=97
+---
+Really. How hard can it be? Do you really have to prove that your metaprogramming skills are better than mine on the first five lines of your code? Like this:
+
+{% highlight ruby %}
+# MySpace libs
+%w( connection object
+  album detail friends friendship
+  interest mood photo profile status user video
+).each(&method(:require))
+# Base libraries
+%w( pp net/http cgi ).each(&method(:require))
+{% endhighlight %}
+
+How is this more readable, or in <strong>any</strong> way better than the long version?:
+
+{% highlight ruby %}
+require 'connection'
+require 'object'
+require 'album'
+require 'detail'
+require 'friends'
+require 'friendship'
+require 'interest'
+require 'mood'
+require 'photo'
+require 'profile'
+require 'status'
+require 'user'
+require 'video'
+
+require 'pp'
+require 'net/http'
+require 'cgi'
+{% endhighlight %}
+
+Sorry, but I don't get it. Plus, the original construct, for some reason, fails for me inside my rails app, which I'll now have to investigate. Good times!

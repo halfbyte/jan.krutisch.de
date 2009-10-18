@@ -1,7 +1,0 @@
---- 
-wordpress_id: 227
-layout: post
-title: Was nervt...
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=227
----
-...ist das mein Provider momentan seine DNS's nicht auf die Reihe bekommt und ich alle paar Tage/Stunden die DNS-Einträge in /etc/resolv.conf anpassen darf...Was ich von der Firma aus wegen der Korporativen Feuerwand nicht kann. Bis ich dazu komme wird als da unten links keine Blogrolle angezeigt. Sorry for that.

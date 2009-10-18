@@ -1,0 +1,37 @@
+--- 
+wordpress_id: 32
+layout: post
+title: Rails (and possibly Ruby, too) needs an additional documentation system
+wordpress_url: http://localhost3000.de/2007/09/17/rails-and-possibly-ruby-too-needs-an-additional-documentation-system/
+---
+And I'm specificly not talking about the next page that indexes the rdocs and makes them availabler under which navigation methodology seems appropriate at that time.
+
+I just went home (to my hotel, to be precise) from the BoF-Session about Docs/Talks/Teachings on the RailsConf Europe. The BoF-Session was quite cool (even if a bit short) and we all agreed on a few flaws coming from the current documentation system of Rails (and I guess, a few points of that apply to ruby too). It seems to strike a note at the moment, as you can see on <a href="http://nubyonrails.com/articles/is-free-beer-possible">Topfunky's lates post and the ongoing discussion</a>.
+
+<!--more--> The specific problems we saw:
+<ul>
+	<li>RDocs are generated from source.  That looks like a brilliant idea, as long as you need simple, one-languange documentation for one project. If you think about it, there are numerous problems:
+<ul>
+	<li>Translation is impossible, as long as you don't come up with some clever resource bundle system for rdoc which, in turn, will have it's own problems</li>
+	<li>You need core team members to participate in the documentation process, since doc changes currently need to be provided as patches to the rails source. We all know (or at least guess) that this is not an ideal solution and makes writing (or adding to the) docs much harder than it should be. Additionally, it also puts a burden on the core team that is not appropriate and probably slows down the development process.</li>
+	<li>All that hyper-duper-super-meta-magic we all love so much in rails is actually quite hard to document using RDoc and makes documentation show up in unusual places. Take routing for example. Shouldn't there be a chapter "Routing" that simply lists all the routing-dsl-commands and their possible options and outcomes? Instead of that, we have the description in two different places (ActionController::Routing and ActionController::Resources) and actually the valuable documentation is contained in a huge comment at the top of the class sources while the actual rdoc stuff is mostly useless.</li>
+	<li>RDocs are not, by default, indexed and therefore searchable. Many people tried to solve that problem by building on of those "just another rails documentation site" thingies I mentioned earlier.</li>
+</ul>
+</li>
+	<li>Currently the documentation path seems to be "Do the simple stuff for free and do the good stuff as payware" as in books, screencasts etc. etc. Mind you, I am a participator in this market as a book author and main contributor to <a href="http://rubymatters.de">an almost launched screencasting platform</a>, that will sell casts. Nothing wrong about that, really. But we really should think about it more critically. We are doing open source. One of the key aspects in OS (at least as I see it) to lower the entry barrier for people, and that may mean free, high quality docs.</li>
+</ul>
+Many people seem to work on that problem right now, as is shown in the comments to Topfunky's post. But from the i18n perspective (as largely ignored by the commenters, sadly), we don't really have an option but to separate the main documentation from the code. The rdoc stuff definitely serves a purpose and should be continuously improved by efforts like the caboose sponsored doc patches stuff, but that can only be a base on which to improve in a joined effort. Here are the key features we (and I) thought to be the most important:
+<ul>
+	<li>Original generation via rdoc. Then transformed in whatever format (database) seems to be appropriate for the job.</li>
+	<li>Updated using an automated diff system that looks for relevant changes in the rails core changeset</li>
+	<li>Versionable and branchable so that it could serve as a doc for any rails version</li>
+	<li>Managed by a  to-be-found documentation team analogous to the PHP doc team.</li>
+	<li>Incorporates blog posts on specific topics (That seems to be the hawt idea of the month)</li>
+	<li>Needs to abstract from the current Module/Class/method scheme of RDoc to be able to document the metaprogramming magick without jumping through hoops.</li>
+	<li>User comments would be nice but must be made relatively SPAM safe (and probably should be moderated if needed)</li>
+	<li>Translation must be supported very well.</li>
+	<li>Must be an (almost) official effort to bundle the available energy.</li>
+	<li>Some kinda funding would be nice to get people actually to do it.</li>
+</ul>
+I think we'll kinda try to bring it up tomorrow on the conference whenever possible.
+See you there.

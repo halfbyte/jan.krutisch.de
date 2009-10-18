@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 26
+layout: post
+title: Thanks for watching!
+wordpress_url: http://localhost3000.de/2007/07/10/thanks-for-watching/
+---
+Yesterday evening was a fun event. We had a pretty good presentation, were able to answer almost any question, and almost 70 people were listening to our wise words. I had some pretty interesting conversations afterwards with old friends and colleagues. Then a few of us took some beers in the max &amp; consorten, including the current qype.com team and the wevent team. Now, if I only would have brought my business cards, that would have been great :)
+
+Here are the slides:
+
+<object type="application/x-shockwave-flash" data="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=75912&amp;doc=lehmanns-rails-erweitern2219" height="348" width="425">
+<param name="movie" value="https://s3.amazonaws.com:443/slideshare/ssplayer.swf?id=75912&amp;doc=lehmanns-rails-erweitern2219"></param></object>

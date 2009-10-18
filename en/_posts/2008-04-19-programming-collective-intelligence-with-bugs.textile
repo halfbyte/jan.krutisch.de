@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 49
+layout: post
+title: programming collective intelligence, with bugs
+wordpress_url: http://localhost3000.de/?p=49
+---
+The latest addition to my library: Programming Collective Intelligence, Toby Segaran, O'Reilly. A cool book with cool examples. It also probably sets the new world record for the most errors in the first code example in a coding book.
+
+Don't get me wrong: It really is a great book (expect a full length review in the next few weeks here), and I absolutely love the way Toby Segaran picked his real life examples and all that, but having non-running code in the book, wrong code on the website AND a wrong result in the book doesn't really help. As I said, all in the first example (euclidian distance similarity score). Not bad, innit?
+
+I just hope it doesn't continue to be as buggy, because debugging a simple geometric formula is one thing, but I'm not sure if I will spot the mistakes in the genetic programming examples just as easy...
+
+Having all code correct in a book is hard work, I know this very well (having correct code is hard in the first place, if you think about it). Makes me think about the author's workflow. All code in the book should be running code, no doubt, copied in the latest moment possible, ideally automatically. That's easy when you have some simple examples for language constructs, but gets a lot more complex, if your five lines of code you want to show on the page are not able to run standalone. I wonder how the pragprogs tackled that problem - Toby Segaran and O'Reilly obviously failed...
+
+If you want to follow my progress through the book, btw, it's as easy as <a href="http://github.com/halfbyte/programming_collective_intelligence_in_ruby/tree/master">following a github repo</a>, where I am trying to convert all the python examples to ruby code, at least as long as it's as easy as converting list comprehensions to inject's and map's.

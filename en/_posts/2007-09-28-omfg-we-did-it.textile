@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 34
+layout: post
+title: OMFG. We did it.
+wordpress_url: http://localhost3000.de/2007/09/28/omfg-we-did-it/
+---
+So, our hopes were not in vain: soundbadge.net really won the "innovation" prize in the railsrumble. We are all still in shock. I need to thank my great team here: Florian, Karsten and Wolfgang. I am honored to be able to work with you.
+
+Now that the hosting stuff is in place (We've won a year on a linode), we will start to explore the possibilities of the soundbadge concept for the future.
+
+Thanks to everyone voting for us!

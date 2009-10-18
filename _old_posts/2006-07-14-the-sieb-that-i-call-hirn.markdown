@@ -1,9 +1,0 @@
---- 
-wordpress_id: 284
-layout: post
-title: The Sieb that I call Hirn
-wordpress_url: http://localhost/~jankrutisch/wordpress/?p=284
----
-<a href="http://www.flickr.com/photos/jankrutisch/1758455/" title="Photo Sharing"><img src="http://static.flickr.com/2/1758455_c9189c931a_m.jpg" width="240" height="240" style="float:left;margin-right:20px;" alt="icing sugar sieve_SqC" /></a>Heute beim Duschen (jaja!) noch gedacht, "na, da musst Du unbedingt einen Artikel in deinem  Blog drüber schreiben". 
-
-Immerhin daran erinnere ich mich noch. Nicht mehr allerdings daran, was das war, worüber ich den Artikel in meinem Blog schreiben wollte.

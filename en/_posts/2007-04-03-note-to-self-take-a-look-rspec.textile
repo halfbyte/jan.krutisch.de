@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 12
+layout: post
+title: "Note to self: Take a look @ RSpec"
+wordpress_url: http://localhost3000.de/2007/04/03/note-to-self-take-a-look-rspec/
+---
+The caboose post on the <a href="http://habtm.com/articles/2007/4/3/caboose-sample-rails-application" title="caboose">best practices sample app</a> got me thinkin' to goddammit try out that bloody rspec already. It's virtually sitting on my shelves for how long now?  :)

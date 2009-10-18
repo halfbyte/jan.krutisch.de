@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 29
+layout: post
+title: Yay! Count us in!
+wordpress_url: http://localhost3000.de/2007/08/29/yay-count-us-in/
+---
+I just registered for the Rails Rumble. Our Idea is pretty crazy and needs a lot of thought input before the rumble starts, but at least it seems to be pretty original.
+
+Who's in the team? First of all, my (one of four) boss Wolfgang from <a href="http://www.mindmatters.de">mindmatters</a>, Florian aka <a href="http://theflow.de/">TheFlow</a> and my dear Bro from <a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=189881283">ClaepCaets</a>. And, of course, the mystic man himself. Me. Jan. (yeah, borrowing ideas from ATCQ can't be wrong).
+
+We will, in one form or another liveblog during the rumble, I'm sure.
+
+Oh and feel free to join us at <a href="http://jaiku.com/channel/railsrumble">#railsrumble</a> on jaiku (as well as on irc.freenode, of course)

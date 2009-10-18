@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 55
+layout: post
+title: Android doomed?
+wordpress_url: http://localhost3000.de/?p=55
+---
+<p>Now, finally I was able to take a look at the iPhone SDK. Man, this is one heck of a cool piece of software. XCode may not be the bestest IDE out there, but in combination with the excellent InterfaceBuilder and the absolutely stunning API set, phone software development finally turns out to be enjoyable (As soon as you get over the quirks that Objective C brings with itself).<br /></p><p>The Android SDK on the other hand, is in a terrible state. Every new "preview release" changes the API's, the UI, and everything else at will. The apps that won the Android challenge were, in my humble opinion, pretty disappointing altogether. Now, this all is not without consequence for the introduction of real life handsets, which now, as reported,&nbsp; will not enter the market before Q4.</p>
+<p>I still would like to think that the Android way of doing things (keeping the platform completely open) is way better than the "almost closed up" Apple way.</p>
+<p>Only, as the saying goes, "real artists ship", and Android is far away from doing so. Which will draw a lot of developers to the iPhone platform. It is, at least for the moment, the only place to be, if you want to develop feature-rich, beautiful and slick mobile apps.</p><p>Let's cross our fingers that the first Android handsets WILL be available in Q4, that the SDK will, in some point between now and then, become stable and the SDK/IDE will improve. While ObjC/Cocoa will always be the cooler stuff to develop with and will yield results faster, in my opinion, the Java eco system will hopefully produce some great code for the Platform and the openness of the Platform will hopefully foster creativity and new business models for the mobile market.</p><p><br /></p>
