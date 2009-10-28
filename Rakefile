@@ -3,8 +3,6 @@ Dir["#{File.dirname(__FILE__)}/lib/**"].each do |dir|
 end
 require 'jekyll'
 
-puts $LOAD_PATH
-
 namespace :site do
   task :generate_once do
     options = { :auto => false }
