@@ -3,3 +3,4 @@ auto: true
 exclude: 
   - tools
   - lib
+  - Rakefile

@@ -7,7 +7,10 @@ puts $LOAD_PATH
 
 namespace :site do
   task :generate_once do
-    options = Jekyll.configuration({:auto => false})
+    options = { :auto => false }
+    options['destination'] = ENV['JEKYLL_DEST'] if ENV['JEKYLL_DEST']
+
+    options = Jekyll.configuration(options)
     site = Jekyll::Site.new(options)
     puts "generating site once"
     site.process
@@ -15,6 +18,7 @@ namespace :site do
   end
   
   task :observe do
+
     options = Jekyll.configuration({:auto => false})
     site = Jekyll::Site.new(options)
     
