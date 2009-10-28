@@ -4,15 +4,15 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>jan.krutisch.de</title>
-    <link>http://jan.krutisch.de</link>
+    <title>jan.krutisch.de - deutsche artikel</title>
+    <link>http://jan.krutisch.de/de</link>
     <language>en</language>
     <webMaster>jan@krutisch.de (Jan Krutisch)</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <copyright>Copyright 2004-2009</copyright>
     <ttl>60</ttl>
-    <description>An ongoing conversation between Jan Krutisch and the Interwebs on nothing in particular.</description>
-    {% for post in site.posts limit:10 %}
+    <description>An ongoing conversation between Jan Krutisch and the Interwebs on nothing in particular. Hier gibts deutsche Artikel</description>
+    {% for post in site.categories.de limit: 10 %}
     <item>
       <title>{{ post.title }}</title>
       <link>http://jan.krutisch.de{{ post.url }}</link>

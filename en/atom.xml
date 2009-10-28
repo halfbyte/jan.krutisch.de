@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>jan.krutisch.de - english feed</title>
+ <link href="http://jan.krutisch.de/de/atom.xml" rel="self"/>
+ <link href="http://jan.krutisch.de/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://jan.krutisch.de/en</id>
+ <author>
+   <name>Jan Krutisch</name>
+   <email>jan@krutisch.de</email>
+ </author>
+ 
+ {% for post in site.categories.en limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://jan.krutisch.de{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://jan.krutisch.de{{ post.url }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>
