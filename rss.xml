@@ -7,7 +7,7 @@ layout: nil
     <title>jan.krutisch.de</title>
     <link>http://jan.krutisch.de</link>
     <language>en</language>
-    <webMaster>Jan Krutisch <jan@krutisch.de></webMaster>
+    <webMaster>jan@krutisch.de (Jan Krutisch)</webMaster>
     <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
     <copyright>Copyright 2004-2009</copyright>
     <ttl>60</ttl>
