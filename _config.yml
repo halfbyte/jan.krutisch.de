@@ -1,3 +1,5 @@
 pygments: true
 auto: true
-ignore: tools/convert_all_to_utf.rb
+exclude: 
+  - tools
+  - lib
