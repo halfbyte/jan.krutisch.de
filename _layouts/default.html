@@ -41,6 +41,9 @@
 <ul>
   <li><a href="/about.html">About</a></li>
   <li><a href="/">Blog</a></li>
+  <li><a href="/photos.html ">Photos</a></li>
+  <li><a href="/sounds.html">Sounds</a></li>
+  <li><a href="http://github.com/halfbyte">Code</a></li>
   <li><a href="/imprint.html">Imprint/Impressum</a></li>
 </ul></div>
 
@@ -72,6 +75,38 @@
   <p>
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Every <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> in this Blog is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-License</a>, if not stated differently.
   </p>
+
+  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+  <script>
+  new TWTR.Widget({
+    version: 2,
+    type: 'profile',
+    rpp: 10,
+    interval: 6000,
+    width: 'auto',
+    height: 300,
+    theme: {
+      shell: {
+        background: '#8eb7a8',
+        color: '#000000'
+      },
+      tweets: {
+        background: '#f1e5b7',
+        color: '#000000',
+        links: '#c5003e'
+      }
+    },
+    features: {
+      scrollbar: true,
+      loop: false,
+      live: true,
+      hashtags: true,
+      timestamp: true,
+      avatars: false,
+      behavior: 'all'
+    }
+  }).render().setUser('halfbyte').start();
+  </script>
 
 
 </div>

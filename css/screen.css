@@ -24,6 +24,8 @@ body { background-color: #611C26; color: #2B211D;}
 .posts, .posts-compact { list-style-type: none; margin:0; padding:0; }
 .post-content { font-size:1.2em  ; }
 
+#content > p { font-size: 1.2em;}
+
 .my-image { border:1px solid black;}
 
 #sidebar {}
@@ -36,7 +38,7 @@ body { background-color: #611C26; color: #2B211D;}
 #menu li {
   float:left;
   display:block;
-  padding: 0.2em 0 0.2em 2.25em;  
+  padding: 0.2em 0 0.2em 2.25em;
 }
 #menu li a:link, #menu li a:visited { text-decoration:none; color: #2B211D;}
 
