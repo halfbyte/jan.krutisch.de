@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print"> 
+  <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
   <!--[if lt IE 8]>
     <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
   <![endif]-->
@@ -19,13 +19,13 @@
 
 
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection">
-  <link href="{{page.feed_prefix}}/atom.xml" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
-  <link href="{{page.feed_prefix}}/rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml" />
-	<title>{{page.title}}</title>
-	<script type="text/javascript" charset="utf-8">
+  <link href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
+  <link href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}" rel="alternate" title="RSS Feed" type="application/rss+xml" />
+  <title>{{page.title}}</title>
+  <script type="text/javascript" charset="utf-8">
     var disqus_developer = 1;
   </script>
-  
+
 </head>
 
 <body>
@@ -37,7 +37,7 @@
   <p>a conversation between me and the interwebs on nothing in particular.</p>
 </div>
 
-<div class="span-24 last" id="menu">  
+<div class="span-24 last" id="menu">
 <ul>
   <li><a href="/about.html">About</a></li>
   <li><a href="/">Blog</a></li>
@@ -64,11 +64,11 @@
     <img class="my-image" src="/images/chrome/jan.jpg" alt="A part of jans head"/>
   </p>
   <ul>
-    <li><a href="/rss.xml">RSS 2.0</a></li>
-    <li><a href="/atom.xml">ATOM</a></li>
+    <li><a href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}">RSS 2.0</a></li>
+    <li><a href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}">ATOM</a></li>
   </ul>
 
-  
+
   <p>
     <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Every <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> in this Blog is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-License</a>, if not stated differently.
   </p>
@@ -87,14 +87,14 @@
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-	var links = document.getElementsByTagName('a');
-	var query = '?';
-	for(var i = 0; i < links.length; i++) {
-	if(links[i].href.indexOf('#disqus_thread') >= 0) {
-		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-	}
-	}
-	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/janblog/get_num_replies.js' + query + '"></' + 'script>');
+  var links = document.getElementsByTagName('a');
+  var query = '?';
+  for(var i = 0; i < links.length; i++) {
+  if(links[i].href.indexOf('#disqus_thread') >= 0) {
+    query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+  }
+  }
+  document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/janblog/get_num_replies.js' + query + '"></' + 'script>');
 })();
 //]]>
 </script>
