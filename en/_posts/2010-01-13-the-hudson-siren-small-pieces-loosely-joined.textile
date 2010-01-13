@@ -1,6 +1,6 @@
 ---
 title: The Hudson Siren - Small pieces loosely joined
-layout: default
+layout: post
 ---
 
 <a href="http://www.flickr.com/photos/jankrutisch/4272142306/" title="hudson-siren by jan_krutisch, on Flickr"><img src="http://farm5.static.flickr.com/4057/4272142306_e1074a8ec7_m.jpg" width="240" height="160" alt="hudson-siren" /></a>
