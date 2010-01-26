@@ -1,0 +1,36 @@
+---
+title: An update on the web synthesizer
+layout: post
+---
+
+After the "last post":/en/2010/01/09/a-most-unusual-hack.html on my crazy "synth in a browser" idea, I tried various other concepts to bring the idea to life. I am not very happy with the current state, but definitely see potential in some of the ideas.
+
+After the rather brutal failure of the streaming idea (I guess, I could, with some serious hackery and a little more systematic approach, trim down latency to around 10sec which might be still way too much to be anywhere near beeing useful), I tried to explore other possibilities. If generating the sound on a server is out of question, I need to generate it in the client. Well, duh.
+
+Now, conventional wisdom says that this is probably too much for the obvious client choice: Javascript. Plus, there's no interface for "streaming" on the fly synthesized audio from javascript.
+
+But, as it seems, conventional wisdom was invented before Google Chrome, the V8 javascript VM or Safari and the Nitro engine came to life. I personally think that conventional wisdom was invented for a IE 5.0.
+
+So it should be at least worth a try. But even if it is possible to write a realtime software synthesis system in javascript (and I am only spilling a few beans when I tell you: it IS!), this leaves me with the problem of actually playing the generated sound.
+
+<!-- more -->
+
+My first idea was to write a Java applet. I hear you shake your head in a sad, slow motion, but here's why: When the Hobnox guys (You *know* the Hobnox audio tool, right?) started the "Adobe, make some noise" campaign, because Flash 9 basically sucked for self generated audio, they actually used a Java applet to stream the sound.
+
+Basic sound output in Java is not too complicated (You want to take a look at javax.music.sampled.*), but communicating between Javascript and a Java applet involves a very inefficient, very sucky and also very old interface: The infamous LiveConnect. I don't know the details (and I have a vague feeling that I don't really want to know) on how the communication actually takes place, but I suspect there is some heavy serialization/deserialization involved. This would explain why it was completely impossible to transfer the sound data as actual arrays of integers (or whatever sample format floats your boat). The only way I could actually bring the communication to life was to use Strings as byte buffers. The remaining encoding issues produce a very subtle, almost analogue sounding noise/hiss, but at least I was able to produce a proof of concept: Yes, it is possible to use Javascript in a very modern browser (Safari in this case) to calculate some basic soft synth algos in realtime. Currently this means a uninterpolated Sawtooth passing through a 4 pole state variable filter with a simple one stage envelope on volume and filter.
+
+The drawbacks, apart from the (maybe fixable) encoding noise: While Java applets run (on OS X that is) in both Firefox and Safari, only Safari was able to handle the workload of the soft synth, Firefox simply falls flat on it's belly, aka "slow script warning". While in theory Google Chrome should be the ideal browser to run the synthesizer, it currently does not support Java applets on the Mac. While in theory, both Java and javascript are garbage collected languages, this obviously doesn't mean that much in reality. I cannot rule out complete stupidity of me and my codes completely, but in my Book, browsers should not crash while simply using these two technologies.
+
+Wanna "take a look":http://github.com/halfbyte/SilentStreamer at my crappy Java and javascript hacks?
+
+Okay, next try. Using flash was, at first not really an option, because my initial idea was to make the whole thing using mostly open technology. Plus: As written above, writing a realtime soft synth for flash is not a real challenge anymore: It has been done, more than once.
+
+On the other hand, Flash has a near-to-ideal market penetration. So why not using a hidden flash applet the same way I wanted to use the Java applet: Simply playing the sound, while the heavy lifting is done in javascript.
+
+At least I was able to use open source technology to try this: I recommend taking a look at "haXe":http://haxe.org for your flash compiling needs.
+
+To cut a long story short: Ongoing investigations, outlook cloudy with some sun during the night. Communication between Javascript and Flash generally seems to be a magnitude faster than between Javascript and Java, because I really *was* able to send a huge array of Floating Point numbers (!) from Javascript to flash. But you probably don't want to do that. The CPU indicator in the menu bar looked more like a VU-Meter on the mixer of Paul von Dyk when I ran the example. Next I tried using integers instead of floats, but this only helped a bit. Currently I'm back to trying to do it with Strings but didn't get it to work, again, I suspect some encoding problems.
+
+I'll also push it up to github.com as soon as it is usable and doesn't chrash your browser right away.
+
+So, if I really want to kick some cool javascript synthesizer code on the "musichackday STHLM":http://stockholm.musichackday.org, I need to do a lot of work.
