@@ -1,0 +1,27 @@
+---
+title: iPad it is
+layout: post
+---
+
+First off: I think the name is a poor choice. The web, especially the twitters seems to agree. I would have loved all the other names that flew around during the last days, like iBook, Canvas, Palette, whatever.
+
+With that out of the way, I am pretty baffled by both the product itself but also the reactions to it.
+
+What can I say. No multitasking feels weird with a device that can run special versions of iWork on it. (Let's hope they do a lot of state saving and the apps start fast). Apart from that, the whole thing feels like an extremely solid, well designed piece of hardware/software.
+
+Now here's the real problem: While OS X on my Mac has it's proprietary edges, the system is mostly open. iPhone and iPad are, by default, pretty much closed devices. And this leaves a lot of questions unanswered. For example, it restricts your music buying to iTunes, which is good for anyone but Apple. Will it restrict Book buying to the iBooks store? We don't know yet, but at least it is based on a standard (ePub), so it might be possible to add non-DRM books (like my beloved pragprog series) directly to the iBooks app. But what about the DRM format? Will it support the defacto standard Adobe DRM and by that opening your iPad to the hundreds of titles that publishers sell for, e.g. the Sony readers? We will hopefully get some details on that very soon.
+
+I'm still undecided if this is a dealbreaker for me, because I feel like it's easier for me to tolerate the closed nature of the iPhone that it is with the iPad. (maybe because the iPad seems to be closer to a "real" computer)
+
+Still, I do not agree with many commenters that the iPad is an underwhelming supersized iPhone and nothing else. Or that it cannot compete with netbooks. Or that there are no usecases.
+
+<!-- more -->
+
+First of all, I think people underestimate the possibilities of a 10" multitouch screen with a very high resolution. A few apps shown in the demos, especially the photos app, show a bit of the magic that will befall you as soon as you can touch this device. Yes, this will be a completely new dimension on top of what's already possible on the iPhone. No, you probably ain't seen nothing yet. Yes, you can quote me on that.
+
+Also I think that people underestimate the value of a simple, thin, relatively light and extremely solid device with virtually no moving parts. This WILL be georgeous for reading (I hope that they thought of a way to lock orientation, or otherwise it will be impossible for me to read in the bed), this will be fabulous for watching movies or browsing through your music collection, but in the end, it will open up completely new ways of using a computer, simply because it stops being awkward or unfitting. It is not as clumsy as a larger Notebook (which is usually too heavy to lift it comfortably with one hand), it cannot fall over like my netbook when open, it holds natural (everyone complaining about the huge bezel should also complain about the huge margins usually employed in printed books), and, last but not least, it simply looks great. All in all, it will happily replace a "real" computer in any environment that's not "computerish" by default. I am relatively sure that I won't be coding web apps on an iPad anytime soon, but for gaming, reading, watching movies and simple browsing, it will be a much better fit than anything else. And maybe, possibly with the help of the keyboard dock, for some people this will be all the computer they'll need in their life.
+
+Am I unhappy about the closed nature of all the Shops that Apple has under their control? You bet. Am I unhappy about the missing Multitasking? For sure. Do I think that the iPad will be a success? Yessir, although I am not sure how fast it will take on at first.
+
+Will I buy the iPad? This largely depends on 1. how the german mobile carrier contracts will look like and 2. how apple will interpret the current dollar to euro conversion rate. But yes, I might buy one, if only to find out if the Appstore coder crowd will finally come up with some descent music apps. (Actually, after the iWork presentation, I was really hoping for a mobile GarageBand version).
+
