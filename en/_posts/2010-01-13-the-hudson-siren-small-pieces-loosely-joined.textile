@@ -1,0 +1,22 @@
+---
+title: The Hudson Siren - Small pieces loosely joined
+layout: post
+---
+
+<a href="http://www.flickr.com/photos/jankrutisch/4272142306/" title="hudson-siren by jan_krutisch, on Flickr"><img src="http://farm5.static.flickr.com/4057/4272142306_e1074a8ec7_m.jpg" width="240" height="160" alt="hudson-siren" /></a>
+
+A strong, intrusive indicator for continuous integration failures is extremely useful to keep software quality high. People tend to forget the CI stage if nothing seems to go wrong. And while the usual CCTray-Stuff "kind of" works, a more physical approach may be in order for larger teams. While large "information radiator" screens might be desirable, we chose to go a lot cheaper. One of my colleagues, the recent Rails convert "Christoph":http://twitter.com/rumheulen actually took the first, most important step and implemented the actual notification hardware, using freely available "police lights", a simple USB driven relais board and a Linksys NSLU2. His work was pretty outstanding: It involved crosscompiling USBLib for the NSLU2 (not to forget installing "Debian":http://www.nslu2-linux.org/wiki/Debian/HomePage on it), wiring it all together and then writing some kind of network protocol for it. Now, the actual protocol is pretty simple: Open a telnet connection (aka TCP/IP-Socket) to a specific port and send a command like "BLINK 3 RED"  to it. This is, of course, "Keep it simple stupid" aka KISS at it's best.
+
+Except that now we were faced with a problem: Our CI servers are outside of our office network and you probably don't want to expose a relatively insecure protocol (with an implementation that's very likely to contain bugs an attacker could exploit). So, portforwarding from our firewall was out of question. In a very KISSy move, my colleague Timo set up some SSH tunneling and then wrote a simple Hudson-Plugin which would then use the above mentioned protocol via the SSH tunnel. This worked for some time but then we split up our CI server installations (and after that only Java projects could use the Sirens) and anyway, this was a bad kludge, so when the tunnel went down some day due to a server restart, we never restarted it.
+
+<!-- more -->
+
+So, one day, I simply thought "what the heck" and implemented a "siren web service":http://github.com/halfbyte/siren-ws in "Sinatra":http://www.sinatrarb.com/. The web service would simply open the socket and send the command into our own network while it would sit on a server with a public facing Port 80. All in all it took something like 4 hours to implement all of it and deploy it on the server. The hardest problem was how to configure our OSX server to serve the app via Passenger and the built in Apache and then setting up the web configuration. The app takes POST requests on URLs like /red and /blue with additional params to specify style and length of the signal, and also has some GET actions that display help pages and utility forms to enable human endusers to engage the siren for testing purposes (or practical jokes on teams in crunch mode).
+
+The only thing left to do was now to adapt the Hudson-Plugin from above to use the web service instead of the socket connection. And here, my rarely used generalisation instinct kicked in: Wouldn't it be nice if we had a generic webhook plugin for hudson, so that we could trigger all kinds of actions with it? Yeah, probably, but the "plugin":http://github.com/halfbyte/hudson-webhook is not-quite-finished, sorry.
+
+So now, today, I took Timo's source and ripped out the hardcoded socket code and replaced it with some hardcoded http code.
+
+Which means that the mindmatters siren is back in action. And that's a good thing.
+
+

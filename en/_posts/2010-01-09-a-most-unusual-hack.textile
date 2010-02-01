@@ -1,6 +1,6 @@
 ---
 title: A most unusual hack
-layout: default
+layout: post
 ---
 
 Sometimes, you have to take a bath to make things come together. In my case, I was pondering porting the absolutely fabulous "nanoloop":http://nanoloop.com to the iPhone platform. But that was only one piece of the puzzle. The other one was a podcast ("Bitsundso":http://www.bitsundso.de) where one of the regulars (namely "Thorsten Philipp":http://blog.kyri0s.org/post/271121944/deploying-apples-http-live-streaming-in-a-gnu-linux) was explaining the brand new apple flavor of http streaming - Which is based on delivering a video or audio stream in small chunks (8-10 seconds seems to be a good value) and glueing them together using an extended version of m3u-playlists.
@@ -39,7 +39,7 @@ But the binding is actually quite nice. There's a cool SoundData utility class w
 
 It also contains quite a few utility functions to generate music and currently I'm using both the sawtooth generator to create the base sound for my synthesizer and the envelope generator.
 
-Hacking the synth together was pretty easy. Writing the sound files in wav format, using the correct, fixed chunk size was a bit hairy and I also expect some bugs to lurk around there (more on that later). Bringing it all to work with Quicktime was a pretty bad experience. Not that anything in there is complicated (you most probably want to use ffmpeg for encoding the files although in theory lame should be fine), but the level of feedback you can expect from Quicktime if anything is wrong feels like it's 1991 all over again. Error -120203 or something like that. Yeah, right, that one. The devil is in the detail, in my case, my playlist had a small syntax error. 
+Hacking the synth together was pretty easy. Writing the sound files in wav format, using the correct, fixed chunk size was a bit hairy and I also expect some bugs to lurk around there (more on that later). Bringing it all to work with Quicktime was a pretty bad experience. Not that anything in there is complicated (you most probably want to use ffmpeg for encoding the files although in theory lame should be fine), but the level of feedback you can expect from Quicktime if anything is wrong feels like it's 1991 all over again. Error -120203 or something like that. Yeah, right, that one. The devil is in the detail, in my case, my playlist had a small syntax error.
 
 h3. The Streaming
 
@@ -82,7 +82,7 @@ Now, to be able to stream the generated sound, sound generation needs to be fast
 
 h3. The Duct Tape
 
-So I had the sound generation in place, the last thing to do was to glue the web interface and the sound generation together. 
+So I had the sound generation in place, the last thing to do was to glue the web interface and the sound generation together.
 
 Sinatra to the rescue: Three actions, one to transmit changes from the frontend to the server, one to poll the data so that the web editor is updated if someone else at the other end of the world changes something in his view (yes, this is a distributed sound editor, please don't get too exited...), one to fetch the playlist (Quicktime is a bit picky on the mime type the playlist has to be delivered in, that's why I have to deliver the playlist with an action).
 

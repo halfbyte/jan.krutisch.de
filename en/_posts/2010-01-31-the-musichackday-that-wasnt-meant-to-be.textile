@@ -1,0 +1,34 @@
+---
+title: The musichackday that wasn't meant to be
+layout: post
+---
+
+As my coworker "Florian":http://floriansiepert.com would put it: Damn the sh*t f**k. For us (us being the hamburgian musichackday tourists Michael, Wolfgang and Jan with a taste for low budget travel plans), the musichackday was over before it even started. We patiently stood in line at the Ryanair dominated airport in Lübeck, but, really, we should have known better. Not a single Plane left or arrived at Lübeck after 15:00 on Friday. It was snowing like hell (a very cold hell, that is) and the snow ploughs tried their best, but, heck, it was almost impossible to drive safely with a car out there, so it probably wasn't a too bad decision to not try to land or start there. Safety first, safety first.
+
+!http://img.skitch.com/20100131-tnnfxqm18csftyrxpkishxtyda.jpg!
+
+But, being a screwed Ryanair customer, it was clear for us that we had no chance to get to STHLM in time, except for making the travel at maybe 3 times the expense originally planned.
+
+This obviously being the most awesome hackday evar, I'm still quite disappointed. But I repeat myself. Wolfgang suggested early on that we should hack on regardless and so all of us met on Saturday, started with a good Breakfast with leftovers from the "porkcamp":http://porkcamp.com and dived into the projects we had originally planned for Stockholm.
+
+<!-- more -->
+
+Michael deployed his small lastFM API hack called "my city vs. your city":http://rockitbaby.de/projects/mycityvsyourcity/ at the end of Saturday and spent Sunday with optimising the calculation.
+
+Wolfgang and I started in the Saturday afternoon with a small echonest analyzer mash with parts of my javascript soft synth work. Yes, the output is silly, yes it would need a *lot* of work to let it output something useful, but "anyway":http://amie.pixelpoke.de/.
+
+I then, after we left the mindmatters office, started to integrate the javascript synth into my "webloop":http://webloop.pixelpoke.de/ stuff.
+
+On sunday Wolfgang made the amie pretty and I deployed the stuff to one of my webservers. After that we recorded two screencasts to be able to be part of the presentations. And then we were able to see the videos that we recorded, streamed into the doberman office in the live stream we watched. Ah, the interwebs.
+
+Now I am sitting here and wondering if Brian Whitman will really ship echonest tracksuits to our office as he suggested in his tweet:
+
+bq. I can't believe those AMIE dudes found @echonest's secret plans to drunkuncle.dj. #musichackday #howdoyoushipveloursuitstogermany
+
+Har har. Here are the screencasts:
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/in-Jb_KEnwI&hl=de_DE&fs=1&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/in-Jb_KEnwI&hl=de_DE&fs=1&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wltl0SRltgM&hl=de_DE&fs=1&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wltl0SRltgM&hl=de_DE&fs=1&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+Next time I very much would prefer to attend in person, thank you very much, but I think we made the best out of it.
