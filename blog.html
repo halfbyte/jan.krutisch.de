@@ -1,0 +1,19 @@
+---
+layout: default
+title: jan krutisch
+---
+<ul class="posts">
+  {% for post in site.posts limit: 10 %}
+    <li>
+      <h3 class="post-headline"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="post-content">
+        {{ post.short_content }}
+        {% if post.has_more? %}
+          <a href="{{ post.url }}#more">read more...</a>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<p>Older Posts are to be found in <a href="/archive.html">the archives...</a>
