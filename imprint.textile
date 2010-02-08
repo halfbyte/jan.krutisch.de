@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Impressum/ Imprint
 ---
 Ah, the joys of legal disclaimers. Since I am a german citizen, this stuff mostly is in german:
 
