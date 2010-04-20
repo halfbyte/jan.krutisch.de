@@ -1,0 +1,35 @@
+---
+title: The shift that wasn't meant to be
+layout: post
+---
+
+I seem to have upset the gods of transportation. Or put differently: My personal flight success rate for this year is currently a whopping zero percent.
+
+Okay, a little context can not hurt. "Wolfgang":http://twitter.com/wowo101 and I had quite a busy week ahead of us: We attended Berlin's very own "re:publica":http://re-publica.de conference from wednesday to thursday and wanted to fly to lisbon for this years edition of "shift":http://shift.pt, where both of us had talks to give.
+
+On thursday night it became clear that this would probably not happen that way. On friday, a probably rather frustrated Pedro (because at least 50% of his international speakers sat anywhere in the world BUT lisbon) asked me via email if I could probably hold my talk remotely. I was a bit reluctant at first but agreed to do it later on. No, the experience of that wasn't too enjoyable, because I really like to have direct feedback by the audience which isn't quite possible if you 1. can't see the audience and 2. can't really hear the audience as well. Seems that it wasn't that bad for the audience and I got quite some good feedback on it from the organizers, but I really would prefer attending the next conference in person, thank you very much.
+
+Now I please don't want to talk about that anymore. I had an enjoyable Sunday under the sun of Travemünde, while it reportedly poured in lisbon. That's at least a descent form of compensation.
+
+On to the talk: As usual with my talks, I'm not too happy about the end result - it didn't fit into the 25 minutes I had, it didn't manage to bring the points across that I had in mind, but hey, I could probably talk for several hours on Open Source Hardware and 30 minutes is a pretty harsh time constraint - On the other hand I really need to get better at this. Next stop will be RailsWayCon in Berlin on the end of may, where I will be holding two talks - One very very technical (on my mongodb experiences) and one that's more like this one on fun projects to improve your conding skills.
+
+Open source hardware is really nothing new, the idea has been around for almost as long as the concept of open source (which didn't have that name until the beginning of the nineties), but somehow it took quite some time to gain momentum on the internet and find it's ways and niches to become as successful as it is right now.
+
+<!-- more -->
+
+But first, here's the presentation:
+
+<div style="width:425px" id="__ss_3785611"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/jan_mindmatters/open-source-hardware-of-makers-and-tinkerers" title="Open Source Hardware - Of makers and tinkerers">Open Source Hardware - Of makers and tinkerers</a></strong><object width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=shift2010-opensourcehardware-100420025155-phpapp01&stripped_title=open-source-hardware-of-makers-and-tinkerers" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=shift2010-opensourcehardware-100420025155-phpapp01&stripped_title=open-source-hardware-of-makers-and-tinkerers" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/jan_mindmatters">jan_mindmatters</a>.</div></div>
+
+What makes the open source hardware projects successful? First of all, most of those projects (and to me, the two most successful examples, the RepRap/Makerbot movement and the Arduino community, are both especially noteworthy in that respect) are not the typical "hackerish", nerd-in-a-box projects. The arduino was explicitly created to make microcontroller programming less hard and available for people like artists with very limited knowledge on the subject.
+
+Another factor is, and we should not fail to see some of the more darker aspects of this revolution, that we are now able, due to both the wide availablity of the internet and a lot of changes in the structures of chinese factories (which wanted to become less dependant on single clients and thus dramatically flexibilized their production processes), to fabricate hardware in relatively small batches but relatively cheap costs. Services like "BatchPCB":http://batchpcb.com/ additionally are very smart solutions on top of this change. In the end, this leads to a situation which almost nearly mirrors the software side of entrepreneurship: Starting a business in hardware still probably costs more money than starting a business in software, but only by a tiny margin, that has nothing to do with the old days' 6 figure initial investment in production hardware before shipping the first product. As you might have noticed I already digressed completely from the moral issues of this - You and your business depending on cheap chinese labour. Let me balance that a bit: With every business in china making good money depending on the internet, we will win a little bit. This may come across as a bit naive, I know.
+
+So, are we at the brink of a new industrial revolution? Well, yes, of course. The internet already completely transformed the production business and will continue to do so. Open Source and Open Source Hardware are only a small piece of this puzzle, but important ones - Because they show that IP is really largely overrated and that doing business out in the open not only works but also yields better results.
+
+Plus, let me tell you from personal experience - Working with hardware is such a nice change for someone who spent most of his professional life in a code editor.
+
+
+
+
+

@@ -4,6 +4,7 @@ end
 require 'jekyll'
 
 namespace :site do
+  desc "generate site once"
   task :generate_once do
     options = { :auto => false }
     options['destination'] = ENV['JEKYLL_DEST'] if ENV['JEKYLL_DEST']
@@ -14,16 +15,16 @@ namespace :site do
     site.process
     puts "done"
   end
-  
+  desc "automatically observe files and regenerate if needed"
   task :observe do
 
     options = Jekyll.configuration({:auto => false})
     site = Jekyll::Site.new(options)
-    
+
     source      = options['source']
     destination = options['destination']
-    
-    
+
+
     def globs(source)
       Dir.chdir(source) do
         dirs = Dir['*'].select { |x| File.directory?(x) }
@@ -32,7 +33,7 @@ namespace :site do
         dirs += ['*']
       end
     end
-    
+
     require 'directory_watcher'
 
     puts "Auto-regenerating enabled: #{source} -> #{destination}"
@@ -48,19 +49,19 @@ namespace :site do
     end
 
     dw.start
-    
+
   end
-  
+  desc "start server and observe"
   task :server => :observe do
 
     options = Jekyll.configuration({:auto => false})
     site = Jekyll::Site.new(options)
-    
-    
+
+
     source      = options['source']
     destination = options['destination']
-    
-    
+
+
     require 'webrick'
     include WEBrick
 
@@ -76,7 +77,7 @@ namespace :site do
 
     trap("INT") { s.shutdown }
     t.join()
-    
+
   end
-  
+
 end
