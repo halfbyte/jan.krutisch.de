@@ -1,0 +1,210 @@
+---
+layout: default
+title: 10 fun projects to improve your hacking skills
+---
+h2. Ten fun projects to improve your hacking skills
+
+These pages are the support information for my "10 fun projects to improve your hacking skills" talk on the RailsWayCon 2010 in Berlin. Here you can find additional information, links and code for all the projects.
+
+Currently, this is not much more than the text of my presentation. I will add links and example code later on, promised.
+
+h3. Project #1: Tworld Cup
+
+*Quest*: Build a web application that shows twitter „matches“ alongside the  real WoldCup matches.
+
+h4. Skillset
+
+* Alternative Database approaches (NoSQL)
+* Simple Data mining
+* Twitter API usage
+
+h4. Proposed technology stack
+
+Ruby, Sinatra, Twitter-Gem, CouchDB.
+
+h4. Achievements
+
+* NoSQL-Badge
+* Twitter-API-Badge
+
+h3. Project #2: Hackday
+
+*Quest*: Participate in a Hackday, RailsRumble or any other 24-48 hour long coding challenge.
+
+h4. Skillset
+
+* Planning and execution under extreme time constraints
+* Knowing your phyiscal boundaries
+* Less is more
+
+h4. Proposed technology stack
+
+Caffeine, Sleeping Bag, Paper, Rock, Scissors
+
+h4. Achievements
+
+* Hackday-Badge
+* Endurance-Badge
+
+h3. Project #3: RetroJS
+
+*Quest*: Recreate the first video game you ever played in HTML5 and Javascript.
+
+h4. Skillset
+
+* HTML5, Canvas, SVG, Audio element
+* Advanced Javascript, Javascript libraries
+* Event driven designs
+
+h4. Proposed technology stack
+
+HTML, Javascript, maybe jquery.
+
+h4. Achievements
+
+* DHTML-Badge
+* Javscript-Badge
+* Event-Driven-Badge
+
+h3. Project #4: Texas Estimate‘em
+
+
+*Quest*: Build an application to remotely play planning poker using WebSockets
+
+
+h4. Skillset
+
+* HTML5, Javascript
+* Websockets
+* Realtime applications
+
+h4. Proposed technology stack
+
+HTML, Javascript, maybe jquery.
+
+h4. Achievements
+
+* Realtime-Badge
+* Node-Badge
+* Agile-Badge
+
+h3. Project #5: SoundTest
+
+*Quest*: Create an Autotest plugin (or a CI-Server plugin) that sonically signals the quality of your code using PD.
+
+h4. Skillset
+
+* Sound processing. OpenSoundControl
+* Graphical stream programming using PureData
+* Autotest extensions.
+
+h4. Proposed technology stack
+
+Ruby scripts, OSC library, PureData.
+
+h4. Achievements
+
+* Graphical-Programming-Badge
+* Test-Signalling-Badge
+* Audio-Badge
+
+h3. Project #6: Dashboard
+
+*Quest*: Build a large dashboard displaying important metrics (Whatever that means to you) using HTML, SVG and Redis.
+
+h4. Skillset
+
+* Graphics design
+* Using a Key value store
+* Data aquisition and aggregation with Redis
+
+h4. Proposed technology stack
+
+Sinatra, Redis, Raphael.js
+
+h4. Achievements
+
+* Dashboard-Badge
+* Design-Badge
+* DataMunger-Badge
+
+h3. Project #7: Back to the Desktop
+
+*Quest*: Build a desktop application that controls an aspect of one of your rails web applications.
+
+h4. Skillset
+
+* Desktop UI design
+* Desktop development
+* API design
+
+h4. Proposed technology stack
+
+Rails, MacRuby/hotcocoa or QTRuby, RubyFX etc.
+
+h4. Achievements
+
+* Desktop-Badge
+* API-Badge
+
+h3. Project #8: Rube Tweetberg
+
+*Quest*: Build a Rube Goldberg machine that starts or that‘s started by a tweet or other forms of electronic messaging.
+
+
+h4. Skillset
+
+* Build stuff.
+* Create physical in/output for computer.
+
+h4. Proposed technology stack
+
+threads, duct tape, marbles, inclined planes, USB devices
+
+h4. Achievements
+
+* Handicraft-Badge
+* Physical-I/O-Badge
+* Patience-Badge
+
+h3. Project #9: BuildLight
+
+*Quest*: Build a hardware representation (e.g. stoplight) of your build status.
+
+
+h4. Skillset
+
+* basic electronics and eventually soldering
+* Interfacing Hardware
+* Build/CI server extension
+
+h4. Proposed technology stack
+
+#{buildserver}, Arduino, Relais, Stop light, etc.
+
+h4. Achievements
+
+Signalling-Badge
+Arduino-Badge
+CodeQuality-Badge
+
+h3. Project #X: TouchySubject
+
+Please note that at this time, Project#X is more or less a placeholder, I've yet to come up with a good specific idea for it.
+
+*Quest*: Build something with a multitouch/tangible interface
+
+
+h4. Skillset
+
+* New interface paradigms
+* Multi-User interactivity
+
+h4. Proposed technology stack
+
+iPad, iPhone, Android, Reactable, whatever
+
+h4. Achievements
+
+* Multitouch-Badge
+* Tangible-UI-Badge
