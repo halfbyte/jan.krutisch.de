@@ -1,0 +1,37 @@
+---
+title: RailsWayCon Recap
+layout: post
+---
+On wednesday, the second RailsWayCon conference, organized by the Software&Support team, in Berlin came to an end. This time, I had not one, but two talks to give and this put me in the rather unfortunate position to have spent more time in my awesome hotel room finishing the slides than to attend other people's talk.
+
+As last year, the programme was pretty good. The omnipresent Yehuda didn't fail to impress with his talks on Rails 3 and jQuery usage in Rails, always good to hear what's going on in the core team. I also particularly enjoyed the talks by Michael Mahlberg and Jens-Christian Fischer, one on the SOLID design principles and how to use them in Rails applications and the other one being a great session to explain and actually do Coding Dojos/Katas. I guess we at "mindmatters":http://mindmatters.de need to get back to them, it's a lot of fun and you learn a ton on pair programming while doing it.
+
+Also really good was Sven Fuchs' talk on the i18n gem and the underlying design principles. And of course, Jonathan Weiss didn't fail to deliver, I enjoyed his talk on CouchDB and missed the other one, though.
+
+As usual, there were also some more mediocre talks, with people either being too chaotic or too insubstantial in their presentations - but nothing was actually able to beat the awkwardness of the panel on "Designers vs. Developers" that was part of the webinale conference of RailsWayCon was only a small part. I really could do without 5 people sitting on stage discussing issues we solved like 5-6 years ago (E.g. the whole "pixelperfect" webdesign issues) while completely ignoring the issues that are currently our biggest problem like the fact that print designers usually have no clue whatsoever on information architecture, UX design and agile processes.
+
+In contrast, I very much enjoyed the Panel on Tuesday evening, there was beer and some good discussions. One minor downside though was Michael Johanns try to kind of artificially push the discussion into a general "Rails in the enterprise" discussion.
+
+Generally I would give the advice of not focusing too much on Enterprise problems. There were quite a few talks on enterprise features and enterprise patterns or ways to optimize projects for the enterprise. While it is generally understandable as S&S have their roots in the rather enterprisey Java market with conferences like the big JAX probably being their cash cow, also several members of the programme commitee are consultants with a classical enterprise track record, I still think that it doesn't really fit Rails too well. This also kinda shone through during the panel discussion on tuesday evening, where I got a loud round of applause for just raising the question why we focus on the enterprise so much.
+
+But that's a point for another post - My personal and general sentiments against working in the enterprise field are rather strong and I already promised on twitter to elaborate a bit on that.
+
+Last but not least I also very much enjoyed the dinner on Monday with the "Railslove":http://railslove.de guys and "Dennis":http://dennisbloete.de and the post-conf meetup on Wednesday with the berlin guys like "Mathias":http://paperplanes.de, "Jonathan":http://blog.innerewut.de/, "Phillip":http://www.phillipoertel.com/ and "Thilo":http://upstre.am/.
+
+<!-- more -->
+
+I hope you guys kinda enjoyed my presentations as well. I was, of course, not satisfied with the results of the MongoDB presentation, as I had hoped to have a lot more real usage data and experience with me, but there were some dropped projects and so currently I only have one little pet project in production right now which is not nearly enough. I hope you can forgive me for the slightly misleading title, though.
+
+So, here they are:
+
+h3. MongoDB and MongoMapper 4 real
+
+<div style="width:425px" id="__ss_4401983"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/jan_mindmatters/mongodb-mongomapper-4-real" title="MongoDB &amp; Mongomapper 4 real">MongoDB &amp; Mongomapper 4 real</a></strong><object id="__sse4401983" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jankrutischmongodbrailswaycon2010-100603112915-phpapp01&stripped_title=mongodb-mongomapper-4-real" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4401983" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jankrutischmongodbrailswaycon2010-100603112915-phpapp01&stripped_title=mongodb-mongomapper-4-real" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/jan_mindmatters">jan_mindmatters</a>.</div></div>
+
+h3. 10 fun projects to improve your coding skills
+
+<div style="width:425px" id="__ss_4402000"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/jan_mindmatters/10-fun-projects-to-improve-your-coding-skills" title="10 fun projects to improve your coding skills">10 fun projects to improve your coding skills</a></strong><object id="__sse4402000" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=funprojectsrailswaycon2010-100603113108-phpapp02&stripped_title=10-fun-projects-to-improve-your-coding-skills" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4402000" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=funprojectsrailswaycon2010-100603113108-phpapp02&stripped_title=10-fun-projects-to-improve-your-coding-skills" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/jan_mindmatters">jan_mindmatters</a>.</div></div>
+
+You can find more information on the 10 projects at the "dedicated page":/en/fun_projects/.
+
+In the end, I really enjoyed meeting all the friends in the rails community. It's an awesome place to be. Also thanks again to the S&S group for being a nice host. There may be better places for a conf than the Maritim ProArte, but in contrast to last year it was really good to be able to stay in the same place as the conference takes place.

@@ -6,7 +6,19 @@ h2. Ten fun projects to improve your hacking skills
 
 These pages are the support information for my "10 fun projects to improve your hacking skills" talk on the RailsWayCon 2010 in Berlin. Here you can find additional information, links and code for all the projects.
 
-Currently, this is not much more than the text of my presentation. I will add links and example code later on, promised.
+h3. News
+
+Update on 4th of June: I added some links - There's still a lot of info missing - I will try to update as much as possible on this until next week, since I will be on vacation for a few weeks after that.
+
+h3. The badges and how to get them
+
+During the RailsWayCon presentation I promised to come up with "real badges". These will most likely be standard buttons with a custom design. I have a colleague who's got a button press, so this will be feasible.
+
+To claim a badge, send the description, photos, links to videos and such things to "me":mailto:jan+10projects@krutisch.de. Don't forget to include your postal address.
+
+h3. A note on open source
+
+Although it will not be mandatory to claim your badges, I would highly recommend to release all software and hardware designs you do to complete one of the ten projects as open source.
 
 h3. Project #1: Tworld Cup
 
@@ -27,6 +39,13 @@ h4. Achievements
 * NoSQL-Badge
 * Twitter-API-Badge
 
+h4. Infos
+
+* Use the "Twitter gem":http://twitter.rubyforge.org/
+* Use "CouchDB":http://couchdb.apache.org/ (if you're on Mac, you might be interested in "CouchDBX":http://janl.github.com/couchdbx/)
+* Use "Sinatra":http://www.sinatrarb.com/ as a small web application framework.
+* Use "Simply Stored":http://github.com/peritor/simply_stored as a CouchDB wrapper.
+
 h3. Project #2: Hackday
 
 *Quest*: Participate in a Hackday, RailsRumble or any other 24-48 hour long coding challenge.
@@ -46,6 +65,11 @@ h4. Achievements
 * Hackday-Badge
 * Endurance-Badge
 
+h4. Infos
+
+* Infos on the "rails rumble":http://blog.railsrumble.com/ (no RR2010 announced by now, unfortunately)
+* The "Music Hackday project":http://musichackday.org/
+
 h3. Project #3: RetroJS
 
 *Quest*: Recreate the first video game you ever played in HTML5 and Javascript.
@@ -55,6 +79,7 @@ h4. Skillset
 * HTML5, Canvas, SVG, Audio element
 * Advanced Javascript, Javascript libraries
 * Event driven designs
+
 
 h4. Proposed technology stack
 
@@ -66,11 +91,15 @@ h4. Achievements
 * Javscript-Badge
 * Event-Driven-Badge
 
+h4. Inspirations
+
+* "HTML5 Tower defense":http://github.com/rictic/processing-tower-defense
+* "HTML5 Pong":http://daverix.net/projects/pong/
+
+
 h3. Project #4: Texas Estimate‘em
 
-
 *Quest*: Build an application to remotely play planning poker using WebSockets
-
 
 h4. Skillset
 
@@ -80,13 +109,19 @@ h4. Skillset
 
 h4. Proposed technology stack
 
-HTML, Javascript, maybe jquery.
+node.js, HTML, Javascript (jquery)
 
 h4. Achievements
 
 * Realtime-Badge
 * Node-Badge
 * Agile-Badge
+
+h4. Infos
+
+* "node.js":http://nodejs.org/
+* "js.io":http://js.io/ a convenience library for using websockets and other methods for realtime communication, including a node.js implementation
+* "jquery":http://jquery.com
 
 h3. Project #5: SoundTest
 
@@ -101,6 +136,14 @@ h4. Skillset
 h4. Proposed technology stack
 
 Ruby scripts, OSC library, PureData.
+
+h4. Infos
+
+* "PureData":http://puredata.info/downloads (Download the pd-extended version)
+* "Open Sound Control":http://opensoundcontrol.org/
+* "rosc":http://hans.fugal.net/src/rosc/doc/ (This is the ruby OSC implementation that worked best for me, there may be others)
+
+As I said, I will try to come up with a basic PureData sketch that will allow you to start with some basic sound capabilities already in place to smooth out the rather steep learning curve of PureData. Stay tuned.
 
 h4. Achievements
 
@@ -128,6 +171,14 @@ h4. Achievements
 * Design-Badge
 * DataMunger-Badge
 
+h4. Infos
+
+* "Sinatra":http://www.sinatrarb.com/
+* "Redis":http://code.google.com/p/redis/
+* "Raphael.js":http://raphaeljs.com/
+
+Please note that Raphael is just one possibilty to create such graphics. There are also Libraries that use the canvas element to draw graphs instead of SVG.
+
 h3. Project #7: Back to the Desktop
 
 *Quest*: Build a desktop application that controls an aspect of one of your rails web applications.
@@ -151,7 +202,6 @@ h3. Project #8: Rube Tweetberg
 
 *Quest*: Build a Rube Goldberg machine that starts or that‘s started by a tweet or other forms of electronic messaging.
 
-
 h4. Skillset
 
 * Build stuff.
@@ -166,6 +216,10 @@ h4. Achievements
 * Handicraft-Badge
 * Physical-I/O-Badge
 * Patience-Badge
+
+h4. Infos
+
+The hardest part here (apart from building the rube goldberg machine) is to create physical action to start the machine. So the other way round is much simpler (sending a tweet at the end of the machine), since physical input exists in form of a mouse button or the space key of a keyboard. So the "starting the machine with a tweet" definitely will give you higher merits. :)
 
 h3. Project #9: BuildLight
 
@@ -184,9 +238,15 @@ h4. Proposed technology stack
 
 h4. Achievements
 
-Signalling-Badge
-Arduino-Badge
-CodeQuality-Badge
+* Signalling-Badge
+* Arduino-Badge
+* CodeQuality-Badge
+
+h4. Infos
+
+* "Arduino":http://www.arduino.cc/ On the Arduino web page you will find every information you need to build such a build light. It will take a while to get through all of it, tho.
+
+Please note that I know that this is nothing especially new or innovative, people have done this kind of stuff literally for ages. Still I think it is really important to build it by yourself. We (at "mindmatters":http://mindmatters.de/) even considered at one point to use the project kickoff phase to let the team build it's build indicator itself. Also I'd like to add that the possibilities of the form of signalling are actually endless.
 
 h3. Project #X: TouchySubject
 
