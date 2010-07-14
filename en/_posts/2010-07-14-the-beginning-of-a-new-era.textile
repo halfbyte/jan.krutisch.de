@@ -6,12 +6,12 @@ Today was a pretty fun day. I slept in, I worked a bit on some stuff that I neve
 
 What was special about this day? Well, for once, I am no longer on vacation. Plus it is wednesday. Which means that this was actually the first day I was able to use from my newly aquired 10% time off. I'm officially on 90% (or, put differently, 36 Hours a week) since the first of June, but with the long vacation and all, today is a real first.
 
-I did it yesterday, and I will do it again: From now on, every free wednesday will be called "halfbyte day". A day for tinkering. A day for making future. A day for doing stuff that's outside the scope of my "normal" mindmatters routine, which is about developing software for people using the web, as we like to call it these days.
+I did it yesterday, and I will do it again: From now on, every free wednesday will be called "halfbyte day". A day for tinkering. A day for making future. A day for doing stuff that's outside the scope of my "normal" "mindmatters":http://mindmatters.de routine, which is about developing software for people using the web, as we like to call it these days.
 
-halfbyte is my twitter name, my github name and also my demo scene pseudonym for at least 15 years now. I know it's kinda sucky and there are loads of nybble jokes out there, but I grew fond of it and I like to think of it as my more experimental, less professional alter ego. 
+halfbyte is my twitter name, my github name and also my demo scene pseudonym for at least 15 years now. I know it's kinda sucky and there are loads of nybble jokes out there, but I grew fond of it and I like to think of it as my more experimental, less professional alter ego.
 
-As it seems, both my company (beforementioned mindmatters) and I think that it is a good idea to emphasize on the differences between the professional web developer Jan and the tinkerer with soldering iron and oscilloscope halfbyte. Let's see how this turns out.
+As it seems, both my company (beforementioned "mindmatters":http://mindmatters.de) and I think that it is a good idea to emphasize on the differences between the professional web developer Jan and the tinkerer with soldering iron and oscilloscope halfbyte. Let's see how this turns out.
 
 Both halfbyte.de and halfbyte.org are finally back under my control, and I am currently trying to find out what I could do with them.
 
-I expect great things to come from this, and so should you.
+I expect great things to come from this, and so should you. Stay tuned.
