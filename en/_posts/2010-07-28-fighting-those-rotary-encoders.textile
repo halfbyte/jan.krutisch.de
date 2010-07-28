@@ -1,0 +1,15 @@
+---
+title: Fighting those rotary encoders
+layout: post
+---
+Another halfbyte day. This time, I'm finally doing serious electronics work. One problem that bugged me for quite some time now and that I definitely needed to get ticked off my todo list was how to properly read rotary encoders with the Arduino slash AtMega.
+
+There are numerous ways to do that and most people will tell you that you ideally need an interrupt to do it right. Using an interrupt might be okay, if you want to attach one encoder to your project, but it all falls apart as soon as you want to have more of them (in my case, the current target is as much as 16 encoders). Last year, when I tried to build my Budget "monome", I already had a simple setup involving some shift registers in place, but somehow, reading the encoders always failed miserably.
+      
+I then stepped back from reading specs and the arduino wiki and tried to learn from the pros. The "midibox.org":http://www.midibox.org/ project of course has some pretty advanced encoder code, but, to be honest, I didn't really feel like trying to find out what roughly 300 lines of hand optimized PIC assembler will do.
+
+Finally, a few days ago, I took a second look at the Minicommand project from wesen (of "ruin&wesen":http://ruinwesen.com/ fame). The whole project is open source and it is pretty readable as well, as it is highly structured, maintainable C++ code.
+
+After a day of wrestling with my (undocumented) last years hardware and my slight inability to read data sheets, I now have 8 encoders running smoothly in hightly unoptimized Arduino code, which is more than I had hoped for for today.
+
+What's next? The encoders I use also have buttons built in and I already have a third shift register in place to read out those buttons - Something for next week. And then I plan to replace the arduino I currently use for testing with a jeenode, so that I can use the encoders over a wireless connection.
