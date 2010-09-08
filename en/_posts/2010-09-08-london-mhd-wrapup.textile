@@ -1,0 +1,28 @@
+---
+title: Whew, I attended a hackday
+layout: post
+---
+And then, I made it. I flew, for real, using an airplane, I attended a hackday and I came back, all in time and without any complications.
+
+So. What did I hack on? I decided earlier on that it was about time to heave my "remote" stockholm hackday project to the next level - Webloop. "I wrote some stuff about it already in January":http://jan.krutisch.de/en/2010/01/31/the-musichackday-that-wasnt-meant-to-be.html
+
+!http://img.skitch.com/20100908-b6xsr4akj4psjf562kbquwmsy9.png!http://webloop.pixelpoke.de
+
+<!-- more -->
+
+The changelog in short form reads like this:
+
+* Multiple "Rooms" as a way do have more than one sequence. Please note that I follow a "chatroom" metaphor here.
+* Output via Mozilla Audio Data API (usable with current FF 4 nightlies), Google Web Audio API (usable with a "special build":http://chromium.googlecode.com/svn/trunk/samples/audio/index.html) of Webkit or Chrome. (And, as a fallback, I left in the flash applet I used in january).
+* Four Tracks/Voices. This is to match the original Gameboy Advance nanoloop and is, unfortunately, slightly more than a current Firefox 4 nightly can handle on my MacbookPro. I will try to optimize that even more, because my goal really is to have it running on a decent PC in ANY html5 audio capable browser.
+
+I hope to be able to squeeze in some more optimizations during the next weeks (If I find the time, including some bug fixes, which are obviously needed).
+
+What I also hope to extract throughout the next weeks is the soundbridge library I developed which allows to develop applications and leverage direct audio APIs if present and fall back to flash if needed. It provides a uniform callback based API and should allow for some fun web synthesizer goodness.
+
+You can take a look at the "code at github":http://github.com/halfbyte/webloop and of course, "use it":http://webloop.pixelpoke.de.
+
+Of course, I wasn't the only one hacking stuff. There are already quite a few roundups of the hacks, so take a look at "the complete list":http://wiki.musichackday.org/index.php?title=Hacks, "Paul Lameres take":http://musicmachinery.com/2010/09/07/music-hack-day-london/, The "wired article":http://www.wired.co.uk/news/archive/2010-09/07/music-hack-day and also the twitter search is pretty revealing.
+
+To sum it all up nicely: Huge shoutout to Dave Haynes, The Guardian, The Hub london and the whole music hackday team for once again kicking some serious arse. I'll be back. (Unfortunately, I will not be able to attend Barcelona, as much as I would like to).
+
