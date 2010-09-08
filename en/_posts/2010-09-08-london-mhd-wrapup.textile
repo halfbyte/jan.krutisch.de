@@ -6,7 +6,7 @@ And then, I made it. I flew, for real, using an airplane, I attended a hackday a
 
 So. What did I hack on? I decided earlier on that it was about time to heave my "remote" stockholm hackday project to the next level - Webloop. "I wrote some stuff about it already in January":http://jan.krutisch.de/en/2010/01/31/the-musichackday-that-wasnt-meant-to-be.html
 
-!http://img.skitch.com/20100908-b6xsr4akj4psjf562kbquwmsy9.png!http://webloop.pixelpoke.de
+!http://img.skitch.com/20100908-b6xsr4akj4psjf562kbquwmsy9.png(Webloop screenshot)!:http://webloop.pixelpoke.de
 
 <!-- more -->
 
@@ -22,7 +22,7 @@ What I also hope to extract throughout the next weeks is the soundbridge library
 
 You can take a look at the "code at github":http://github.com/halfbyte/webloop and of course, "use it":http://webloop.pixelpoke.de.
 
-Of course, I wasn't the only one hacking stuff. There are already quite a few roundups of the hacks, so take a look at "the complete list":http://wiki.musichackday.org/index.php?title=Hacks, "Paul Lameres take":http://musicmachinery.com/2010/09/07/music-hack-day-london/, The "wired article":http://www.wired.co.uk/news/archive/2010-09/07/music-hack-day and also the twitter search is pretty revealing.
+Of course, I wasn't the only one hacking stuff. There are already quite a few roundups of the hacks, so take a look at "the complete list":http://wiki.musichackday.org/index.php?title=Hacks, "Paul Lameres take":http://musicmachinery.com/2010/09/07/music-hack-day-london/, The "wired article":http://www.wired.co.uk/news/archive/2010-09/07/music-hack-day and also the twitter search "gives some good results":http://search.twitter.com/search?q=musichackday.
 
 To sum it all up nicely: Huge shoutout to Dave Haynes, The Guardian, The Hub london and the whole music hackday team for once again kicking some serious arse. I'll be back. (Unfortunately, I will not be able to attend Barcelona, as much as I would like to).
 
