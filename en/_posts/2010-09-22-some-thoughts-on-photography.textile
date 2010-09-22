@@ -1,0 +1,55 @@
+---
+title: Some thoughts on photography
+layout: post
+---
+Every now and then, Mathias Meyer, also known as "@roidrage":http://twitter.com/roidrage on the twitters, and I get into a discussion on photography. Mathias is definitely both the more experienced and more talented photographer. He also invests a lot more time into something that might as well become his profession somewhere in the future. I certainly would not object. Please visit his "flickr stream":http://www.flickr.com/photos/ipom/, it's awesome.
+
+That being said, we both have a tendency to disagree on the subject of digital photography vs. analogue photography. Which is only natural, considered that I am a digital only shooter while Mathias is almost completely analogue.
+
+So here's my take on it, in one coherent piece and not split between various twitter conversations and chat logs.
+
+<!-- more -->
+
+First of all, and I want this to be absolutely clear, this is not about what's better and what's worse. The digital vs. analogue discussion is not new and there's enough people who take this discussion way too personal and start being religious about it. No one needs another one of those.
+
+Still, to me it makes sense to emphasize on the differences between the two methods, to both see the problems and the chances and use them for your own good.
+
+To give you a bit of background: Before I started to shoot almost completely in digital, beginning with a very sucky Olympus compact two megapixel cam at around 2002 (Almost directly after I got my first money on my first real job after studies), I shot analog. My first real cam was a very sucky (you see the pattern?) kodak compact cam with fix focus. In, dunno, 1998, 1999, I bought a used Pentax P30 for a few bucks. I actually made some pretty decent photos with it, all hidden in a drawer somewhere in the shelves behind me.
+
+After that, as I said, in 2002, the time of infinite sharpness began (meaning small sensors with almost infinite depth of field). Somehow I managed to shoot some really cool photos with it, for example this picture from Denmark which always reminds me of some Boards of Canada album cover
+
+<a href="http://www.flickr.com/photos/jankrutisch/1092169/" title="energy and colors by jan_krutisch, on Flickr"><img src="http://farm1.static.flickr.com/1/1092169_159bb911e4_m.jpg" width="240" height="180" alt="energy and colors" /></a>
+
+After I had the Olympus for two years, I got me a Minolta Z1, which delivered extremely good value for money, as it had 3 MP, a 7x zoom, a super fast focus and still was pretty light and compact (I would probably label it as a budget bridge cam). I shot some of my best pictures with that camera, including the "Water on Leaf" image which shows that the Z1 even manages to get a bit of bokeh into the mix (yes, I know, this stretches the term a bit).
+
+<a href="http://www.flickr.com/photos/jankrutisch/32976233/" title="the water on a leaf by jan_krutisch, on Flickr"><img src="http://farm1.static.flickr.com/21/32976233_b289ecd8dd_m.jpg" width="240" height="180" alt="the water on a leaf" /></a>
+
+It was also around that time that I discovered flickr and started publishing my images to the world in general, which is why I can show you these images.
+
+In late 2005, after another almost two years of shooting with the Z1, I could no longer hold back and ordered a Pentax ist*Ds when they started to sellout that model. Almost at the same time, I got me a lensbaby and I kinda reinvented my own photography from there, resulting in images like this image of this lisbon cabin cable car.
+
+<a href="http://www.flickr.com/photos/jankrutisch/2996936726/" title="IMGP7699 by jan_krutisch, on Flickr"><img src="http://farm4.static.flickr.com/3056/2996936726_eef0f09983_m.jpg" width="240" height="160" alt="IMGP7699" /></a>
+
+With the Pentax DSLR, I finally got something back that was almost completely missing from the mix since I gave up shooting analogue: Being able to cut down on depth of field and thus using unsharpness as a creative tool. For me, good photography (or, probably a better definition: photography I find interesting) almost invariably involves playing with depth of field. With the help of the Lensbaby (I'm now a proud owner of a Lensbaby composer), I can push this concept to the max and focus on a very small part of the image. Some people don't like the lensbaby effect or think of it as effect trickstery, but I can live with that as long as I like the images I produce.
+
+If you follow my flickr stream (which is quite neglected, I know), you can see that I use the lensbaby a lot, Which kind of defines my way of approaching photography: As an ongoing experiment. 
+
+And here's why I like shooting digital so much: I can experiment without cost. I can experiment with very short feedback loops. I can try things and then iterate until it matches my expectations. Or even kill the whole thing.
+
+To me, this is the *one* big advantage that digital shooting provides over analogue: Speed. Shorter feedback loops. More experimentation.
+
+Now, people advocating analogue shooting (including Mathias) claim that this speedy cycle prohibits building up "real" photographic knowledge. And there's truth in it - When you are shooting analogue, you need that extra bit of patience, that extra bit of planning and that extra bit of preparation for a shot that make you think and reflect more on the subject and the whole environment. And, additionally, fatal errors cost you more than just a click on the button with the trashcan on it. And that's good. I really mean that. 
+
+For me, it's fine if you chose that way. I have no doubt that being able to shoot good pictures in analogue is harder than being able to pull it off in digital. Which concludes that you must or at least should be a better photographer if you're shooting analogue. It's probably one reason why Mathias is a better photographer than me (Well, I guess practice is another factor). 
+
+But. (You didn't see that one coming, did you?)
+
+You see, I don't care. I'm fine with shooting images that I like (and if other people like them, that's a definite bonus) using my own, more iterative, more instictive digital way of shooting. I may miss out on traditional, analogue knowledge, and I may be a worse photographer for it, but that's only fair, because I'm not investing as much in it (If you don't count the price difference between old analogue equipment and new digital shizznit).
+
+But, here's the second but, in my eyes this also allows me to do things that are mostly off limits for analogue shooters. The "anything goes" perspective of someone who doesn't have to worry about the cost of film and who can control results instantly should not be undervalued. I may or may not have good examples for that in my flickr stream, but I definitely have more than enough examples for that in my thrashcan. Which is only virtual. Which kinda proves my point.
+
+To summarize: Do what ever you like. If you want to be a better photographer, it might help shooting analogue, because it forces you to invest more time upfront before shooting an image. It also slows you down on your feedback cycles which may or may not be the right thing for you. If you feel more on the experimental side of things and you think that short feedback cycles are a good thing, you almost always want to go digital.
+
+Oh, and one last thing: I don't want to assume in any way that analogue images are boring and unexiting. And on the other hand: If you are shooting digital, you can experiment all you want, without a bit of talent, luck and commitment, you won't get anywhere :)
+
+And the last sentence of course must be: Whatever you use to shoot photos, be it an old analogue medium format cam, a maxed out DSLR you could buy a small car for, or your cameraphone: Go out and shoot. That's what makes you a better photographer in the end. (This message is especially targeted at the author of these lines)
