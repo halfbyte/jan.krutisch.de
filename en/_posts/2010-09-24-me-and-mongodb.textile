@@ -1,0 +1,16 @@
+---
+title: Me and MongoDB
+layout: post
+---
+
+If you take a look at the talks I gave and will give in the near future, you'll notice a little pattern there - I'm talking a lot about MongoDB. This is not by accident: I quite like working with it, and although I am only now starting to use it in my day job at mindmatters, I tried to use it in my pet projects as much as possible. Here's my top reasons why I like MongoDB:
+
+* Schema free document database. Nuff said. It's the future.
+* A query language that's conceptually close to SQL makes it easy to switch, but allows to do advanced document related stuff.
+* Nice libraries for ruby. Mongoid and MongoMapper both are an excellent choices and work nicely with Rails 3.
+
+Also, MongoDB is, as we all know, web scale. Only, I was, for now, not really in a position to compare MongoDB's scaling features to other alternatives, and so I am actually more hoping for version 1.8 which will, for the first time, ensure single server durability -- And while the 10gen got a lot of flak for their rather "unique" approach to durability and the tendency to gloss over it, I have a feeling that they lately really got the message on that - At least that's what I seem to remember from my conversation with Richard Kreuter from 10gen at the FrosCon, where it all got a bit blurry after too many Kölsch.
+
+And so I am very happy to speak about Ruby and Rails Integration of MongoDB at the Mongo Berlin Conference on the 4th of October. There are still some spots left, so "feel free to join us":http://www.10gen.com/conferences/mongoberlin2010. The conference is only $100 which is, judging by the speaker line up, extremely good value for money if you are interested in MongoDB.
+
+And just in case you are going to visit the SAPO Codebits event in Lisbon in November, I'll give a more general talk on MongoDB there.
