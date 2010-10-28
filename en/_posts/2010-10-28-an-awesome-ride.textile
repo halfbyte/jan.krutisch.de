@@ -1,0 +1,45 @@
+---
+title: An awesome ride!
+layout: post
+---
+Although it had it's low and high parts throughout the last year, I woulda not consider my live particularly turbulent. Consider that to be changed.
+
+I won't bother you with personal details (I'll guess I will write about that when the dust settled a bit more), let's just say that sometimes 5 steps change everything. And by everything I mean everything that defined my personal life up to that point. Okay, enough of that.
+
+What has happened, though, as well, is that I finally managed to again participate in the rails rumble, a 48h hour coding contest. I did it in 2007 with almost the same team, resulting in us winning the "Most innovative" category and me having an ideal start into my brand new job at "mindmatters":http://mindmatters.de/. "Here's":http://jan.krutisch.de/en/2007/09/28/omfg-we-did-it.html my account of it from 2007 after we won.
+
+This year, my team was kinda the ultimate dream team:
+
+* "Wolfgang":http://twitter.com/wowo101, one of the font-craziest people I know and also, after 3 years, not only a coworker, but also a very dear friend.
+* "Florian":http://florian.munz.org/, who, although we haven't spend nearly enough time together while he still was in hamburg, is not only a friend but probably the most kickass devops personification you can find (and I really hope the "podio":http://podio.com guys know how lucky they are).
+* "Thorsten":http://mt7.de, who is one of the most experienced rails devs in germany, and also one of those people you can always rely on in case of trouble.
+
+<!-- more -->
+
+And believe me, I tested their friendship. For reasons that are very hard to explain without breaking my vow from the second paragraph, I turned up at our rumble place (The amazing "betahaus":http://hamburg.betahaus.de) without having slept at all. Plus, I was, uhm, emotionally challenged (and not completely in a good way).
+
+Well, somehow, we sailed through it. In retrospect, skipping the first 5 hours (to start at a little less confusing 7:00 AM instead of 2:00 AM) was probably a mistake. Which is why, in contrast to 2007 where we were finished almost 2 hours early, we committed to the very last minute. With bugs. Of course. (Again, me being only half a halfbyte probably also had an effect).
+
+But what did we do? "Awesome Fontstacks":http://awesome-fonstacks.com is a tool to create bundles of webfonts to use on your own website or web app. We let you select fonts that work together well and generate css code for the fonts and the failsafe fallbacks so that the page looks good even without the browser supporting the various web font formats we provide. So it's both for providing guidance in choosing fonts that work well together, and providing help in generating the needed css.
+
+Chosing this idea to build is completely Wolfgangs fault (and he also deserves credit for the nice minimal design), but the idea selection process will be a separate blog post, I guess.
+
+And then, somehow, we had struck a chord. And thanks to the magick that is "twitter":http://twitter.com/, we were able to watch that effect almost in realtime. Believe me, I spend most of the last week in twitter search.
+
+Of course, we were lucky - Our dear friend "Jakob":http://twitter.com/jakobfricke managed to get us into a "smashingmag.com article":http://www.smashingmagazine.com/2010/10/19/50-powerful-time-savers-for-designers/ which was retweeted a few hundred times - that was a good start. But, all things considered, this is, by far, the biggest thing I (we!) ever did on the web.
+
+And it got better from there - We got stellar reviews from the expert judges, were selected for the finals and when public voting was in full swing, it became clear that we had a definite chance to win the "most useful" category. On saturday, additionally, I had the amazing chance to speak on the hamburgian rails camp about the rails rumble and of course I seized the minute and shamelessly plugged the app. And after noon, our app constantly oscillated between place 1 and 2 in "most useful", settling on 1 in the evening. At 2AM on Sunday, when the voting closed, I was a very drunk, very giddy and very confused young man in a club somewhere in Hamburg. My iPhone's battery was flat at 2:30AM.
+
+So, participating in the rumble for the second time, we've (Florian and Wolfgang were both part of my 2007 team) scored the second category win. Which is so unbefuckinglievably awesome I still can't believe it.
+
+While in 2007 we only briefly tried to push the "soundbadge.net":http://soundbagde.net further, this time we know we are on to something bigger. The web responded to it. Webfonts are a hot topic. And we want to make a dent with our service. We cannot clearly see where we will push it to, but we know there's potential and since one of the prices for the rumble is linode hosting for one year, we also have all the time in the world to search for strategies to monetize the damn thing while making it a kick ass product at the same time.
+
+You can follow our way at the brand new "blog":http://blog.awesome-fontstacks.com/, or at the "twitters":http://twitter.com/fontstackz.
+
+One last thing: If you know your german, you can watch me talking about the rumble and awesome-fontstacks.com on the "latest cool project":http://incodewetrust.com/2010/10/26/Jan_Krutisch/ of our friend Dennis Bloete. Thanks for having me.
+
+And, again, and again, Hugely massive thanks to my team. I know you needed to compensate for my inadequacies and I hope I you know I nevertheless contributed all I had to give on that weekend, how little that might have been. I owe you one. Let's kick arse. We deserve it.
+
+An awesome ride indeed.
+
+(and now back to the regular, less emotional program)
