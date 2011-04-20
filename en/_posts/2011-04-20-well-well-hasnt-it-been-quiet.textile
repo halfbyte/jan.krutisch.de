@@ -18,5 +18,5 @@ So, on the concept on design side, things went smoothly, but in retrospect, they
 
 What do we take away from it? For me personally it was a wake up call to stick to the process I know that works, namely, sketching out a rough workflow with the simplest techniques possible and then, when the conceptional and design dust settles, iterate on UI/UX from there. Apart from that, I am convinced that we have found an amazing model to work with. What makes this concept great is not only the quick turnaround, enabling us to verify ideas with very little overhead, but also the people, which are all absolutely top notch at what they do, but are also astonishingly low on ego trippin', which is crucial for such an endeavour - The last thing you want on such a weekend long sprint is two people fighting some ego fight on conflicting ideas.
 
-Rock. On. We'll keep you posted. For now, it might be a good idea to follow "awesomeideasinc":http://twitter.com/awesomeideasinc on twitter.
+Rock. On. We'll keep you posted. For now, it might be a good idea to follow "@awesomeideasinc":http://twitter.com/awesomeideasinc on twitter.
 
