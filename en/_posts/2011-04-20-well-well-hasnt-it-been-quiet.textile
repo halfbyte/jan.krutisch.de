@@ -6,7 +6,7 @@ Well, yes it has. I still feel like my whole life still didn't settle enough for
 
 So, whassup? "Awesome Fontstacks":http://awesome-fontstacks.com is still going relatively strong, although it is extremely hard to find the necessary time to bring the idea forward. Well, there's still more than half a year left before to come up with an idea on how to pay the server bills :)
 
-On a similar note, we've developed an idea we currently call "Awesome Ideas Inc.", which right now consists of a "small":http://twitter.com/wowo101 "group"http://twitter.com/theflow "of":http://twitter.com/enebo "awesome":http://twitter.com/menotti "people":http://twitter.com/schurock "committed":http://twitter.com/electricgecko to bring one small project to life in each quarter, every time in a rails rumble like fashion. We just (this weekend) finished our first project, which we launched in what I would call silent beta. If you're interested in checking out a project in a very rough and unfinished state, hit one of us up on the twitters for a link.
+On a similar note, we've developed an idea we currently call "Awesome Ideas Inc.", which right now consists of a "small":http://twitter.com/wowo101 "group":http://twitter.com/theflow "of":http://twitter.com/enebo "awesome":http://twitter.com/menotti "people":http://twitter.com/schurock "committed":http://twitter.com/electricgecko to bring one small project to life in each quarter, every time in a rails rumble like fashion. We just (this weekend) finished our first project, which we launched in what I would call silent beta. If you're interested in checking out a project in a very rough and unfinished state, hit one of us up on the twitters for a link.
 
 <!-- more -->
 
