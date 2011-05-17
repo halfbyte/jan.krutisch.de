@@ -1,0 +1,48 @@
+---
+title: Why Big Bang Relaunches are evil
+layout: post
+---
+A few days back, XING started an "online campaign":http://whatsnew.xing.com/de/index.php for their grand redesign that will launch in june 2011. The campaign is nicely made, with interviews with some of the people behind that huge undertaking. I like it.
+
+What I strongly dislike, though, are big bang relaunches. I voiced that concern on twitter and this lead into a longish discussion with "Liron Tocker":http://twitter.com/lirontocker who has been an Art Director at Qype for quite some years, a place where I took part in at least one and a half big bang relaunches in the five months I spent there (unfortunately this was before Liron went there, we still haven't met in person). So, I'm writing this post to archive my points I made yesterday, but also to elaborate a bit on the responses.
+
+Here's my basic set of assumtions. If you don't agree with them, you won't agree with the rest of my text, which is fine, by the way :)
+
+1. Agile project/product management and software development is the best way to build our software. I don't care if you use Kanban or Scrum or XP or whatever, but don't go chasin' waterfalls.
+2. We build software for our users. This sounds like a no-brainer but I've too often seen people build software for the googlebot. Did it myself even, but not without cringing.
+3. We do have a lean organisation without much organisational friction. I'll come back to this later, because this actually may be a bit of a stretch.
+
+Funnily enough, we had that discussion briefly last wednesday at the Ruby Usergroup, where it became obvious that Big Bang Relaunches are obviously one of the clearer reasons to have a good branching model on your SCM (Source Code Management) system which was the main topic. The top reasons given why Big Bang Relaunches are necessary according to the audience were:
+
+1. Because Marketing wants them
+2. Because Designers can't do incremental design
+
+Let's look at them in detail.
+
+<!-- more -->
+
+h3. Marketing loves Big Bang Relaunches
+
+This is quite obviously true. Marketing traditionally comes from a strong product background. You are usually dealing with large release cycles and thus, a Big Bang Launch is a fixed point in time that gives you an anchor to base your marketing actions around. That's understood.
+
+Is it *the* best way to communicate changes to the user? Do users love Bing Bang Relaunches as well? First of all, my answer would be a straight *No!*. Most users, especially the loyal, long time power users, usually *hate*, *hate*, *hate* relaunches. Ask people that have a product at the market for years, like the people from germans social network dinosaur "Wer Weiss Was":http://www.wer-weiss-was.de/. Mind you, these people hate all changes, so you won't make them entirely happy by only doing incremental changes to your site, *evar*, but it certainly soothes the pain.
+
+Additionally, if your marketing really loves Big Bang Relaunches, it also means that Marketing *did not get* the core principles of *agile*. As well as it is our (developers) responsibility to continuously improve the software, it is, in a truly agile environment, the responsibility of Marketing to continuously market new features, simplifications and small adaptions to the users. You have to transform your work from huge bursts of marketing activity (product launch campaigns) to a continous flow of marketing goodness. If a large feature comes along, by all means, celebrate it and rock it. Yes, this will also mean that you probably won't need that huge relaunch party you were so much looking forward to. Celebrate other things instead.
+
+h3. Designers can't do incremental design
+
+That's the tough one. It is tough because web design is a very tough field in itself. Why? Because we still mix up so many different things into these two words. Do we mean interface design? Graphics design? UX? What does it all mean? Here's my own interpretation in a few easy steps:
+
+1. If you call yourself UX expert, you must hate Big Bang Relaunches. Why? Because they are usually a lost chance to learn things. Sure, you can do all kinds of user tests in the process, but everybody should know by now that you always should prefer real world data to lab data when it comes to user feedback.
+
+2. If you are a graphics designer, you will probably be more happy with Big Bang Relaunches, because, and I totally acknowledge that, it is invariantly harder to change a site's design gradually than it is to do the redesign in one big step. But, as long as you're not working on a product presentation page on a retailers web page, that should not be the way you should do your job, anyway. Mind you, being artistically responsible for the look and feel of a web application is a very tough job, because it means two very different things at once: You need to pay incredible amounts of attention to details and need to spend a lot of time doing UX work (or collaborating with an UX expert), probably regarding very small elements on a single page, and, at the same time, keep an eye on the overall look and keep things consistent on a larger scale. Yes, it is a tough job. But if your only answer to this is that you want to do Big Bang Relaunches, you are not trying hard enough.
+
+h3. There is a step three
+
+Ultimately, it's a question of organisation. To be able to do *only* incremental changes to your software, your organisation must breathe *agile*. I know I sound like some crazy agile marketing guy, but really, that's the whole point. Everybody must adhere to the thought of incremental improvement. And also, which sounds counter intuitive, it needs strong leadership. To prevent feature creep. To prevent all those dark corners that every software seems to accumulate over time, where nobody wants to touch anything anymore. This strong leadership needs not to be carried out by "the UX guy" or "the product guy", it can also be organized and carried out as a collaborate effort, but anyway, that's the really hard part. That is also where most organisations fail. When organisations grow, responsibilities are divided up without keeping vital connections between disciplines. You suddenly have a head of UX and a head of Art Direction and those two people hate each other and the only thing they can agree on is that they hate that guy from Product Management. 
+
+And suddenly, a Bing Bang Relaunch is the only thing that will enable you and your organisation to get back your focus. Usually this involves organisational changes as well, and also really painful discussions in the conceptional phase.
+
+h4. Why Big Bang Relaunches are a bad idea.
+
+[tbc.]
