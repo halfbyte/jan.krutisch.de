@@ -87,8 +87,14 @@ img, object, embed {
 .sidebar .twitterbadge {
   margin-bottom: 1em;
 }
+/* line 29, ../sass/partials/_layout.sass */
+.sidebar .google-ads {
+  text-align: center;
+  margin: 0 auto 1em auto;
+  width: 180px;
+}
 
-/* line 30, ../sass/partials/_layout.sass */
+/* line 34, ../sass/partials/_layout.sass */
 .content {
   width: auto;
   float: none;
@@ -98,22 +104,22 @@ img, object, embed {
   padding-right: 20px;
 }
 
-/* line 1, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 1, ../sass/partials/_typography.sass */
 body {
   font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
-/* line 5, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 5, ../sass/partials/_typography.sass */
 a:link, a:visited {
   color: #000088;
   text-decoration: none;
 }
-/* line 8, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 8, ../sass/partials/_typography.sass */
 a:hover {
   text-decoration: underline;
 }
 
-/* line 12, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 12, ../sass/partials/_typography.sass */
 .header h1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   height: 211px;
@@ -123,23 +129,23 @@ a:hover {
   font-size: 3em;
   text-shadow: 0px 0px 5px rgba(255, 255, 0, 0.4);
 }
-/* line 20, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 20, ../sass/partials/_typography.sass */
 .header h1 a {
   text-decoration: none;
   color: white;
 }
-/* line 23, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 23, ../sass/partials/_typography.sass */
 .header h1 span {
   font-size: 0.5em;
   font-weight: normal;
 }
 
-/* line 27, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 27, ../sass/partials/_typography.sass */
 h2, h3, h4, h5 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   margin-bottom: 0.5em;
 }
-/* line 30, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 30, ../sass/partials/_typography.sass */
 h2 span, h3 span, h4 span, h5 span {
   font-style: italic;
   font-weight: 100;
@@ -147,37 +153,37 @@ h2 span, h3 span, h4 span, h5 span {
   display: block;
   height: 1.1em;
 }
-/* line 37, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 37, ../sass/partials/_typography.sass */
 h2 a:link, h2 a:visited, h3 a:link, h3 a:visited, h4 a:link, h4 a:visited, h5 a:link, h5 a:visited {
   text-decoration: none;
   color: #444444;
 }
-/* line 40, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 40, ../sass/partials/_typography.sass */
 h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   text-decoration: underline;
 }
 
-/* line 43, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 43, ../sass/partials/_typography.sass */
 ol, ul {
   margin-bottom: 1em;
 }
 
-/* line 46, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 46, ../sass/partials/_typography.sass */
 .content, .sidebar {
   line-height: 1.3em;
   font-size: 1.2em;
 }
-/* line 49, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 49, ../sass/partials/_typography.sass */
 .content p, .sidebar p {
   margin-bottom: 1em;
 }
 
-/* line 52, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 52, ../sass/partials/_typography.sass */
 .footer {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 }
 
-/* line 56, /Users/jan/Documents/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 56, ../sass/partials/_typography.sass */
 ul.posts {
   list-style-type: none;
   margin: 0;

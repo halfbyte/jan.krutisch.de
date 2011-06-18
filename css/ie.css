@@ -80,8 +80,14 @@ img, object, embed {
 .sidebar .twitterbadge {
   margin-bottom: 1em;
 }
+/* line 29, ../sass/partials/_layout.sass */
+.sidebar .google-ads {
+  text-align: center;
+  margin: 0 auto 1em auto;
+  width: 180px;
+}
 
-/* line 30, ../sass/partials/_layout.sass */
+/* line 34, ../sass/partials/_layout.sass */
 .content {
   width: 61.6%;
   margin-right: 3.8%;
