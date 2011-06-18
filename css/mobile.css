@@ -140,12 +140,12 @@ a:hover {
   font-weight: normal;
 }
 
-/* line 27, ../sass/partials/_typography.sass */
+/* line 28, ../sass/partials/_typography.sass */
 h2, h3, h4, h5 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   margin-bottom: 0.5em;
 }
-/* line 30, ../sass/partials/_typography.sass */
+/* line 31, ../sass/partials/_typography.sass */
 h2 span, h3 span, h4 span, h5 span {
   font-style: italic;
   font-weight: 100;
@@ -153,37 +153,46 @@ h2 span, h3 span, h4 span, h5 span {
   display: block;
   height: 1.1em;
 }
-/* line 37, ../sass/partials/_typography.sass */
+/* line 38, ../sass/partials/_typography.sass */
 h2 a:link, h2 a:visited, h3 a:link, h3 a:visited, h4 a:link, h4 a:visited, h5 a:link, h5 a:visited {
   text-decoration: none;
   color: #444444;
 }
-/* line 40, ../sass/partials/_typography.sass */
+/* line 41, ../sass/partials/_typography.sass */
 h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   text-decoration: underline;
 }
 
-/* line 43, ../sass/partials/_typography.sass */
+/* line 46, ../sass/partials/_typography.sass */
+#disqus_thread h2 span, #disqus_thread h3 span, #disqus_thread h4 span, #disqus_thread h5 span {
+  font-size: inherit;
+  font-weight: inherit;
+  display: inline;
+  height: inherit;
+  font-style: inherit;
+}
+
+/* line 53, ../sass/partials/_typography.sass */
 ol, ul {
   margin-bottom: 1em;
 }
 
-/* line 46, ../sass/partials/_typography.sass */
+/* line 56, ../sass/partials/_typography.sass */
 .content, .sidebar {
   line-height: 1.3em;
   font-size: 1.2em;
 }
-/* line 49, ../sass/partials/_typography.sass */
+/* line 59, ../sass/partials/_typography.sass */
 .content p, .sidebar p {
   margin-bottom: 1em;
 }
 
-/* line 52, ../sass/partials/_typography.sass */
+/* line 62, ../sass/partials/_typography.sass */
 .footer {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 }
 
-/* line 56, ../sass/partials/_typography.sass */
+/* line 66, ../sass/partials/_typography.sass */
 ul.posts {
   list-style-type: none;
   margin: 0;
