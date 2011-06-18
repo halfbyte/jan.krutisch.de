@@ -1,7 +1,19 @@
-Dir["#{File.dirname(__FILE__)}/lib/**"].each do |dir|
-  $LOAD_PATH.unshift(File.directory?(lib = "#{dir}/lib") ? lib : dir)
-end
+$LOAD_PATH.unshift(File.join(File.dirname(__FILE__), 'lib'))
+require 'bundler/setup'
 require 'jekyll'
+require 'jekyll_ext'
+
+ssh_user      = "jan@headflash.com"   # for rsync deployment
+document_root = "~/jan.krutisch.de/"    # for rsync deployment
+
+
+
+namespace :deploy do
+  desc "deploy to site"
+  task :rsync => 'site:generate_once' do
+    sh("rsync -avz --delete _site/ #{ssh_user}:#{document_root}")
+  end
+end
 
 namespace :site do
   desc "generate site once"
@@ -67,14 +79,18 @@ namespace :site do
 
     FileUtils.mkdir_p(destination)
 
+    mime_types = WEBrick::HTTPUtils::DefaultMimeTypes
+    mime_types.store 'js', 'application/javascript'
+
     s = HTTPServer.new(
       :Port            => options['server_port'],
-      :DocumentRoot    => destination
+      :MimeTypes       => mime_types
     )
+    s.mount(options['baseurl'], HTTPServlet::FileHandler, destination)
     t = Thread.new {
       s.start
     }
-
+    
     trap("INT") { s.shutdown }
     t.join()
 

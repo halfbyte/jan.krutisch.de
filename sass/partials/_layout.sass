@@ -1,0 +1,32 @@
+.container
+  //+eleven40-container
+  
+.header, .footer, .navigation
+  +eleven40-row
+
+.header
+  background: black url(/images/chrome/page-header.jpg) top left no-repeat
+  color: white
+  height: 211px
+  border-radius: 0 0 100px 0
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
+  margin-bottom: 1em
+
+.footer
+  margin-top: 5em
+  box-shadow: -2px 0 20px rgba(0,0,0,0.4)
+  padding-top: 2em
+  text-align: center
+  padding-bottom: 2em
+
+.main
+  +eleven40-row
+
+.sidebar
+  +eleven40-threecol
+  +eleven40-last
+  ol
+    list-style-type: none
+    
+.content
+  +eleven40-ninecol

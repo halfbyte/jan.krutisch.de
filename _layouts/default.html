@@ -1,14 +1,16 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
-  <!--[if lt IE 8]>
-    <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
-  <![endif]-->
+  <link href="/css/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 8]>
+      <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+  <link href="/css/mobile.css" media="handheld, only screen and (max-width: 767px)" rel="stylesheet" type="text/css" />
+  <link href="/css/smallscreen.css" media="only screen and (max-width: 1023px)" rel="stylesheet" type="text/css" />
+
+  <meta name = "viewport" content = "width = device-width, initial-scale = 1, user-scalable = no">
 
   <link rel="openid2.provider" href="http://www.myopenid.com/server" />
   <link rel="openid.server"    href="http://www.myopenid.com/server" />
@@ -17,7 +19,9 @@
 
   <meta http-equiv="X-XRDS-Location" content="http://halfbyte.myopenid.com" />
 
-
+  <!-- last updated at {{ site.time }} -->
+  <!-- last updated at {{ page.current }} -->
+  
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection">
   <link href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
   <link href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}" rel="alternate" title="RSS Feed" type="application/rss+xml" />
@@ -28,92 +32,86 @@
 
 <div class="container">
 
-<div class="span-24" id="header">
-  <h1><a href="/">jan.krutisch.de</a></h1>
-  <p>a conversation between me and the interwebs on nothing in particular.</p>
-</div>
+<section class="header">
+  <h1> <a href="/">Jan Krutisch</a> <span>...just a random dude on the interwebs.</span></h1>
+</section>
 
-<div class="span-24 last" id="menu">
-<ul>
-  <li><a href="/">About</a></li>
-  <li><a href="/blog.html">Blog</a></li>
-  <li><a href="/photos.html ">Photos</a></li>
-  <li><a href="/sounds.html">Sounds</a></li>
-  <li><a href="http://github.com/halfbyte">Code</a></li>
-  <li><a href="/imprint.html">Imprint/Impressum</a></li>
-</ul></div>
-
-<div class="span-15 prepend-1 append-1" id="content">
-
-{{ content }}
-
-</div>
+<div class="main">
+  <section class="content">
+  {{ content }}
+  </section>
 
 
 
-<div class="span-6 append-1 last" id="sidebar">
+  <section class="sidebar">
 
-
-  <ul>
-    <li><a href="/archive.html">Archive</a></li>
-    <li><a href="/de">German articles</a> (<a href="/de/archive.html">all</a>)</li>
-    <li><a href="/en">English articles</a> (<a href="/en/archive.html">all</a>)</li>
-  </ul>
-  <p>
-    <img class="my-image" src="/images/chrome/jan.jpg" alt="A part of jans head"/>
-  </p>
-  <ul>
-    <li><a href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}">RSS 2.0</a></li>
-    <li><a href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}">ATOM</a></li>
-  </ul>
-
-
-  <p>
-    <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Every <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> in this Blog is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-License</a>, if not stated differently.
-  </p>
-
-  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-  <script>
-  new TWTR.Widget({
-    version: 2,
-    type: 'profile',
-    rpp: 10,
-    interval: 6000,
-    width: 'auto',
-    height: 300,
-    theme: {
-      shell: {
-        background: '#8eb7a8',
-        color: '#000000'
+    <h3>Blog</h3>
+    <ol>
+      <li><a href="/blog.html">Latest blog articles</a> (<a href="/archive.html">all</a>)</li>
+      <li><a href="/de">German articles</a> (<a href="/de/archive.html">all</a>)</li>
+      <li><a href="/en">English articles</a> (<a href="/en/archive.html">all</a>)</li>
+      <li><a href="/imprint.html">Imprint/ Impressum</a></li>
+    </ol>
+    <h3>Stuff</h3>
+    <ol>
+      <li><a href="/">About me</a></li>
+      <li><a href="/photos.html">Photos</a></li>
+      <li><a href="/sounds.html">Sounds</a></li>
+      <li><a href="https://github.com/halfbyte">Codes</a></li>
+    </ol>
+    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+    new TWTR.Widget({
+      version: 2,
+      type: 'profile',
+      rpp: 10,
+      interval: 6000,
+      width: 'auto',
+      height: 300,
+      theme: {
+        shell: {
+          background: '#ccc',
+          color: '#000000'
+        },
+        tweets: {
+          background: '#fff',
+          color: '#000000',
+          links: 'blue'
+        }
       },
-      tweets: {
-        background: '#f1e5b7',
-        color: '#000000',
-        links: '#c5003e'
+      features: {
+        scrollbar: true,
+        loop: false,
+        live: true,
+        hashtags: true,
+        timestamp: true,
+        avatars: false,
+        behavior: 'all'
       }
-    },
-    features: {
-      scrollbar: true,
-      loop: false,
-      live: true,
-      hashtags: true,
-      timestamp: true,
-      avatars: false,
-      behavior: 'all'
-    }
-  }).render().setUser('halfbyte').start();
-  </script>
+    }).render().setUser('halfbyte').start();
+    </script>
+
+    <h3>Feeds</h3>
+    <ol>
+      <li><a href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}">RSS 2.0</a></li>
+      <li><a href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}">ATOM</a></li>
+    </ol>
 
 
+    <p>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Every <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> on this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-License</a>, if not stated differently.
+    </p>
+
+
+  </section>
 </div>
 
 
-
-<div class="span-24 last" id="footer">
-  &copy; Jan Krutisch
-  | powered by <a href="http://wiki.github.com/mojombo/jekyll/">jekyll</a>
-  | layout based on <a href="http://www.blueprintcss.org/">blueprint css</a>
-</div>
+<section class="footer">
+  <p>&copy; Jan Krutisch</p>
+  <p>powered by <a href="http://wiki.github.com/mojombo/jekyll/">jekyll</a></p>
+  <p>layout based on <a href="http://cssgrid.net/">1140 css grid and compass</a></p>
+</section>
 
 <script type="text/javascript">
 //<![CDATA[

@@ -4,3 +4,7 @@ exclude:
   - tools
   - lib
   - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - config.rb
+  - sass

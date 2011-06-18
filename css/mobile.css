@@ -36,9 +36,10 @@ img, object, embed {
 /* line 4, ../sass/partials/_layout.sass */
 .header, .footer, .navigation {
   width: 100%;
-  max-width: 1140px;
-  margin: 0 auto;
-  overflow: hidden;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 /* line 7, ../sass/partials/_layout.sass */
@@ -63,16 +64,20 @@ img, object, embed {
 /* line 22, ../sass/partials/_layout.sass */
 .main {
   width: 100%;
-  max-width: 1140px;
-  margin: 0 auto;
-  overflow: hidden;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 /* line 25, ../sass/partials/_layout.sass */
 .sidebar {
-  width: 22.15%;
-  margin-right: 3.8%;
-  float: left;
+  width: auto;
+  float: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
   margin-right: 0px;
 }
 /* line 28, ../sass/partials/_layout.sass */
@@ -82,9 +87,12 @@ img, object, embed {
 
 /* line 31, ../sass/partials/_layout.sass */
 .content {
-  width: 74.05%;
-  margin-right: 3.8%;
-  float: left;
+  width: auto;
+  float: none;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /* line 1, ../sass/partials/_typography.sass */
