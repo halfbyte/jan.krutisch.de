@@ -1,0 +1,32 @@
+---
+title: Datenschutzerklärung
+layout: default
+---
+h2. Datenschutzerklärung
+
+Wir erheben, speichern und nutzen Ihre personenbezogenen Daten nach den Vorschriften der Datenschutzgesetze. In dieser Erklärung wollen wir Sie darüber informieren, welche Arten von Daten wir zu welchen Zwecken verarbeiten und welche Rechte Ihnen zustehen.
+
+h3. Anonymisierte Datenerhebung und -verarbeitung auf dieser Internetseite
+
+Auf unserem Server werden automatisch Log-File- Daten, die über Ihren Browser an uns übermittelt werden, erhoben und in einer internen Protokolldatei gesichert. Es handelt sich um folgende Daten:
+
+* Typ und Version des von Ihnen verwendeten Browsers,
+* Typ und Version des von Ihnen verwendeten Betriebssystems,
+* URL der Seite, über die Sie zu uns gelangt sind,
+* Suchworte, über die Sie unsere Seite gefunden haben,
+* Datum und Uhrzeit des Abrufs unserer Website,
+* Name der von Ihnen abgerufenen Unterseiten.
+
+Diese Daten erheben und verarbeiten wir in anonymisierter Form, sie können einer bestimmten Person nicht zugeordnet werden. Zweck der Datenerhebung und Datenverarbeitung ist die Auswertung zu internen systembezogenen und statistischen Zwecken.
+
+h3. Cookies
+
+Alle der der von uns verwendeten Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch wieder von ihrem Rechner gelöscht. Über Ihre Browsereinstellungen haben Sie die Möglichkeit, Cookies abzulehnen, Cookies von Ihrem Rechner zu löschen, Cookies zu blockieren oder vor dem Setzen eines Cookies angefragt zu werden.
+
+h3. Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglicht. Die durch den Cookie erzeugten Informationen über Ihre Benutzung diese Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten der Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+h3. Auskunftsrecht, Berichtigung, Sperrung und Löschen von Daten
+
+Wir erteilen Ihnen auf Anfrage jederzeit unentgeltlich Auskunft über die zu ihrer Person gespeicherten Daten, über deren Herkunft, über die Empfänger sowie über den Zweck der Speicherung. Die Auskunft können Sie unter den unten benannten Kontaktdaten einholen. Bei Vorliegen der gesetzlichen Voraussetzungen haben Sie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Wenden Sie sich hierzu bitte an die folgende Email-Adresse: "jan+datenschutz@krutisch.de":mailto:jan+datenschutz@krutisch.de

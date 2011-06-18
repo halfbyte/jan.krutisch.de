@@ -67,7 +67,7 @@ img, object, embed {
 
 /* line 22, ../sass/partials/_layout.sass */
 .sidebar {
-  width: 22.15%;
+  width: 30.8%;
   margin-right: 3.8%;
   float: left;
   margin-right: 0px;
@@ -83,7 +83,7 @@ img, object, embed {
 
 /* line 30, ../sass/partials/_layout.sass */
 .content {
-  width: 74.05%;
+  width: 65.4%;
   margin-right: 3.8%;
   float: left;
 }

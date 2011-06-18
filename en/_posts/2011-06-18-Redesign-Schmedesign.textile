@@ -1,0 +1,13 @@
+---
+title: Redesign, Schmedesign
+layout: post
+---
+Yeah, right. I did a big bang relaunch on this blog. Well, not really, it took me about 6 hours, markup changes were minimal, but the whole thing is a little more sematic now and actually is html5. I used "Andy Taylor's":http://www.andytlr.com/ excellent "1140 responsive grid":http://cssgrid.net/, in form of the "eleven40 compass extension":https://github.com/zombor/eleven40-compass from "Jeremy Bush":http://zombor.net (I ran across some issues with it, hopefull I'll find the time to fix them soon).
+
+The rationale of this redesign was to cut down on visual complexity. It is now more or less one of those "standard, two column, image on top, large font, serif text, sans-serif headlines" blog templates. I used two of the proposed font stacks from the excellent "Revised Font Stack":http://www.awayback.com/revised-font-stack/ article by Amrinder Sandhu, to be not completely in boring-land with Helvetica and Times New Roman or something like that. I am happy with the design for now, although I would love to apply some "Wowo":http://wolfgangwopperer.com/ style baseline nazi love to it somewhere in teh futare.
+
+And, yes, I implanted a small Adsense Ad on the page.
+
+How do you like it? Lemme know on "the twitters":http://twitter.com/halfbyte or in the comments. Thank you for your business.
+
+Now I only need to write more often.
