@@ -33,8 +33,14 @@ img, object, embed {
   max-width: 100%;
 }
 
+/* line 1, ../sass/partials/_layout.sass */
+.container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 /* line 4, ../sass/partials/_layout.sass */
-.header, .footer, .navigation {
+.header, .footer, .main {
   width: 100%;
   max-width: 1140px;
   margin: 0 auto;
@@ -47,8 +53,7 @@ img, object, embed {
   color: white;
   height: 211px;
   border-radius: 0 0 100px 0;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 /* line 15, ../sass/partials/_layout.sass */
@@ -61,26 +66,22 @@ img, object, embed {
 }
 
 /* line 22, ../sass/partials/_layout.sass */
-.main {
-  width: 100%;
-  max-width: 1140px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
-/* line 25, ../sass/partials/_layout.sass */
 .sidebar {
   width: 22.15%;
   margin-right: 3.8%;
   float: left;
   margin-right: 0px;
 }
-/* line 28, ../sass/partials/_layout.sass */
+/* line 25, ../sass/partials/_layout.sass */
 .sidebar ol {
   list-style-type: none;
 }
+/* line 27, ../sass/partials/_layout.sass */
+.sidebar .twitterbadge {
+  margin-bottom: 1em;
+}
 
-/* line 31, ../sass/partials/_layout.sass */
+/* line 30, ../sass/partials/_layout.sass */
 .content {
   width: 74.05%;
   margin-right: 3.8%;

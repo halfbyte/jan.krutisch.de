@@ -1,16 +1,16 @@
 .container
-  //+eleven40-container
+  +eleven40-container
   
-.header, .footer, .navigation
+.header, .footer, .main
   +eleven40-row
-
+  
 .header
   background: black url(/images/chrome/page-header.jpg) top left no-repeat
   color: white
   height: 211px
   border-radius: 0 0 100px 0
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
-  margin-bottom: 1em
+  // box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
+  margin-bottom: 2em
 
 .footer
   margin-top: 5em
@@ -19,14 +19,13 @@
   text-align: center
   padding-bottom: 2em
 
-.main
-  +eleven40-row
-
 .sidebar
   +eleven40-threecol
   +eleven40-last
   ol
     list-style-type: none
+  .twitterbadge
+    margin-bottom: 1em
     
 .content
   +eleven40-ninecol
