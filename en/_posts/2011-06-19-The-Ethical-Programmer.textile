@@ -1,0 +1,67 @@
+---
+title: The Ethical Programmer
+layout: post
+---
+This is somewhat of a complicated issue for me. I'm having a lot of discussions with fellow developers and colleagues on this and it seems to be very difficult to find some common ground here. But since it bugs me a lot and I am still very indifferent on the whole issue, I had to blog about it and kind of hoping to start a discussion amongst us, the developer community.
+
+So, here's the question: Do we have, as developers, have some kind of moral obligation to choose projects to work on which follow certain ethical standards. If so, what might these standards look like? 
+
+For me, there are actually a few *solid* lines. I would never work for a company that builds weapons, for example. I would never work for organisations that are downright, and knowingly so, criminal. Beyond those lines, things tend to get blurry very very fast. Take Apple, for example (just picking it because of it's current popularity, could probably pick any consumer electronics vendor). While working at cupertino is certainly a cool job and work ethics are valued relatively high at the company(take a look at their "It get's better" video, for example), you still would work for a company that manufactures their computers in factories where people actually commit suicide during work. Well? How would you decide?
+
+But let's dismount the high horse - I'm aiming lower. Actually so low that "ethical" sounds a bit huge. 
+
+Actually, I want to turn this completely around, from negative selection to positive: Are you, am I working on something that makes the world a better place? The internet a better place? Does it make people happy? Does it help people doing their jobs better, making their lives better?
+
+Because, in the end, that's what I want to aim for, as a programmer, as a citizen, as a human being.
+
+*And, to be honest, I think that we're largely failing here.*
+
+<!-- more -->
+
+You see, I'm a german. And I am largely working for startups. And the german startup scene...
+
+...sorry. Had to go to the basement to not scare my neighbours with excessive swearing.
+
+I often ramble about the useless copycat-ism of the german startup scene. I am especially fond of the Samwer brothers, who are extremly successful (and admired by many for that) in building clones of US apps, making them big in Europe and then selling them to "the original"(th). They got their first big monies from selling their dot-com startup to eBay (Was it alando? Abacho? Do I care?) and lately got some comical amount of money for their City Deals platform they sold to Groupon. We'll get back to the Samwers later.
+
+Now, I spent huge amounts of this spring actually building a copycat, namely "rent-n-roll":http://rent-n-roll.de, a clone of platforms like "whipcar":http://www.whipcar.com/ and "relayrides":http://relayrides.com which all do p2p car rentals. And I was hugely enjoying it. Why that double standard?
+
+Well, first of all, all p2p car rental sites seem to focus very much on their local markets so far. UK's Whipcar very much focuses on the london area (clever move, huh?) and Relayrides actually takes city by city in the US, very carefully and slowly.
+
+There are actually a few german contenders and it's not completely clear yet if the model would work at all in car-fetishist-land-germany, but we actually felt that we had something serious to add (in this case, mostly insurance related stuff and building an app that's not completely broken in terms of UX). So, yes, I think, in building the app we were actually making the internet a better place. And the world. Kinda.
+
+Back to the Samwer brothers. They seem to be genuinly non-interested in making the world a better place. It's not too cynical to say that all they are interested in is to make their wallets a richer place, an endeavour in which they seem to be very successful.
+
+Their latest baby is a platform called Wimdu, which is, more or less, a 1:1 copycat of "AirBnB":http://www.airbnb.com/, a wildly successful US startup that currently revolutionizes on-the-road accomodation by letting people rent out beds or flats directly to people visiting the city. Let's just say, if I would own a cheap hotel or a youth hostel, I wouldn't be too happy about this trend. 
+
+Now, Wimdu has been accused by AirBnB for using "shady business tactics":http://techcrunch.com/2011/06/09/airbnb/ and I am only mildly surprised. Because, in the end, what you have to do to make such a business strategy successful is owning the market, in this case, Europe. That's why City Deals, in the end, had more than 600 employees, most of them working in sales, before being sold to Groupon. Same now happens with wimdu.
+
+*Disclaimer:* My employer, "mindmatters":http://www.mindmatters.de/, has been working, for a short period of time, for another "AirBnB":http://www.airbnb.com/ copycat, called 9flats. I found that problematic. I haven't been on the team, though and only found out about the actual type of application post launch, as the team was told to be silent about it. I found that problematic - but that's another story.
+
+*Disclaimer:* A group of people I would call friends, or at least "fellow developers" still work, as freelancers or contractors, for 9flats. We occasionally have pretty awkward conversations about it. We usually agree to disagree.
+
+So, let's keep shady business tactics away for a moment. Let's say it's totally unproblematic to copy an application screen by screen on your employers request. How do apps like wimdu and 9flats make the internet a better place? The world? How do they make people happier? Can you come up with a useful answer here, without ridiculing yourself utterly and completely?
+
+Because, you know what? AirBnB works perfectly on the European market. Because, on the inside, it is a very, very simple business model without huge local differences. 
+
+Well, to be honest, there's one aspect which makes local adaptions possible, and that is international payment issues: For example, credit cards are not as popular in some European countries. Does that justify a million dollar rat race of three companies for European Championship Of Peer To Peer Roomsharing? Yeah, sure, why not. Wait, what?
+
+Another thought: Does the world really need another couponing platform? Ah, well, let's not go there, I don't have my Kleenex at hand to wipe up my tears of despair.
+
+And, to drive home my point, let me put aside copycat-ism for a little while. For example, we've been working, in 2010, for a startup that shall remain unnamed, which actually had a very cool core idea. A very technically challenging one, as well. But then, their business model was completely focused on ads, and therefore traffic, and therefore Google. If you have ever worked on a business completely focused on SEO, you know what this means: It means optimizing your platform for a very specific user, namely the Googlebot. What it doesn't mean is building a good product for the other pesky folks: The humans. Which means that in the end you're building a less-than-subpar product which is best read with the eyes of a googlebot. And in the process, we actually made the internet a bit worse by spamming the google index with links to a platform that largely wasn't working very well but displayed highly profitable ads. Adding insult to injury, the client turned out the be somewhat of a dick. And that is the nicest way of putting it. 
+
+Needless to say, making the internet or the world a better place wasn't very high on *their* list of priorities.
+
+So, I find it problematic to work for those kind of projects. Other fellow developers have less problems with that. They may, in some cases, even find it refreshing to be part of some kind of challenge on world domination. Which I can relate to, at least a little.
+
+In the end, to be completely honest, as much as I would like to claim that these "ethical" rules are imperative for my selection of projects, I must admit, that I am, too, utterly failing at this.
+
+But, you know what: I'd very much like to change that. As much as possible. It's actually hard if you are working at a company which is selling services, because it's not always you deciding what to work on and it's not always possible to be choosy about your clients (Sidenote: That's why it's always a huge satisfaction to decide not to work for a specific client, if you're able to). But, does it need that way? The current need of developers actually gives us a lot of power in that respect. We *could* say no.
+
+So, whenever I *am* able to chose, whenever I *have* the means of saying no, please do me a favour and hold me accountable on this:
+
+*I want to build stuff that makes the world and the internet a better place. If possible, exclusively so.*
+
+If you feel the same and you need help on something, please let me know. There's also a company full of people that largely feel the same on this as I do, which is why I am still enjoying working for "mindmatters":http://www.mindmatters.de/.
+
+A closing personal message to my friends and fellow developers: I am not out to judge you. As I said, I am not very good at this myself, mostly. But I want this to become *my own* "ethical" baseline. And if you can relate to that, feel free to join me here. Let's be our own judges on this. If you have diffenrent views on this, please share. If, in the end, this starts a discussion on the ethical baselines of our profession, I will be the happiest person on earth.
