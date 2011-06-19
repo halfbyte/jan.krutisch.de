@@ -22,7 +22,7 @@ You see, I'm a german. And I am largely working for startups. And the german sta
 
 ...sorry. Had to go to the basement to not scare my neighbours with excessive swearing.
 
-I often ramble about the useless copycat-ism of the german startup scene. I am especially fond of the Samwer brothers, who are extremly successful (and admired by many for that) in building clones of US apps, making them big in Europe and then selling them to "the original"(th). They got their first big monies from selling their dot-com startup to eBay (Was it alando? Abacho? Do I care?) and lately got some comical amount of money for their City Deals platform they sold to Groupon. We'll get back to the Samwers later.
+I often ramble about the useless copycat-ism of the german startup scene. I am especially fond of the Samwer brothers, who are extremly successful (and admired by many for that) in building clones of US apps, making them big in Europe and then selling them to "the original"(TM). They got their first big monies from selling their dot-com startup to eBay (Was it alando? Abacho? Do I care?) and lately got some comical amount of money for their City Deals platform they sold to Groupon. We'll get back to the Samwers later.
 
 Now, I spent huge amounts of this spring actually building a copycat, namely "rent-n-roll":http://rent-n-roll.de, a clone of platforms like "whipcar":http://www.whipcar.com/ and "relayrides":http://relayrides.com which all do p2p car rentals. And I was hugely enjoying it. Why that double standard?
 
@@ -38,7 +38,9 @@ Now, Wimdu has been accused by AirBnB for using "shady business tactics":http://
 
 *Disclaimer:* My employer, "mindmatters":http://www.mindmatters.de/, has been working, for a short period of time, for another "AirBnB":http://www.airbnb.com/ copycat, called 9flats. I found that problematic. I haven't been on the team, though and only found out about the actual type of application post launch, as the team was told to be silent about it. I found that problematic - but that's another story.
 
-*Disclaimer:* A group of people I would call friends, or at least "fellow developers" still work, as freelancers or contractors, for 9flats. We occasionally have pretty awkward conversations about it. We usually agree to disagree.
+*Disclaimer:* A group of people I would call friends, or at least "fellow developers" still work, as freelancers or contractors, for 9flats. When we talk about it, it can get awkward. I must admit that I so far usually avoided talking about it, because of that awkwardness. 
+
+_(Meta-Disclaimer: I changed the wording here, because it didn't feel exactly right. Go look it up in "git":http://github.com/halfbyte/jan.krutisch.de, if you're interested in the original)_
 
 So, let's keep shady business tactics away for a moment. Let's say it's totally unproblematic to copy an application screen by screen on your employers request. How do apps like wimdu and 9flats make the internet a better place? The world? How do they make people happier? Can you come up with a useful answer here, without ridiculing yourself utterly and completely?
 
