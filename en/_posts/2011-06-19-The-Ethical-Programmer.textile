@@ -58,7 +58,7 @@ So, I find it problematic to work for those kind of projects. Other fellow devel
 
 In the end, to be completely honest, as much as I would like to claim that these "ethical" rules are imperative for my selection of projects, I must admit, that I am, too, utterly failing at this.
 
-But, you know what: I'd very much like to change that. As much as possible. It's actually hard if you are working at a company which is selling services, because it's not always you deciding what to work on and it's not always possible to be choosy about your clients (Sidenote: That's why it's always a huge satisfaction to decide not to work for a specific client, if you're able to). But, does it need that way? The current need of developers actually gives us a lot of power in that respect. We *could* say no.
+But, you know what: I'd very much like to change that. As much as possible. It's actually hard if you are working at a company which is selling services, because it's not always you deciding what to work on and it's not always possible to be choosy about your clients (Sidenote: That's why it's always a huge satisfaction to decide not to work for a specific client, if you're able to). But, does it need to be that way? The current need for developers actually gives us a lot of power in that respect. We *could* say no.
 
 So, whenever I *am* able to chose, whenever I *have* the means of saying no, please do me a favour and hold me accountable on this:
 
