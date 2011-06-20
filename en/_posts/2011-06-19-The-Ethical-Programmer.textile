@@ -36,11 +36,11 @@ Their latest baby is a platform called Wimdu, which is, more or less, a 1:1 copy
 
 Now, Wimdu has been accused by AirBnB for using "shady business tactics":http://techcrunch.com/2011/06/09/airbnb/ and I am only mildly surprised. Because, in the end, what you have to do to make such a business strategy successful is owning the market, in this case, Europe. That's why City Deals, in the end, had more than 600 employees, most of them working in sales, before being sold to Groupon. Same now happens with wimdu.
 
-*Disclaimer:* My employer, "mindmatters":http://www.mindmatters.de/, has been working, for a short period of time, for another "AirBnB":http://www.airbnb.com/ copycat, called 9flats. I found that problematic. I haven't been on the team, though and only found out about the actual type of application post launch, as the team was told to be silent about it. I found that problematic - but that's another story.
+*Disclosure:* My employer, "mindmatters":http://www.mindmatters.de/, has been working, for a short period of time, for another "AirBnB":http://www.airbnb.com/ copycat, called 9flats. I found that problematic. I haven't been on the team, though and only found out about the actual type of application post launch, as the team was told to be silent about it. I found that problematic - but that's another story.
 
-*Disclaimer:* A group of people I would call friends, or at least "fellow developers" still work, as freelancers or contractors, for 9flats. When we talk about it, it can get awkward. I must admit that I so far usually avoided talking about it, because of that awkwardness. 
+*Disclosure:* A group of people I would call friends, or at least "fellow developers" still work, as freelancers or contractors, for 9flats. When we talk about it, it can get awkward. I must admit that I so far usually avoided talking about it, because of that awkwardness. 
 
-_(Meta-Disclaimer: I changed the wording here, because it didn't feel exactly right. Go look it up in "git":http://github.com/halfbyte/jan.krutisch.de, if you're interested in the original)_
+_(Meta-Disclosure: I changed the wording here, because it didn't feel exactly right. Go look it up in "git":http://github.com/halfbyte/jan.krutisch.de, if you're interested in the original)_
 
 So, let's keep shady business tactics away for a moment. Let's say it's totally unproblematic to copy an application screen by screen on your employers request. How do apps like wimdu and 9flats make the internet a better place? The world? How do they make people happier? Can you come up with a useful answer here, without ridiculing yourself utterly and completely?
 
