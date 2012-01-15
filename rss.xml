@@ -8,7 +8,8 @@ layout: nil
     <link>http://jan.krutisch.de</link>
     <language>en</language>
     <webMaster>jan@krutisch.de (Jan Krutisch)</webMaster>
-    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <copyright>Copyright 2004-2009</copyright>
     <ttl>60</ttl>
     <description>An ongoing conversation between Jan Krutisch and the Interwebs on nothing in particular.</description>
@@ -16,7 +17,7 @@ layout: nil
     <item>
       <title>{{ post.title }}</title>
       <link>http://jan.krutisch.de{{ post.url }}</link>
-      <pubDate>{{ post.date }}</pubDate>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z"}}</pubDate>
       <guid>http://jan.krutisch.de{{ post.url }}/</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>

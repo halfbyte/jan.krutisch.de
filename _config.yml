@@ -8,3 +8,4 @@ exclude:
   - Gemfile.lock
   - config.rb
   - sass
+  - drafts

@@ -8,7 +8,7 @@ layout: nil
  <link href="http://jan.krutisch.de/atom.xml" rel="self"/>
  <link href="http://jan.krutisch.de/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://jan.krutisch.de</id>
+ <id>http://jan.krutisch.de/</id>
  <author>
    <name>Jan Krutisch</name>
    <email>jan@krutisch.de</email>
