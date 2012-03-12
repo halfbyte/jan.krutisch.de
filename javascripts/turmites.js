@@ -115,7 +115,6 @@
   window.onload = function() {
     if (!isCanvasSupported() || !areTypedArraysSupported()) return;
     var turmites = new CanvasTurmites();
-    console.log(turmites);
     var step = function() {
       turmites.turmiteStep();
       requestAnimationFrame(step);
