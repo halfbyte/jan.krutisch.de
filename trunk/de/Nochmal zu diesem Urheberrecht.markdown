@@ -1,0 +1,14 @@
+---
+title: Nochmal zu diesem Urheberrecht
+layout: post
+---
+Ich habe das in meinem Radiointerview, das ich als Folge auf meinen Artikel führen durfte, sehr uneloquent und umständlich erwähnt, aber ich dachte, es lohnt sich, das nochmal kurz auszuführen: Das Urheberrecht ist nie als Recht eines Urhebers gegenüber einem privaten Endverbraucher gedacht gewesen. Das war auch zu nicht-digitalen Zeiten überwiegend nicht notwendig. Worum ging es? Es ging darum, einem Autor (das Urheberrecht ist in der Zeit entstanden, in der sich Buchdruck durchgesetzt hat) zu ermöglichen mit seinem Geschreibsel Geld zu verdienen, in dem er an einzelne Drucker das Recht veräussern konnte, seine Texte zu drucken. Dass der Endverbraucher in diesem Konstrukt nicht auftaucht, ist vollkommen logisch: Der hat ja am Ende höchstens das Buch oder die Zeitung in der Hand - Eine Kopie eines Buches ist ohne digitale Hilfsmittel eher nichts, was man als Privatperson bewerkstelligen würde. Ähnliches gilt später für die Kopie von Schallplatten oder ähnlichen. 
+
+Mit der Einführung der Kompaktkasette einerseits und dem Kopierer andererseits entstanden im späten 20sten Jahrhuntert das erste Mal Gelegenheiten für Privatpersonen, mit begrenztem Aufwand überhaupt Kopien von irgendwas zu ziehen. Vollkommen überraschend wurden beide Erfindungen von den Urheber-Vertretern (GEMA und VG Wort im deutschen Raum) relativ schnell mit sog. Urheberrechts-Abgaben belegt. 
+
+Man bezahlt also bei einem Kopierer die theoretisch darauf erstellten Kopien von Urheberrechtlich geschützten Materialien gleich mit. Bei einem schnellen Kopierer aktuell bis zu ca. 90 EUR. Und dies nur, um den privaten Bereich abzudecken, in dem nach deutschem Recht in einem sehr engen Rahmen Kopien für den Eigenbedarf erlaubt sind. Denn natürlich ist es trotz dieser Urheberrechtsabgabe nach wie vor eine strafbare Urheberrechtsverletzung, von einem Werk per Kopierer einen Abdruck zu erstellen und diese Kopie dann zu veräussern.
+
+Problematisch wird diese "erlaubte" Privatkopie in dem Moment, in dem durch die Digitalisierung diese Kopiererei quasi zu einem nicht-Vorgang geworden ist sondern einfach passiert. Nicht wenige Rechtler waren damals, zu Napster-Zeiten durchaus der Ansicht, Napster könnte durch das Boten-Privileg und die Nutzer durch das Recht auf die Privatkopie geschützt sein. Das dies letztendlich nicht so ausgelegt wurde ist an sich schon betrachtenswert und ist tatsächlich nur mit der zunehmenden Radikalisierung des Urheberrechts auf politischer und auch rechtlicher Ebene zu erklären. Marcel Weiss hat dazu eine ganz erkleckliche Sammlung an Materialien zusammengestellt.
+
+Doch zurück zum Ursprung. Eines war das Urheberrecht nämlich auch nie: Ein Eigentumsrecht. Auch das stellt Marcel in seinem aktuellen Artikel zur Modernisierung des Urheberrechts sehr gut dar. Das gibt es im Bereich der geistigen Schöpfungen übrigens nirgendwo, denn auch Patente laufen nach einer gewissen Zeit aus.
+

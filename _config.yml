@@ -9,3 +9,4 @@ exclude:
   - config.rb
   - sass
   - drafts
+  - trunk
