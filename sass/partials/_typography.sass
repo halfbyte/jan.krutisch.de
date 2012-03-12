@@ -1,23 +1,31 @@
+$headline-family: "ff-cocon-web-pro-1","ff-cocon-web-pro-2", "Verdana", sans-serif
+
+$text-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif
+
 body
-  font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif
+  font-family: $text-family
+  background-color: #FFE
 
 a
   &:link, &:visited
-    color: #008
+    color: #080
     text-decoration: none
   &:hover
     text-decoration: underline
 
-.header
+header
+  nav
+    font-family: $headline-family
+    font-weight: light
   h1
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
-    height: 211px
-    line-height: 211px
-    margin: 0 30px
+    font-family: $headline-family
+    height: 111px
+    line-height: 111px
+    margin: 100px 30px 0 30px
     font-weight: black
     font-size: 3em
-    text-shadow: 0px 0px 5px rgba(255, 255, 0, 0.4)
-    a
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4)
+    a:link, a:visited
       text-decoration: none
       color: white
     span
@@ -25,8 +33,23 @@ a
       font-weight: normal
 
 
+.posts-overview
+  time
+    margin-bottom: 0.2em
+    margin-top: -1em
+    margin-left: 2em
+
+.posts-compact
+  font-family: $headline-family
+
+.more-link
+  display: block
+  text-align: right
+  margin-bottom: 2em
+  font-family: $headline-family
+
 h2, h3, h4, h5
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+  font-family: $headline-family
   margin-bottom: 0.5em
   span
     font-style: italic
@@ -40,6 +63,14 @@ h2, h3, h4, h5
       color: #444
     &:hover
       text-decoration: underline
+
+time
+  font-family: $headline-family
+  font-weight: light
+  display: block
+  font-size: 0.8em
+  margin-top: -0.5em
+  margin-bottom: 1em
 
 blockquote
   margin-left: 2em
@@ -63,8 +94,8 @@ ol, ul
   p
     margin-bottom: 1em
 
-.footer
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif
+footer
+  font-family: $headline-family
   
   
 ul.posts

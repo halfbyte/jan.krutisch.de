@@ -1,23 +1,54 @@
+@import 'compass/css3'
+
+
 .container
   +eleven40-container
+  +background(linear-gradient(#DDC, #FFE 10em))
+  padding-top: 2em
+  padding-bottom: 4em
   
 .header, .footer, .main
   +eleven40-row
   
-.header
-  background: black url(/images/chrome/page-header.jpg) top left no-repeat
-  color: white
-  height: 211px
-  border-radius: 0 0 100px 0
-  // box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
-  margin-bottom: 2em
+header
+  +eleven40-container
+  background: #000
+  .headline
+    +eleven40-row
+    background: transparent url(/images/chrome/head_green.jpg) top left no-repeat
+    height: 201px
+    h1
+      color: white
+    // box-shadow: 2px 2px 5px rgba(0,0,0,0.4)
 
-.footer
-  margin-top: 5em
-  box-shadow: -2px 0 20px rgba(0,0,0,0.4)
+  nav
+    +eleven40-row
+    ol
+      list-style-type: none
+      margin: 0
+      padding: 0
+      li
+        display: block
+        float: left
+
+        a:link, a:visited
+          display: block
+          padding: 5px 20px 5px 0
+          color: white
+        
+
+footer
+  +background(linear-gradient(#222, #000))
+  +eleven40-container
+  background: black
+  color: white
+  
   padding-top: 2em
-  text-align: center
   padding-bottom: 2em
+  p
+    +eleven40-row
+  a:link, a:visited
+    color: #ccc
 
 .sidebar
   +eleven40-fourcol

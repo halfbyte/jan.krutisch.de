@@ -10,7 +10,7 @@
   <link href="/css/smallscreen.css" media="only screen and (max-width: 1023px)" rel="stylesheet" type="text/css" />
   <link href="/css/mobile.css" media="handheld, only screen and (max-width: 767px)" rel="stylesheet" type="text/css" />
 
-  <meta name = "viewport" content = "width = device-width, initial-scale = 1, user-scalable = no">
+  <meta name = "viewport" content = "width=device-width, initial-scale=1">
 
   <link rel="openid2.provider" href="http://www.myopenid.com/server" />
   <link rel="openid.server"    href="http://www.myopenid.com/server" />
@@ -25,15 +25,29 @@
   <link href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
   <link href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}" rel="alternate" title="RSS Feed" type="application/rss+xml" />
   <title>{{page.title}} - jan.krutisch.de</title>
+
+  <script type="text/javascript" src="http://use.typekit.com/olr8jex.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 
 <body>
+<header>
+  <div class="headline">
+    <h1> <a href="/">Jan Krutisch</a> <span>...maker. breaker. crush groover. body mover.</span></h1>
+  </div>
+  <nav>
+    <ol>
+      <li><a href="/">Home</a></li>      
+      <li><a href="/blog.html">Blog</a></li>
+      <li><a href="/writings.html">Writing</a></li>
+      <li><a href="/speaking.html">Speaking</a></li>
+      <li><a href="/coding.html">Coding</a></li>
+    </ol>
+  </nav>
+</header>
 
 <div class="container">
 
-  <section class="header">
-    <h1> <a href="/">Jan Krutisch</a> <span>...maker. breaker. crush groover. body mover.</span></h1>
-  </section>
 
   <div class="main">
     <section class="content">
@@ -43,20 +57,28 @@
 
 
     <section class="sidebar">
+      <h3>Contact me...</h3>
+      <ol>
+        <li><a href="mailto:jan+www@krutisch.de">...via Email</a></li>
+        <li>
+          <a href="skype:JanKrutisch?chat">...via Skype</a>
+          <!--
+Skype 'My status' button
+http://www.skype.com/go/skypebuttons
+-->
+<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
+<a href="skype:JanKrutisch?chat"><img src="http://mystatus.skype.com/smallicon/JanKrutisch" style="vertical-align: middle; border: none;" width="16" height="16" alt="My status" /></a>
+
+        </li>        
+        <li><a href="http://twitter.com/halfbyte">...on Twitter</a></li>
+        <li>...or by Telephone: +49-175-2935345</li>
+      </ol>
 
       <h3>Blog</h3>
       <ol>
         <li><a href="/blog.html">Latest blog articles</a> (<a href="/archive.html">all</a>)</li>
         <li><a href="/de">German articles</a> (<a href="/de/archive.html">all</a>)</li>
         <li><a href="/en">English articles</a> (<a href="/en/archive.html">all</a>)</li>
-      </ol>
-      <h3>Me and my stuff</h3>
-      <ol>
-        <li><a href="/">About me</a></li>
-        <li><a href="/writings.html">Writings</a></li>
-        <li><a href="/photos.html">Photos</a></li>
-        <li><a href="/sounds.html">Sounds</a></li>
-        <li><a href="https://github.com/halfbyte">Codes</a></li>
       </ol>
       <h3>Twitters</h3>
       <div class="twitterbadge">
@@ -97,20 +119,6 @@
         <li><a href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}">RSS 2.0</a></li>
         <li><a href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}">ATOM</a></li>
       </ol>
-      <h3>Oh, ads!</h3>
-      <div class="google-ads">
-        <script type="text/javascript"><!--
-        google_ad_client = "ca-pub-2515875254722674";
-        /* Square Me */
-        google_ad_slot = "5600036536";
-        google_ad_width = 250;
-        google_ad_height = 250;
-        //-->
-        </script>
-        <script type="text/javascript"
-        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-        </script>
-      </div>
       <h3>License</h3>
       <p>
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Every <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Text</span> on this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons-License</a>, if not stated differently.
@@ -121,16 +129,16 @@
   </div>
 
 
-  <section class="footer">
-    <p>&copy; Jan Krutisch</p>
-    <p>powered by <a href="http://wiki.github.com/mojombo/jekyll/">jekyll</a></p>
-    <p>layout based on <a href="http://cssgrid.net/">1140 css grid and compass</a></p>
-    <p>
-      <a href="/imprint.html">Imprint/ Impressum</a> |
-      <a href="/de/datenschutz.html">Datenschutz</a>
-    </p>
-  </section>
 </div>
+<footer>
+  <p>&copy; Jan Krutisch</p>
+  <p>powered by <a href="http://wiki.github.com/mojombo/jekyll/">jekyll</a></p>
+  <p>layout based on <a href="http://cssgrid.net/">1140 css grid and compass</a></p>
+  <p>
+    <a href="/imprint.html">Imprint/ Impressum</a> |
+    <a href="/de/datenschutz.html">Datenschutz</a>
+  </p>
+</footer>
 <script type="text/javascript">
 //<![CDATA[
 (function() {

@@ -11,6 +11,8 @@ That being said, sometimes change is just inevitable. For me, it has been since 
 
 So, that's change on a totally personal level and that's totally not what I was going to write about - Nevertheless, with someone who doesn't draw very distinct lines between personal and professional life, it plays an important part.
 
+<!-- more -->
+
 From that time on, a lot of things started to happen at once. First of all, although I loved (and still do) working at [mindmatters](http://mindmatters.de/), I started to look for alternatives - I wanted to, so to speak, level-up my work life. Which is actually not that easy, especially at an awesome place like mindmatters. So, I only have had two valid ideas back then: Founding a startup (and maybe applying for something like HACKFWD) or going freelance. Now, I've been doing freelance work before (during my studies) and I always hated the overhead of writing invoices, making sure that people pay me, etc, etc. Also, what we do at mindmatters is mostly client work, and going freelance would basically mean doing the same thing, with less security, less awesome colleagues and bosses, less project management support and slightly higher pay.
 
 Then Florian, my colleague and foodie inspiration number one, convinced our founders (at mindmatters, that is) to open an office in london - I won't go into the details why we think that this is a brilliant idea - that's a whole different blog post and not one I should write, but of course I was keen to look at it and in the beginning I was quite sure that I would end up in London at the beginning of 2012. 

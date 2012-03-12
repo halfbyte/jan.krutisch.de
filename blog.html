@@ -6,11 +6,12 @@ current: blog
 <ul class="posts">
   {% for post in site.posts limit: 10 %}
     <li>
-      <h3 class="post-headline"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h3 class="post-headline"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <time>{{ post.date | date_to_string }}</time>
       <div class="post-content">
         {{ post.short_content }}
         {% if post.has_more? %}
-          <a href="{{ post.url }}#more">read more...</a>
+          <a href="{{ post.url }}#more" class="more-link">read more...</a>
         {% endif %}
       </div>
     </li>
