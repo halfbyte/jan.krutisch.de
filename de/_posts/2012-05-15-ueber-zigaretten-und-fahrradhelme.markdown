@@ -1,6 +1,6 @@
 ---
 titel: Über Zigaretten und Fahrradhelme
-layout: posts
+layout: post
 ---
 Disclaimer vorweg: Ich bin natürlich Nichtraucher und fahre (allerdings erst seit ein paar Monaten) fast immer mit Fahrradhelm.
 
