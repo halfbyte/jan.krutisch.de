@@ -28,4 +28,4 @@ Thats why you should learn coding.
 
 And if you've lost your angst about computers and you found fun in programming them, you can start to work really, really hard for a few years and you'll become a software developer. It's a glorious thing. Or at least lucrative, so I'm told. But that's not what's important. 
 
-Thanks. <3 <3 <3
+Thanks. &lt;3 &lt;3 &lt;3
