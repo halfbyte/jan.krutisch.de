@@ -19,15 +19,36 @@
 
   <meta http-equiv="X-XRDS-Location" content="http://halfbyte.myopenid.com" />
 
+  <meta property="og:title" content="{{page.title}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="https://secure.gravatar.com/avatar/b5b39c8f21b5bb1ab97852ed32c888ab?s=120&r=pg&d=https%3A%2F%2Fflattr.com%2F_img%2Faut11-user-placeholder-large.png" />
+
   <!-- last updated at {{ site.time }} -->
   <!-- last updated at {{ page.current }} -->
   
-  <link href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
-  <link href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}" rel="alternate" title="RSS Feed" type="application/rss+xml" />
+  <link href="{{page.feed_prefix}}/atom.xml" rel="alternate" title="ATOM Feed" type="application/atom+xml" />
+  <link href="{{page.feed_prefix}}/rss" rel="alternate" title="RSS Feed" type="application/rss+xml" />
   <title>{{page.title}} - jan.krutisch.de</title>
 
   <script type="text/javascript" src="http://use.typekit.com/olr8jex.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  (function() {
+      var s = document.createElement('script');
+      var t = document.getElementsByTagName('script')[0];
+
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//api.flattr.com/js/0.6/load.js?mode=auto&uid=halfbyte';
+
+      t.parentNode.insertBefore(s, t);
+   })();
+  /* ]]> */
+  </script>
+
+
 </head>
 
 <body>
@@ -116,8 +137,8 @@ http://www.skype.com/go/skypebuttons
       </div>
       <h3>Feeds</h3>
       <ol>
-        <li><a href="http://feeds.feedburner.com/jankrutisch/rss{{page.feed_prefix}}">RSS 2.0</a></li>
-        <li><a href="http://feeds.feedburner.com/jankrutisch/atom{{page.feed_prefix}}">ATOM</a></li>
+        <li><a href="{{page.feed_prefix}}/rss.xml">RSS 2.0</a></li>
+        <li><a href="{{page.feed_prefix}}/atom.xml">ATOM</a></li>
       </ol>
       <h3>License</h3>
       <p>

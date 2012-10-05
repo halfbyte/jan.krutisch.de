@@ -3,8 +3,8 @@ require 'bundler/setup'
 require 'jekyll'
 require 'jekyll_ext'
 
-ssh_user      = "jan@headflash.com"   # for rsync deployment
-document_root = "~/jan.krutisch.de/"    # for rsync deployment
+ssh_user      = "web@vetinari.krutisch.de"   # for rsync deployment
+document_root = "/srv/web/jan.krutisch.de/"    # for rsync deployment
 
 
 
