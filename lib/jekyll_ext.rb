@@ -5,7 +5,7 @@ module Jekyll
   
   class Post
     def transform
-      self.content.gsub!(/<!-- *more *-->/, "<!--more--><span id='more'>&nbsp;</span>")
+      self.content.gsub!(/<!-- *more *-->/, "&#20;<!--more--><span id='more'>&nbsp;</span>")
       self.content = converter.convert(self.content)
     end
 
