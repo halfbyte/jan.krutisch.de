@@ -22,5 +22,7 @@ Yes, glad you asked, I do have a timeline in mind: I would love to have some for
 
 I'll open up a mailing list signup pretty soon, but for now feel free to follow [@singlepageapp](http://twitter.com/singlepageapp) on twitter or follow the [plus page](https://plus.google.com/116966206897994963341/) or like the [facebook page](http://facebook.com/thesinglepageapp) (collect'em all!), I'll try to keep all these places updated on my progress.
 
+The official page will be [thesinglepageapp.com](http://thesinglepageapp.com), but I am the first one to admit that it's largely placeholder content for now.
+
 You can also expect some more blogging activity here, and I'll try to follow Mathias' example and will share my experience as much as I'll be able to.
 
