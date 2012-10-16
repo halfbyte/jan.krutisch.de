@@ -1,11 +1,11 @@
 module Jekyll
-    
+
   module Convertible
   end
-  
+
   class Post
     def transform
-      self.content.gsub!(/<!-- *more *-->/, "&#20;<!--more--><span id='more'>&nbsp;</span>")
+      self.content.gsub!(/<!-- *more *-->/, "&nbsp;<!--more--><span id='more'>&nbsp;</span>")
       self.content = converter.convert(self.content)
     end
 
@@ -14,11 +14,11 @@ module Jekyll
       return self.content if pos.nil?
       self.content[0,pos]
     end
-    
+
     def has_more?
       !!self.content.match(/<!-- *more *-->/)
     end
-    
+
     def to_liquid
       self.data.deep_merge({
         "title"      => self.data["title"] || self.slug.split('-').select {|w| w.capitalize! || w }.join(' '),
@@ -33,6 +33,6 @@ module Jekyll
         "short_content" => self.short_content,
         "has_more?"  => self.has_more? }.deep_merge(self.data))
     end
-    
+
   end
 end

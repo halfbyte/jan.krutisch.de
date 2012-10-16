@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 25
 layout: post
 title: Rails Presentation @ Lehmanns Fachbuchhandlung Hamburg
@@ -8,7 +8,7 @@ wordpress_url: http://localhost3000.de/2007/07/06/rails-presentation-lehmanns-fa
 
 We'll sign books, too. :)
 
-Place: <a href="http://www.lob.de/">Lehmanns Fachbuchhandlung</a>, <a href="http://maps.google.de/maps?f=q&amp;hl=de&amp;geocode=&amp;q=kurze+m%C3%BChren+6,+Hamburg&amp;sll=51.124213,10.546875&amp;sspn=10.528646,25.532227&amp;ie=UTF8&amp;z=16&amp;iwloc=addr&amp;om=1">Kurze Mühren 6</a>, Hamburg
+Place: <a href="http://www.lob.de/">Lehmanns Fachbuchhandlung</a>, <a href="http://maps.google.de/maps?f=q&amp;hl=de&amp;geocode=&amp;q=kurze+m%C3%BChren+6,+Hamburg&amp;sll=51.124213,10.546875&amp;sspn=10.528646,25.532227&amp;ie=UTF8&amp;z=16&amp;iwloc=addr&amp;om=1">Kurze MÃ¼hren 6</a>, Hamburg
 
 Time: Monday, 9th of July, 2007, 8pm
 

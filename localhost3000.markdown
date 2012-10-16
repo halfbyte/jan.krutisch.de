@@ -2,7 +2,7 @@
 layout: default
 title: Why the localhost3000.de thing
 ---
-# Why the localhost3000.de thing
+### Why the localhost3000.de thing
 
 When I started doing rails work, I had a blog (the first blog I've been writing in english) at localhost3000.de, detailing my progress into rails land. It was just a funny idea at the time to register that name and it actually had some interesting effects, I remember that I wanted to do something with jaiku (anyone remember that?) and somehow they blocked domains containing "localhost" in the form.
 

@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 74
 layout: post
 title: Another event test
 wordpress_url: http://localhost3000.de/?p=74
 ---
- 
+Â 
 <div id="hcalendar-Sums-it-up-best" class="vevent"><abbr class="dtstart" title="2009-03-11">March 11th</abbr> : <abbr class="dtend" title="2009-01-08">January 8th, 2009</abbr> <span class="summary">Sums it up best</span> at <span class="location">Nowhere</span>
 <div class="description">Just another event...</div>
 </div>

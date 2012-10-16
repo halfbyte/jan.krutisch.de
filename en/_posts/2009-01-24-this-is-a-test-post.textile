@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 72
 layout: post
 title: This is a test post
@@ -6,7 +6,7 @@ wordpress_url: http://localhost3000.de/?p=72
 ---
 Well, let's just say I'm working on some stuff for the german rails user group. Stuff to aggregate events. And I try to make this stuff as flexible as possible.
 
- 
+Â 
 <div id="hcalendar-The-day-it-happened." class="vevent"><abbr class="dtstart" title="2009-01-31T20:00+01:0000">January 31th 8pm</abbr> : <abbr class="dtend" title="2009-01-07">7th, 2009</abbr> <span class="summary">The day it happened.</span> at <span class="location">My Home</span>
 <div class="description">This is just a test event.</div>
 </div>

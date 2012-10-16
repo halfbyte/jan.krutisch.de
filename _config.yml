@@ -1,6 +1,6 @@
 pygments: true
 auto: true
-exclude: 
+exclude:
   - tools
   - lib
   - Rakefile

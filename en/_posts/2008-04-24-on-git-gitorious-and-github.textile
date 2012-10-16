@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 48
 layout: post
 title: On git, Gitorious and GitHub.
@@ -19,4 +19,4 @@ Oh and yes, there's also repo.or.cz. Let's not forget that one. (Actually that's
 
 Summary? All of these initiatives are a great step into git's world domination. They are, in general, fun to work with and all of them (I hope) are here to stay for good.
 
-Next stop: Distributed Bugtracking. <a href="http://ditz.rubyforge.org">Ditz</a> is a start (I use it on the beforementioned project), The Gitorious' very own <a href="http://groups.google.com/group/gitorious/browse_thread/thread/40a541377060cb34">Johan Sørensen</a> is at it (at least in thought) and searching <a href="http://bugseverywhere.org/be/show/HomePage">brings</a> <a href="http://www.distract.wellquite.org/">up</a> <a href="http://www.ditrack.org/">a</a> <a href="http://rubyforge.org/projects/ticgit/">few</a> more contenders. (Too bad, I run out of links...) - The issue I have with most of them is that they are not SCM agnostic (ditz is, btw.) which kind of disqualifies those systems in a way that I don't want my bugtracker to lock me in on the used SCM technology - lock-ins are always a bad sign).
+Next stop: Distributed Bugtracking. <a href="http://ditz.rubyforge.org">Ditz</a> is a start (I use it on the beforementioned project), The Gitorious' very own <a href="http://groups.google.com/group/gitorious/browse_thread/thread/40a541377060cb34">Johan SÃ¶rensen</a> is at it (at least in thought) and searching <a href="http://bugseverywhere.org/be/show/HomePage">brings</a> <a href="http://www.distract.wellquite.org/">up</a> <a href="http://www.ditrack.org/">a</a> <a href="http://rubyforge.org/projects/ticgit/">few</a> more contenders. (Too bad, I run out of links...) - The issue I have with most of them is that they are not SCM agnostic (ditz is, btw.) which kind of disqualifies those systems in a way that I don't want my bugtracker to lock me in on the used SCM technology - lock-ins are always a bad sign).

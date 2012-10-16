@@ -1,3 +1,4 @@
+# encoding: utf-8
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), 'lib'))
 require 'bundler/setup'
 require 'jekyll'
@@ -90,7 +91,7 @@ namespace :site do
     t = Thread.new {
       s.start
     }
-    
+
     trap("INT") { s.shutdown }
     t.join()
 
