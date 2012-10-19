@@ -1,0 +1,38 @@
+.book-promo {
+  .book-cover {
+    font-family: Georgia, "Times New Roman", serif;
+    display: block;
+    text-decoration: none;
+    color: #ffe;
+    width: 150px;
+    height: 225px;
+    border: 15px solid black;
+    padding: 3px;
+    background: #4975c8 url(http://thesinglepageapp.com/images/penguin-head.png) bottom right no-repeat;
+    background-size: 75%;
+    @include transition(all 0.2s ease);
+    @include rotate(-5deg);
+    @include border-radius(7px);
+    text-align: center;
+    h1 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 0.75em;
+      margin: 0 0 1em 0;
+      color: #ffe;
+      &.intro {
+        margin: 2em 0 0 0;
+
+      }
+    }
+    p {
+      font-family: Georgia, "Times New Roman", serif;
+      margin-bottom: 0.2em;
+      font-size: 0.5em;
+    }
+    margin: 1em auto 1em auto;
+    @include box-shadow(rgba(0,0,0,0.5) 10px 10px 20px);
+    &:hover {
+      @include rotate(-2deg);
+    }
+  }
+}

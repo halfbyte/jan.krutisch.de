@@ -1,4 +1,4 @@
-/* line 8, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 8, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
 address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
@@ -7,33 +7,33 @@ fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   padding: 0;
 }
 
-/* line 14, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 14, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 article, aside, figure, figure img, figcaption, hgroup, footer, header, nav, section,
 video, object {
   display: block;
 }
 
-/* line 17, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 17, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 a img {
   border: 0;
 }
 
-/* line 20, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 20, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 figure {
   position: relative;
 }
 
-/* line 23, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 23, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 figure img {
   width: 100%;
 }
 
-/* line 27, ../../../../.rvm/gems/ruby-1.8.7-p358@jkde/gems/eleven40-1.2/stylesheets/eleven40/reset/_utilities.scss */
+/* line 27, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 img, object, embed {
   max-width: 100%;
 }
 
-/* line 4, ../sass/partials/_layout.sass */
+/* line 4, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .container {
   width: 100%;
   margin-left: 0px;
@@ -50,7 +50,7 @@ img, object, embed {
   padding-bottom: 4em;
 }
 
-/* line 10, ../sass/partials/_layout.sass */
+/* line 10, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .header, .footer, .main {
   width: 100%;
   margin-left: 0px;
@@ -59,7 +59,7 @@ img, object, embed {
   padding-right: 0px;
 }
 
-/* line 13, ../sass/partials/_layout.sass */
+/* line 13, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header {
   width: 100%;
   margin-left: 0px;
@@ -68,7 +68,7 @@ header {
   padding-right: 0px;
   background: black;
 }
-/* line 16, ../sass/partials/_layout.sass */
+/* line 16, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header .headline {
   width: 100%;
   margin-left: 0px;
@@ -78,11 +78,11 @@ header .headline {
   background: transparent url(/images/chrome/head_green.jpg) top left no-repeat;
   height: 201px;
 }
-/* line 20, ../sass/partials/_layout.sass */
+/* line 20, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header .headline h1 {
   color: white;
 }
-/* line 24, ../sass/partials/_layout.sass */
+/* line 24, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header nav {
   width: 100%;
   margin-left: 0px;
@@ -90,25 +90,25 @@ header nav {
   padding-left: 0px;
   padding-right: 0px;
 }
-/* line 26, ../sass/partials/_layout.sass */
+/* line 26, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header nav ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-/* line 30, ../sass/partials/_layout.sass */
+/* line 30, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header nav ol li {
   display: block;
   float: left;
 }
-/* line 34, ../sass/partials/_layout.sass */
+/* line 34, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 header nav ol li a:link, header nav ol li a:visited {
   display: block;
   padding: 5px 20px 5px 0;
   color: white;
 }
 
-/* line 40, ../sass/partials/_layout.sass */
+/* line 40, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 footer {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #222222), color-stop(100%, #000000));
   background: -webkit-linear-gradient(#222222, #000000);
@@ -126,7 +126,7 @@ footer {
   padding-top: 2em;
   padding-bottom: 2em;
 }
-/* line 48, ../sass/partials/_layout.sass */
+/* line 48, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 footer p {
   width: 100%;
   margin-left: 0px;
@@ -134,12 +134,12 @@ footer p {
   padding-left: 0px;
   padding-right: 0px;
 }
-/* line 50, ../sass/partials/_layout.sass */
+/* line 50, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 footer a:link, footer a:visited {
   color: #cccccc;
 }
 
-/* line 53, ../sass/partials/_layout.sass */
+/* line 53, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .sidebar {
   width: auto;
   float: none;
@@ -149,22 +149,26 @@ footer a:link, footer a:visited {
   padding-right: 20px;
   margin-right: 0px;
 }
-/* line 56, ../sass/partials/_layout.sass */
+/* line 56, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .sidebar ol {
   list-style-type: none;
 }
-/* line 58, ../sass/partials/_layout.sass */
+/* line 58, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .sidebar .twitterbadge {
   margin-bottom: 1em;
 }
-/* line 60, ../sass/partials/_layout.sass */
+/* line 60, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .sidebar .google-ads {
   text-align: center;
   margin: 0 auto 1em auto;
   width: 180px;
 }
+/* line 65, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
+.sidebar .lanyrd-target-splat {
+  margin-bottom: 1em;
+}
 
-/* line 65, ../sass/partials/_layout.sass */
+/* line 68, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_layout.sass */
 .content {
   width: auto;
   float: none;
@@ -174,28 +178,28 @@ footer a:link, footer a:visited {
   padding-right: 20px;
 }
 
-/* line 7, ../sass/partials/_typography.sass */
+/* line 7, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 body {
   font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   background-color: #ffffee;
 }
 
-/* line 12, ../sass/partials/_typography.sass */
+/* line 12, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 a:link, a:visited {
   color: #008800;
   text-decoration: none;
 }
-/* line 15, ../sass/partials/_typography.sass */
+/* line 15, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 a:hover {
   text-decoration: underline;
 }
 
-/* line 19, ../sass/partials/_typography.sass */
+/* line 19, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 header nav {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
   font-weight: light;
 }
-/* line 22, ../sass/partials/_typography.sass */
+/* line 22, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 header h1 {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
   height: 111px;
@@ -205,30 +209,30 @@ header h1 {
   font-size: 3em;
   text-shadow: black 0px 0px 5px;
 }
-/* line 30, ../sass/partials/_typography.sass */
+/* line 30, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 header h1 a:link, header h1 a:visited {
   text-decoration: none;
   color: white;
 }
-/* line 33, ../sass/partials/_typography.sass */
+/* line 33, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 header h1 span {
   font-size: 0.5em;
   font-weight: normal;
 }
 
-/* line 39, ../sass/partials/_typography.sass */
+/* line 39, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .posts-overview time {
   margin-bottom: 0.2em;
   margin-top: -1em;
   margin-left: 2em;
 }
 
-/* line 44, ../sass/partials/_typography.sass */
+/* line 44, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .posts-compact {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
 }
 
-/* line 47, ../sass/partials/_typography.sass */
+/* line 47, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .more-link {
   display: block;
   text-align: right;
@@ -236,12 +240,12 @@ header h1 span {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
 }
 
-/* line 53, ../sass/partials/_typography.sass */
+/* line 53, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 h2, h3, h4, h5 {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
   margin-bottom: 0.5em;
 }
-/* line 56, ../sass/partials/_typography.sass */
+/* line 56, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 h2 span, h3 span, h4 span, h5 span {
   font-style: italic;
   font-weight: 100;
@@ -249,17 +253,17 @@ h2 span, h3 span, h4 span, h5 span {
   display: block;
   height: 1.1em;
 }
-/* line 63, ../sass/partials/_typography.sass */
+/* line 63, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 h2 a:link, h2 a:visited, h3 a:link, h3 a:visited, h4 a:link, h4 a:visited, h5 a:link, h5 a:visited {
   text-decoration: none;
   color: #444444;
 }
-/* line 66, ../sass/partials/_typography.sass */
+/* line 66, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   text-decoration: underline;
 }
 
-/* line 69, ../sass/partials/_typography.sass */
+/* line 69, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 time {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
   font-weight: light;
@@ -269,13 +273,13 @@ time {
   margin-bottom: 1em;
 }
 
-/* line 77, ../sass/partials/_typography.sass */
+/* line 77, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 blockquote {
   margin-left: 2em;
   font-style: italic;
 }
 
-/* line 83, ../sass/partials/_typography.sass */
+/* line 83, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 #disqus_thread h2 span, #disqus_thread h3 span, #disqus_thread h4 span, #disqus_thread h5 span {
   font-size: inherit;
   font-weight: inherit;
@@ -284,34 +288,98 @@ blockquote {
   font-style: inherit;
 }
 
-/* line 90, ../sass/partials/_typography.sass */
+/* line 90, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 ol, ul {
   margin-bottom: 1em;
 }
 
-/* line 93, ../sass/partials/_typography.sass */
+/* line 93, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .content, .sidebar {
   line-height: 1.3em;
   font-size: 1.2em;
 }
-/* line 96, ../sass/partials/_typography.sass */
+/* line 96, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .content p, .sidebar p {
   margin-bottom: 1em;
 }
 
-/* line 99, ../sass/partials/_typography.sass */
+/* line 99, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 footer {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
 }
 
-/* line 103, ../sass/partials/_typography.sass */
+/* line 103, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 ul.posts {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-/* line 10, ../sass/mobile.sass */
+/* line 2, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_book.scss */
+.book-promo .book-cover {
+  font-family: Georgia, "Times New Roman", serif;
+  display: block;
+  text-decoration: none;
+  color: #ffe;
+  width: 150px;
+  height: 225px;
+  border: 15px solid black;
+  padding: 3px;
+  background: #4975c8 url(http://thesinglepageapp.com/images/penguin-head.png) bottom right no-repeat;
+  background-size: 75%;
+  -moz-transition-property: all 0.2s ease;
+  -webkit-transition-property: all 0.2s ease;
+  -o-transition-property: all 0.2s ease;
+  transition-property: all 0.2s ease;
+  -moz-transition-duration: 1s;
+  -webkit-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+  -moz-transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -o-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -khtml-border-radius: 7px;
+  border-radius: 7px;
+  text-align: center;
+  margin: 1em auto 1em auto;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 20px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 20px;
+  -o-box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 20px;
+  box-shadow: rgba(0, 0, 0, 0.5) 10px 10px 20px;
+}
+/* line 17, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_book.scss */
+.book-promo .book-cover h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.75em;
+  margin: 0 0 1em 0;
+  color: #ffe;
+}
+/* line 22, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_book.scss */
+.book-promo .book-cover h1.intro {
+  margin: 2em 0 0 0;
+}
+/* line 27, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_book.scss */
+.book-promo .book-cover p {
+  font-family: Georgia, "Times New Roman", serif;
+  margin-bottom: 0.2em;
+  font-size: 0.5em;
+}
+/* line 34, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_book.scss */
+.book-promo .book-cover:hover {
+  -moz-transform: rotate(-2deg);
+  -webkit-transform: rotate(-2deg);
+  -o-transform: rotate(-2deg);
+  -ms-transform: rotate(-2deg);
+  transform: rotate(-2deg);
+}
+
+/* line 13, ../sass/mobile.sass */
 .header h1 {
   font-size: 2em;
 }
