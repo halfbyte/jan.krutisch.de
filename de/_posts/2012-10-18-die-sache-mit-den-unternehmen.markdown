@@ -35,3 +35,8 @@ Ein bisschen lame, aber ich mach's trotzdem. Hier, Grundgesetz Artikel 14, Absat
 > Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.
 
 Unternehmertum ist kein Selbstzweck. So lange wir das als Gesellschaft nicht begreifen und endlich anfangen, die Menschen, die die falschen, zynischen und ungerechten Entscheidungen treffen, dafür zu verurteilen anstatt sie sich hinter den anonymen Fassaden von "Unternehmen" verstecken zu lassen, kann Politik, im besten Falle, immer nur versuchen, durch weitere Regulierungen Schlupflöcher zu stopfen und so die gröbsten Schnitzer zu verhindern.
+
+Man kann das am Ende naiv nennen, und so tun, als wenn ich verlangen würde zur Lösung aller Probleme die komplette Erdbevölkerung auf den Mars zu verlagern. Man kann aber auch z.B. Leuten wie Umair Haque zuhören (bzw. sein Buch ["Betterness"](http://hbr.org/product/betterness-economics-for-humans/an/11135-PDF-ENG) lesen), die sich im Gegensatz zu mir auf wissenschaftlichem Niveau und gänzlich ohne den Verdacht dastehend, Naive Spinner zu sein, schon sehr lange mit dem Thema beschäftigen.
+
+Wie heisst es so schön im englischen: **We are better than this**.
+
