@@ -2,7 +2,7 @@
 title: Die Sache mit den Unternehmen
 layout: post
 ---
-Ich bin heute auf Twitter über Umwege auf ein paar Tweets von [@christiansoeder](twitter.com/christiansoeder) gestolpert, der mit der These aufwartete, dass es Unsinn sei, von Unternehmen zu Fordern, Werte zu haben oder zu entwickeln - Unternehmen seien dazu da, Geld zu verdienen und Werte könne man Unternehmen nur durch geeignete Regulierung durch die Politik vorgeben.
+Ich bin heute auf Twitter über Umwege auf ein paar Tweets von [@christiansoeder](http://twitter.com/christiansoeder) gestolpert, der mit der These aufwartete, dass es Unsinn sei, von Unternehmen zu Fordern, Werte zu haben oder zu entwickeln - Unternehmen seien dazu da, Geld zu verdienen und Werte könne man Unternehmen nur durch geeignete Regulierung durch die Politik vorgeben.
 
 Ich hab darauf hin eine sehr kurze Diskussion mit ihm gehabt, die er aber einseitig sehr schnell abgebrochen hat. Das will ich ihm nicht vorwerfen, ich war gefühlt einer von 200 Leuten, die ihn dafür verprügelt haben.
 
