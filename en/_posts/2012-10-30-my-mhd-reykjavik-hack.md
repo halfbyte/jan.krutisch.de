@@ -22,4 +22,7 @@ You can take a look at the source at the [githubs](http://github.com/halfbyte/be
 
 I love where this is going. I also love that I'll be giving a talk about this web synthesizer stuff at [codebits.eu](http://codebits.eu) in little more than a week (if the portuguese general strike will let me do it) and I'm pretty sure there will be a video of that available later on.
 
+(Here's a simple example on how to use the Web Audio API for synthesizer sounds I just plugged together)
+
+<iframe style="width: 100%; height: 300px" src="http://jsfiddle.net/halfbyte/Ta8QX/1/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
