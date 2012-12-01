@@ -26,9 +26,10 @@ Also, I have not yet decided on form (one large book or a collection of small bo
 
 Glad you asked, here's what I have in mind: I would love to have some form of test chapter online by mid-november, which incidentally will be when I'll be giving my next talks at [RailsIsrael](http://lanyrd.com/2012/railsisrael/) and [Codebits](http://codebits.eu). I'm currently not totally sure if this is realistic because it's been a while since I've had to crank out that much text. The next step will be a very rough beta release so that I can confidently start charging money for it, and my current plan says "end of this year", but I'll probably have to adjust that date at some point.
 
-I'll open up a mailing list signup pretty soon, but for now feel free to follow [@singlepageapp](http://twitter.com/singlepageapp) on twitter or follow the [plus page](https://plus.google.com/116966206897994963341/) or like the [facebook page](http://facebook.com/thesinglepageapp) (collect'em all!), I'll try to keep all these places updated on my progress.
+If you want me to keep you up to date on the progess, the best way will be to subscribe to ["The Single Page App Newsletter"](http://eepurl.com/qHcYj) (yes, a mouth full). I will try to come up with some nice goodies and some tips and tricks for the subscribers.
+
+You can also follow [@singlepageapp](http://twitter.com/singlepageapp) on twitter or follow the [plus page](https://plus.google.com/116966206897994963341/) or like the [facebook page](http://facebook.com/thesinglepageapp) (collect'em all!). I'll try to keep all these places updated on my progress as well.
 
 The official page will be [thesinglepageapp.com](http://thesinglepageapp.com), but I am the first one to admit that it's largely placeholder content for now.
 
 You can also expect some more blogging activity here, and I'll try to follow Mathias' example and will share my experience as much as I'll be able to.
-
