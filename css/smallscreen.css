@@ -1,4 +1,4 @@
-/* line 8, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 8, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
 address, cite, code, del, dfn, em, img, ins, q, small, strong, sub, sup, dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
@@ -7,28 +7,28 @@ fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
   padding: 0;
 }
 
-/* line 14, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 14, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 article, aside, figure, figure img, figcaption, hgroup, footer, header, nav, section,
 video, object {
   display: block;
 }
 
-/* line 17, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 17, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 a img {
   border: 0;
 }
 
-/* line 20, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 20, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 figure {
   position: relative;
 }
 
-/* line 23, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 23, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 figure img {
   width: 100%;
 }
 
-/* line 27, /Users/jan/.rvm/gems/ruby-1.9.3-p194@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
+/* line 27, /Users/jan/.rvm/gems/ruby-1.9.3-p362@jkde/gems/eleven40-1.2/lib/../stylesheets/eleven40/reset/_utilities.scss */
 img, object, embed {
   max-width: 100%;
 }
@@ -260,7 +260,19 @@ blockquote {
   font-style: italic;
 }
 
-/* line 83, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 81, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+.highlight {
+  margin-bottom: 1em;
+  padding: 1em;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/* line 89, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 #disqus_thread h2 span, #disqus_thread h3 span, #disqus_thread h4 span, #disqus_thread h5 span {
   font-size: inherit;
   font-weight: inherit;
@@ -269,27 +281,27 @@ blockquote {
   font-style: inherit;
 }
 
-/* line 90, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 96, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 ol, ul {
   margin-bottom: 1em;
 }
 
-/* line 93, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 99, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .content, .sidebar {
   line-height: 1.3em;
   font-size: 1.2em;
 }
-/* line 96, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 102, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 .content p, .sidebar p {
   margin-bottom: 1em;
 }
 
-/* line 99, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 105, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 footer {
   font-family: "ff-cocon-web-pro-1", "ff-cocon-web-pro-2", "Verdana", sans-serif;
 }
 
-/* line 103, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
+/* line 109, /Users/jan/Documents/projects/jan.krutisch.de/sass/partials/_typography.sass */
 ul.posts {
   list-style-type: none;
   margin: 0;
