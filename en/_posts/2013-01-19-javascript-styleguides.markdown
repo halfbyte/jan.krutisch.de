@@ -1,5 +1,5 @@
 ---
-title: Javascript Styleguides
+title: JavaScript Styleguides
 layout: post
 ---
 As an author of a soon-to-be-published book on JavaScript applications, I had to come up with a coding style to use in the examples I have in the book. So I wrote this article to explain my way of thinking about JavaScript coding styles.
