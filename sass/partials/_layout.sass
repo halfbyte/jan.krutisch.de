@@ -1,5 +1,5 @@
 @import 'compass/css3'
-
+@import "compass/utilities/general/clearfix"
 
 .container
   +eleven40-container
@@ -69,3 +69,22 @@ footer
   +eleven40-eightcol
 
 
+=imagebox
+  border: 2px solid black
+  float: left
+  width: 200px
+  margin-right: 1em
+  margin-bottom: 1em
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2)
+
+.project
+  +clearfix
+  
+  img.project-image
+    +imagebox
+
+.speaking-engagements
+  li
+    +clearfix
+    img
+      +imagebox
