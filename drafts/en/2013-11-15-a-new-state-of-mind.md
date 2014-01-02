@@ -1,0 +1,16 @@
+---
+title: A new state of mind
+layout: post
+---
+I haven't been blogging for a while. For about four months, to be exact. Now, I could claim that I was excruciatingly busy during the whole summer and that would be about right. I was. But some of my best blog posts came to life during extremly busy times and so that isn't a very good excuse.
+
+The real answer is probably that I am mostly out of words. I am (less than I want to, but still) working on books and that somehow works, but expressing my state of mind in a setting that somehow suggests (mind: by my own choice) that I should probably take a stand on the big issues at hand (Snowden, Climate catastrophies, the probably german coalition) seems to be more and more impossible to me.
+
+It's not that I don't have an opinion. I do. But the more we learn about the NSA, our own secret service and, probably even more important, our politician's reaction to all those revelations (to just use one of those issues at hand as an example), the more a very strong dissonance appears: Every one I know and I talk to thinks that these issues demand an outrage of enormous proportions. The thing that doesn't happen: An outrage of enormous proportions. And so one wonders: What good does it do to have a strong opinion except for self-assurance in my own peer group?
+<!-- more -->
+Now, for someone who was largely raised in the 80's, this is not only a very stressful, life-altering experience, it is also very, very interesting to look at from an external perspective. You know, I start to get old now. Many people I interact with on a daily basis are younger that 24. In case you're wondering, if you're younger than 24, you've almost completely missed the complete breakdown of communism. 1989 - Germany's reunion. 1991 - USSR gets dismantled. Also 1991 - The endless conflict in Yugoslavia starts. Let me put it that way: If you're younger than 24, you have no reason to doubt Mrs. Thatcher's famous "There is no alternative". Because, if you're younger than 24, you've grown up together with neoliberal capitalism full stop and no other system ever was able to challenge that.
+
+The thing is: I agree. Currently we don't have an alternative. It's not that I could not come up with alternative models. But all of them challenge our current set of values on a level that makes me think that it is impossible to even talk about this in our current society. Here's a small list of things I think we would need to challenge:
+
+* Making money by owning money. The eternal conflict on money is the question of "is it okay to take an interest for lending money". It is a difficult question, but the basic idea that it's possible to make money by, essentially, having money, is, as money should be only an equivalent of something else (preferable something of "real" value, what ever that means) is, as I see it, responsible for a lot of the problems our societies have today.
+* Employment as the essential factor of your value to society. There are a bunch of problems with this.
