@@ -2,7 +2,7 @@
 title: A public service announcement
 layout: post
 ---
-I have three computers I use on and off. On all of them, I have a relatively long blog post draft lying around I haven't gotten around to finish and publish.
+I have three computers I use on and off. On each of them, I have a relatively long blog post draft lying around I haven't gotten around to finish and publish.
 
 That's not a good sign.
 
