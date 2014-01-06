@@ -4,7 +4,7 @@ layout: post
 ---
 So, finally, about at least two months after my original schedule, I started selling my book.
 
-![The Single Page App Jumpstart](http://thesinglepageapp.com/images/jumpstart-cover.jpg)
+![The Single Page App Jumpstart](/images/content/jumpstart-cover.jpg)
 
 It's been a tough decision. Not because I didn't think the book was ready (I always planned to release it as soon as I thought it had enough material to be interesting to people), but because I, after [Hendrik](http://mans.de) asked me if I knew [Leanpub](http://leanpub.com), basically threw 20-30 hours of work into the gutter and went for them instead of building the book on my own. 
 
