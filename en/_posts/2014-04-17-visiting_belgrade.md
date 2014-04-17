@@ -7,7 +7,7 @@ I don't remember the exact date and I can't find the needed data quickly (even W
 I'm not interested in discussing the details of this conflict and to be honest, I had to read up on it on Wikipedia because I seem to have forgotten most of the details. But I do remember that for me as a german citizen, it felt like the end of an era: Post-WWII Germany crossed a line I personally hoped would never again be crossed. Under a left/green government no less. 
 <!-- more -->
 
-<a href="https://www.flickr.com/photos/jankrutisch/13892290551" title="2014-04-02 17.32.17 HDR by Jan Krutisch, on Flickr"><img src="https://farm3.staticflickr.com/2932/13892290551_b158746267_m.jpg" width="240" height="180" alt="2014-04-02 17.32.17 HDR"></a>
+<a href="https://www.flickr.com/photos/jankrutisch/13892290551" title="2014-04-02 17.32.17 HDR by Jan Krutisch, on Flickr"><img src="https://farm3.staticflickr.com/2932/13892290551_b158746267.jpg" width="500" height="375" alt="2014-04-02 17.32.17 HDR"></a>
 
 I'm writing this, because last wednesday I boarded a plane in Vienna heading for Belgrade. And as our lovely AirBnB host carefully drove us through the traffic, she pointed out various army buildings that took hits during OFA. Due to the chronic underfunding of the city, these sites are either unchanged since the attacks or poorly disguised with huge textile billboards.
 
@@ -19,6 +19,8 @@ After resonate.io we joined our two girlfriends and continued to explore the cit
 
 And after that we came home to our [great AirBnB apartment](https://www.airbnb.de/rooms/831605) and basically just fell into our beds and slept.
 
-What's left after coming home with a really bad cold (and having to cancel two awesome events in 10 days) from one of the most impressive cities I've visited in a long time (Well. Jerusalem. Hard to beat that one, to be honest)?
+What's left after coming home with a really bad cold (and having to cancel two awesome events in 10 days. Also the reason why this post is so late) from one of the most impressive cities I've visited in a long time (Well. Jerusalem. Hard to beat that one, to be honest)?
 
 Belgrade is a mix. A totally eclectic mix of young and old. Fashioned and stone cold ugly. Relaxed and hectic (Mostly relaxed, though). Modern and hopelessly behind. A super modern Café slash Disco on a ship serving delicious food and drinks next to a sunken boat that probably was out of fashion 20 years ago. Belgrade is all of that. It deeply impressed me. Us. We'll probably all be back. Thanks for being so nice to us. Thanks for being so exhausting. Please keep your viruses to yourself next time, though (I'm not even sure we didn't bring them ourselves).
+
+([Go to flickr to see a quickly cobbled together photoset](https://www.flickr.com/photos/jankrutisch/sets/72157644100505594/)).
