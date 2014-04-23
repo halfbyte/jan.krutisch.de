@@ -1,0 +1,60 @@
+==================================================================
+https://keybase.io/halfbyte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jan.krutisch.de
+  * I am halfbyte (https://keybase.io/halfbyte) on keybase.
+  * I have a public key with fingerprint CF40 36B2 DBC8 83BA 29F1  3745 D400 34B1 A3E5 2A33
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "cf4036b2dbc883ba29f13745d40034b1a3e52a33",
+            "host": "keybase.io",
+            "key_id": "D40034B1A3E52A33",
+            "uid": "da35a4db58562db5bddd56574a32f900",
+            "username": "halfbyte"
+        },
+        "service": {
+            "hostname": "jan.krutisch.de",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396096430,
+    "expire_in": 157680000,
+    "prev": "834bd8dc1c134f6a5ce30cfa0286414129a1bedf8aa2f35a546de36046f64850",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.20 (Darwin)
+
+owE1kTtvFDEUhYclIIWHRBBlCuQSrVb2+LGeoQqvio4fMPi5603iGcbeDUuUniYS
+PaKBihRIdDRICAkJlIIGUUBDQw8FFQ32KrixfP2dc++xn1w8XQw2vhTk9Yuf1/Cp
+43d/ZHGPvX21D2Srl6DeB9tmtVnnJ6bveucjqIGyBGImSy0V51iKsrIIjwnVBEJM
+JBLY0FJgDIZg2oasSDZSBDNybaqlQ+N0qt5a8TfQFr5Ny60VP19daIGpIFpSTlnq
+QqXWmjI6JgKXtoIwg8H0XuyaRE/FjpXLaMDBEKTqwimTZ86tT4iZ8KPtfh5dUNOR
+Nkne9W1sVbuT5TF2oc7iuOwyvWdkc+LTSOd1yp4UC9MH13pQo0Sq6LIxwhWDFSMY
+DoF52LneNC4TdMw4TCv3MYtkydOzaK4VUggTywRVBkNlBSw5I4igshJIGm25EKVN
+2Slh2mAGCbOMcJoDB/PAt6AmaUwxSZbBTbyI8z7FfnxnrdgYFGfPDPLnFefWL/3/
+0tlR8XTta3P98ueX4WjT/z6++fdw/OvN9+LZ5qerF+4/+nj4/vy3D93d52539uPK
+Pw==
+=mMZ6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/halfbyte
+
+==================================================================
+
